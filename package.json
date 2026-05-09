@@ -1,0 +1,18 @@
+{
+  "name": "follow-investors",
+  "version": "0.1.0",
+  "description": "AI-powered digest tracking investment voices across X, podcasts, and newsletters",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-feed.js",
+    "prepare": "node scripts/prepare-digest.js",
+    "deliver": "node scripts/deliver.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}

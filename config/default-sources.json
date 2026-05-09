@@ -1,0 +1,182 @@
+{
+  "$schema": "./config-schema.json",
+  "description": "AI investment sources — fund managers, analysts, VCs, and industry voices",
+  "x": [
+    {
+      "handle": "leopoldasch",
+      "name": "Leopold Aschenbrenner",
+      "role": "Situational Awareness LP CIO",
+      "tag": "一手资金",
+      "note": "AGI maximalist with real positions. 13F trackable."
+    },
+    {
+      "handle": "altcap",
+      "name": "Brad Gerstner",
+      "role": "Altimeter Capital CEO",
+      "tag": "一手资金",
+      "note": "Early NVIDIA bull, OpenAI investor. 13F trackable."
+    },
+    {
+      "handle": "GavinSBaker",
+      "name": "Gavin Baker",
+      "role": "Atreides Management CIO",
+      "tag": "一手资金",
+      "note": "Ex-Fidelity OTC PM. Deep semiconductor supply chain knowledge."
+    },
+    {
+      "handle": "FundamentEdge",
+      "name": "Brett Caughran",
+      "role": "Ex-PM (Maverick/D.E.Shaw/Citadel/Schonfeld)",
+      "tag": "产业研究",
+      "note": "Shares hedge fund modeling frameworks for AI companies."
+    },
+    {
+      "handle": "CathieDWood",
+      "name": "Cathie Wood",
+      "role": "ARK Invest CEO",
+      "tag": "叙事温度",
+      "note": "Daily trade notifications (not full picture). Narrative signal, not trade signal."
+    },
+    {
+      "handle": "chamath",
+      "name": "Chamath Palihapitiya",
+      "role": "Social Capital CEO",
+      "tag": "叙事温度",
+      "note": "2026 pick: copper over AI stocks. Second-order thinker."
+    },
+    {
+      "handle": "saranormous",
+      "name": "Sarah Guo",
+      "role": "Conviction (AI VC) Founder",
+      "tag": "私有市场",
+      "note": "Pure AI VC. No Priors podcast host."
+    },
+    {
+      "handle": "AndrewYNg",
+      "name": "Andrew Ng",
+      "role": "AI Fund Managing GP",
+      "tag": "私有市场",
+      "note": "Tech depth + real capital deployment + commercial landing."
+    },
+    {
+      "handle": "dylan522p",
+      "name": "Dylan Patel",
+      "role": "SemiAnalysis Founder & CEO",
+      "tag": "产业研究",
+      "note": "GPU supply chain, custom ASICs, data center power. #1 semi analyst."
+    },
+    {
+      "handle": "LastBearStandng",
+      "name": "The Last Bear Standing",
+      "role": "Independent Analyst (IB+PE background)",
+      "tag": "产业研究",
+      "note": "Bear case / contrarian financial analysis. Risk management voice."
+    }
+  ],
+  "podcasts": [
+    {
+      "name": "In Good Company",
+      "host": "Nicolai Tangen (Norges Bank IM CEO)",
+      "rssUrl": "https://feeds.megaphone.fm/NBIM7126498498",
+      "youtubeHandle": "@noraborson",
+      "tag": "认知框架",
+      "note": "World's largest sovereign wealth fund CEO interviews Jamie Dimon, Druckenmiller, etc."
+    },
+    {
+      "name": "Acquired",
+      "host": "Ben Gilbert & David Rosenthal",
+      "rssUrl": "https://feeds.pacific-content.com/acquired",
+      "youtubeHandle": "@AcquiredFM",
+      "tag": "认知框架",
+      "note": "3-4 hour deep dives on tech companies. Nvidia/TSMC episodes are mandatory."
+    },
+    {
+      "name": "All-In Podcast",
+      "host": "Chamath / Calacanis / Sacks / Friedberg",
+      "rssUrl": "https://feeds.megaphone.fm/all-in-with-chamath-jason-sacks-and-friedberg",
+      "youtubeHandle": "@alaboroutai",
+      "tag": "叙事温度",
+      "note": "Four VCs with real portfolios debating markets, tech, policy, and AI."
+    },
+    {
+      "name": "No Priors",
+      "host": "Elad Gil & Sarah Guo",
+      "rssUrl": "https://feeds.transistor.fm/no-priors-ai",
+      "youtubeHandle": "@NoPriorsPodcast",
+      "tag": "私有市场",
+      "note": "AI builder perspective. Both hosts are active investors."
+    },
+    {
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "rssUrl": "https://feeds.megaphone.fm/investlikethebest",
+      "youtubeHandle": "@ILTB_Podcast",
+      "tag": "认知框架",
+      "note": "Best all-around investing interview show."
+    },
+    {
+      "name": "Odd Lots",
+      "host": "Joe Weisenthal & Tracy Alloway (Bloomberg)",
+      "rssUrl": "https://feeds.megaphone.fm/oddlots",
+      "youtubeHandle": null,
+      "tag": "产业研究",
+      "note": "Digs into weird, overlooked corners of markets."
+    }
+  ],
+  "newsletters": [
+    {
+      "name": "SemiAnalysis",
+      "url": "https://semianalysis.com/",
+      "author": "Dylan Patel",
+      "tag": "产业研究",
+      "note": "GPU supply chain, ASICs, data center power. Substack #1 in tech."
+    },
+    {
+      "name": "Fabricated Knowledge",
+      "url": "https://www.fabricatedknowledge.com/",
+      "author": "Doug O'Laughlin",
+      "tag": "产业研究",
+      "note": "Semiconductor manufacturing economics in investment language."
+    },
+    {
+      "name": "Elad Gil Blog",
+      "url": "https://blog.eladgil.com/",
+      "author": "Elad Gil",
+      "tag": "私有市场",
+      "note": "AI market structure analysis from a $1B+ solo GP."
+    },
+    {
+      "name": "Situational Awareness",
+      "url": "https://situational-awareness.ai/",
+      "author": "Leopold Aschenbrenner",
+      "tag": "一手资金",
+      "note": "AGI thesis with capital backing."
+    }
+  ],
+  "youtube": [
+    {
+      "handle": "@asianometry",
+      "name": "Asianometry (Jon Y)",
+      "tag": "产业研究",
+      "note": "Based in Taiwan. TSMC, ASML, chip geopolitics."
+    },
+    {
+      "handle": "@ARKInvest",
+      "name": "ARK Invest",
+      "tag": "叙事温度",
+      "note": "Cathie Wood's market commentary and research."
+    },
+    {
+      "handle": "@MeiTouJun",
+      "name": "美投讲美股",
+      "tag": "中文压缩",
+      "note": "8 full-time analysts, daily Chinese-language US stock analysis."
+    },
+    {
+      "handle": "@RealVisionFinance",
+      "name": "Real Vision",
+      "tag": "认知框架",
+      "note": "Raoul Pal (ex-Goldman). Netflix of finance."
+    }
+  ]
+}

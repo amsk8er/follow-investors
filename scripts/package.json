@@ -1,0 +1,10 @@
+{
+  "name": "follow-investors-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "undici": "^8.2.0"
+  }
+}
