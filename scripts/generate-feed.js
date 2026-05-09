@@ -3,12 +3,12 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import { homedir } from 'os';
-import { setGlobalDispatcher, ProxyAgent } from 'undici';
 
 config({ path: join(homedir(), '.follow-investors/.env') });
 
 const proxyUrl = process.env.HTTPS_PROXY || process.env.HTTP_PROXY;
 if (proxyUrl) {
+  const { setGlobalDispatcher, ProxyAgent } = await import('undici');
   setGlobalDispatcher(new ProxyAgent(proxyUrl));
   console.log(`[Net] using proxy ${proxyUrl}`);
 }
