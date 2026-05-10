@@ -2,88 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Sweden Brought Back DC Transmission",
-      "videoId": "6RplrP49uuk",
-      "url": "https://www.youtube.com/watch?v=6RplrP49uuk",
-      "publishedAt": "2026-05-03T23:00:08+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "An Interview with Josh Fisher | Inventing VLIW, Multiflow, Itanium, VLIW's Massive Success",
-      "videoId": "ZF8ohzWmuzI",
-      "url": "https://www.youtube.com/watch?v=ZF8ohzWmuzI",
-      "publishedAt": "2026-05-01T10:10:07+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Fanuc and the Numerical Control Revolution",
-      "videoId": "OgXm4G-qapA",
-      "url": "https://www.youtube.com/watch?v=OgXm4G-qapA",
-      "publishedAt": "2026-04-26T23:00:24+00:00"
-    },
-    {
-      "source": "youtube",
       "channel": "美投讲美股",
       "handle": "@MeiTouJun",
       "tag": "中文压缩",
-      "title": "AI产业已秘密转向！趁市场未动，这3大机会抓紧布局！",
-      "videoId": "cgKUgAJE3cs",
-      "url": "https://www.youtube.com/watch?v=cgKUgAJE3cs",
-      "publishedAt": "2026-05-03T13:11:15+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "马斯克又放大招！特斯拉发生3大变动，股价又要跌了？",
-      "videoId": "XOyG9mE-6KY",
-      "url": "https://www.youtube.com/watch?v=XOyG9mE-6KY",
-      "publishedAt": "2026-04-26T12:22:10+00:00"
+      "title": "三大风险齐聚！美股狂热即将终结？",
+      "videoId": "gM5wm2x7fi8",
+      "url": "https://www.youtube.com/watch?v=gM5wm2x7fi8",
+      "publishedAt": "2026-05-10T03:34:17+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "You Don’t Need to Code Anymore!",
-      "videoId": "M7houalQLdg",
-      "url": "https://www.youtube.com/watch?v=M7houalQLdg",
-      "publishedAt": "2026-05-09T13:00:40+00:00"
+      "title": "Sui Live: The Future of Finance | Miami 2026 | Including Adeniyi Abiodun, Raoul Pal, Guy Wuollet",
+      "videoId": "Y7D8ezalAuY",
+      "url": "https://www.youtube.com/watch?v=Y7D8ezalAuY",
+      "publishedAt": "2026-05-07T19:03:22+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Biggest Takeaways From Sui Live Miami 2026 | The Weekly Wrap-Up",
-      "videoId": "IIOGr6o163g",
-      "url": "https://www.youtube.com/watch?v=IIOGr6o163g",
-      "publishedAt": "2026-05-09T13:00:25+00:00"
+      "title": "This Hated Rally Could Go Much Higher",
+      "videoId": "IgNSEvVS6fQ",
+      "url": "https://www.youtube.com/watch?v=IgNSEvVS6fQ",
+      "publishedAt": "2026-05-07T12:00:28+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Best Time to Buy Feels Like This",
-      "videoId": "LnRp7cCN_d0",
-      "url": "https://www.youtube.com/watch?v=LnRp7cCN_d0",
-      "publishedAt": "2026-05-08T11:30:22+00:00"
+      "title": "An AI Skeptic Enters the Chat | Trading the Markets With AI",
+      "videoId": "d-7B0xkmyBI",
+      "url": "https://www.youtube.com/watch?v=d-7B0xkmyBI",
+      "publishedAt": "2026-05-07T05:38:38+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 8
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-05-09T14:23:36.170Z",
+  "generatedAt": "2026-05-10T07:58:00.037Z",
   "lookbackHours": 336
 }
