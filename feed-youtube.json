@@ -2,48 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "三大风险齐聚！美股狂热即将终结？",
-      "videoId": "gM5wm2x7fi8",
-      "url": "https://www.youtube.com/watch?v=gM5wm2x7fi8",
-      "publishedAt": "2026-05-10T03:34:17+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "General Motors’ Robot Debacle",
+      "videoId": "l8OWJwnnXUg",
+      "url": "https://www.youtube.com/watch?v=l8OWJwnnXUg",
+      "publishedAt": "2026-05-10T23:00:50+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Sui Live: The Future of Finance | Miami 2026 | Including Adeniyi Abiodun, Raoul Pal, Guy Wuollet",
-      "videoId": "Y7D8ezalAuY",
-      "url": "https://www.youtube.com/watch?v=Y7D8ezalAuY",
-      "publishedAt": "2026-05-07T19:03:22+00:00"
+      "title": "This Simple Mistake DESTROYS Traders!",
+      "videoId": "_Lb8gSKALmI",
+      "url": "https://www.youtube.com/watch?v=_Lb8gSKALmI",
+      "publishedAt": "2026-05-10T20:30:10+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Hated Rally Could Go Much Higher",
-      "videoId": "IgNSEvVS6fQ",
-      "url": "https://www.youtube.com/watch?v=IgNSEvVS6fQ",
-      "publishedAt": "2026-05-07T12:00:28+00:00"
+      "title": "THIS Why The Strait Of Hormuz Is So Important!",
+      "videoId": "LvsJ060vJbk",
+      "url": "https://www.youtube.com/watch?v=LvsJ060vJbk",
+      "publishedAt": "2026-05-05T12:30:24+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "An AI Skeptic Enters the Chat | Trading the Markets With AI",
-      "videoId": "d-7B0xkmyBI",
-      "url": "https://www.youtube.com/watch?v=d-7B0xkmyBI",
-      "publishedAt": "2026-05-07T05:38:38+00:00"
+      "title": "The WORST Time to SELL Is Right Now!",
+      "videoId": "nf7OEgEPjTc",
+      "url": "https://www.youtube.com/watch?v=nf7OEgEPjTc",
+      "publishedAt": "2026-05-04T22:01:03+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 4
   },
-  "generatedAt": "2026-05-10T07:58:00.037Z",
+  "generatedAt": "2026-05-11T09:00:13.016Z",
   "lookbackHours": 336
 }
