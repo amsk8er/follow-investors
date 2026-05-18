@@ -2,18 +2,68 @@
   "youtube": [
     {
       "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "The Little Vertical Laser That Everyone Uses",
+      "videoId": "XSNuyDA4800",
+      "url": "https://www.youtube.com/watch?v=XSNuyDA4800",
+      "publishedAt": "2026-05-17T23:00:23+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "00年互联网泡沫，半导体都发生了什么？悲剧重演？历史已给出答案！",
+      "videoId": "91yRxsdc0gA",
+      "url": "https://www.youtube.com/watch?v=91yRxsdc0gA",
+      "publishedAt": "2026-05-18T00:30:34+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "三大风险齐聚！美股狂热即将终结？",
+      "videoId": "gM5wm2x7fi8",
+      "url": "https://www.youtube.com/watch?v=gM5wm2x7fi8",
+      "publishedAt": "2026-05-10T03:34:17+00:00"
+    },
+    {
+      "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Tokenized Stocks, AI &amp; Crypto | Weekly Wrap-up",
-      "videoId": "-D747ps4ewM",
-      "url": "https://www.youtube.com/watch?v=-D747ps4ewM",
-      "publishedAt": "2026-05-16T13:00:00+00:00"
+      "title": "This Looks Exactly Like Early 2021!",
+      "videoId": "Hxby2RZ9q8U",
+      "url": "https://www.youtube.com/watch?v=Hxby2RZ9q8U",
+      "publishedAt": "2026-05-17T19:00:11+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "You Don’t Need to Code Anymore!",
+      "videoId": "M7houalQLdg",
+      "url": "https://www.youtube.com/watch?v=M7houalQLdg",
+      "publishedAt": "2026-05-09T13:00:40+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Biggest Takeaways From Sui Live Miami 2026 | The Weekly Wrap-Up",
+      "videoId": "IIOGr6o163g",
+      "url": "https://www.youtube.com/watch?v=IIOGr6o163g",
+      "publishedAt": "2026-05-09T13:00:25+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 6
   },
-  "generatedAt": "2026-05-17T08:11:13.752Z",
+  "generatedAt": "2026-05-18T09:42:07.751Z",
   "lookbackHours": 336
 }
