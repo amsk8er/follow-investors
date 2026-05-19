@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Brian Chesky - AI Founder Mode - [Invest Like the Best, EP.471]",
-      "guid": "6162ba8a-4843-11f1-b7b7-53d3b402f9a6",
-      "url": "https://colossus.com/episode/ai-founder-mode/",
-      "publishedAt": "Tue, 05 May 2026 08:00:00 -0000",
-      "description": "My guest today is Brian Chesky, the co-founder and CEO of Airbnb. Our conversation traces the path from his early training as an industrial designer at RISD through the pandemic moment that forced him into founder mode. He explains why he thinks AI founder mode will demand even more attention to the details and why founders are rarely good early CEOs. He walks through his eleven-star exercise, which is a way of imagining the most absurd version of a customer experience to achieve product market "
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-05-18T09:42:07.751Z",
+  "generatedAt": "2026-05-19T09:00:19.932Z",
   "lookbackHours": 336
 }
