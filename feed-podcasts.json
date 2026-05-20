@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]",
+      "guid": "3bc7d580-53ec-11f1-99c0-3bd245449e4f",
+      "url": "https://colossus.com/episode/watts-and-wafers/",
+      "publishedAt": "Wed, 20 May 2026 08:00:00 -0000",
+      "description": "My guest today is Gavin Baker, founding partner and CIO of Atreides Management, and this is our sixth conversation. The central theme is watts and wafers, the two physical constraints that in Gavin's view will dictate the next phase of AI. On power, he thinks the near-term shortage starts to ease in 2027 and 2028 as new sources of energy come online, and that orbital compute solves it in the long term. On wafers, he explains what is different this time from the dotcom bubble and why TSMC’s capac"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-05-19T09:00:19.932Z",
+  "generatedAt": "2026-05-20T08:55:18.416Z",
   "lookbackHours": 336
 }

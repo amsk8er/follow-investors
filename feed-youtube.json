@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "General Motors’ Robot Debacle",
-      "videoId": "l8OWJwnnXUg",
-      "url": "https://www.youtube.com/watch?v=l8OWJwnnXUg",
-      "publishedAt": "2026-05-10T23:00:50+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Recession That Never Came",
+      "videoId": "OZLWP2hmYMA",
+      "url": "https://www.youtube.com/watch?v=OZLWP2hmYMA",
+      "publishedAt": "2026-05-19T19:30:02+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Raoul Pal: “It’s All So Obvious” | Sui Live Maimi 2026",
-      "videoId": "jHXHDzur38o",
-      "url": "https://www.youtube.com/watch?v=jHXHDzur38o",
-      "publishedAt": "2026-05-18T20:27:12+00:00"
+      "title": "Clarity Act Clears a Milestone: Is This the Catalyst? | REKT Vision LIVE",
+      "videoId": "5TPb8VyRBqg",
+      "url": "https://www.youtube.com/watch?v=5TPb8VyRBqg",
+      "publishedAt": "2026-05-19T16:46:48+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Simple Mistake DESTROYS Traders!",
-      "videoId": "_Lb8gSKALmI",
-      "url": "https://www.youtube.com/watch?v=_Lb8gSKALmI",
-      "publishedAt": "2026-05-10T20:30:10+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The Best Time to Buy Feels Like This",
-      "videoId": "LnRp7cCN_d0",
-      "url": "https://www.youtube.com/watch?v=LnRp7cCN_d0",
-      "publishedAt": "2026-05-08T11:30:22+00:00"
+      "title": "The Next AI Trade | Trading the Markets LIVE @ 1pm ET",
+      "videoId": "FucwxDMW3RU",
+      "url": "https://www.youtube.com/watch?v=FucwxDMW3RU",
+      "publishedAt": "2026-05-19T16:44:40+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-05-19T09:00:19.932Z",
+  "generatedAt": "2026-05-20T08:55:18.416Z",
   "lookbackHours": 336
 }
