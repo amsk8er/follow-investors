@@ -1,19 +1,8 @@
 {
-  "newsletters": [
-    {
-      "source": "newsletter",
-      "name": "Fabricated Knowledge",
-      "author": "Doug O'Laughlin",
-      "tag": "产业研究",
-      "title": "Nvidia should buyback stock",
-      "url": "https://www.fabricatedknowledge.com/p/nvidia-should-buyback-stock",
-      "publishedAt": "Tue, 19 May 2026 14:34:11 GMT",
-      "description": "A quick take into earnings"
-    }
-  ],
+  "newsletters": [],
   "stats": {
-    "newsletterArticles": 1
+    "newsletterArticles": 0
   },
-  "generatedAt": "2026-05-20T08:55:18.416Z",
+  "generatedAt": "2026-05-21T08:58:27.085Z",
   "lookbackHours": 72
 }
