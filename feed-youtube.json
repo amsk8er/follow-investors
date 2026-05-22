@@ -2,38 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Macro Mondays with Andreas Steno &amp; Mikkel Rosenvold | LIVE at 10am ET",
-      "videoId": "b7i6zHLhSXg",
-      "url": "https://www.youtube.com/watch?v=b7i6zHLhSXg",
-      "publishedAt": "2026-05-20T17:54:40+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Intel's 30 Years in Costa Rica",
+      "videoId": "AU1iHfUdkBU",
+      "url": "https://www.youtube.com/watch?v=AU1iHfUdkBU",
+      "publishedAt": "2026-05-21T23:00:07+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "TRADES for a US vs China Cold War",
-      "videoId": "IEJr5ObAutU",
-      "url": "https://www.youtube.com/watch?v=IEJr5ObAutU",
-      "publishedAt": "2026-05-12T17:30:04+00:00"
+      "title": "EVERY Bank Is Moving to Blockchain Rails!",
+      "videoId": "HBCjwnq6QIc",
+      "url": "https://www.youtube.com/watch?v=HBCjwnq6QIc",
+      "publishedAt": "2026-05-21T20:00:18+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "“The US-China Power Race Is About Intelligence”",
-      "videoId": "tkT_tHBqv70",
-      "url": "https://www.youtube.com/watch?v=tkT_tHBqv70",
-      "publishedAt": "2026-05-11T21:00:50+00:00"
+      "title": "The Next AI Trade: Power, Chips, and Infrastructure | Trading the Markets with AI",
+      "videoId": "yxnXh_txHzs",
+      "url": "https://www.youtube.com/watch?v=yxnXh_txHzs",
+      "publishedAt": "2026-05-14T05:45:08+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 3
   },
-  "generatedAt": "2026-05-21T08:58:27.085Z",
+  "generatedAt": "2026-05-22T08:50:12.620Z",
   "lookbackHours": 336
 }

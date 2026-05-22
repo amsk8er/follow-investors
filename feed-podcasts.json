@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Krishna Rao - Anthropic's CFO on Compute, Scaling to $30B ARR, and the Returns to Frontier Intelligence - [Invest Like the Best, EP.472]",
-      "guid": "fdfca472-4e43-11f1-bf1a-cf5adcc9aeb5",
-      "url": "https://colossus.com/episode/cone-of-uncertainty/",
-      "publishedAt": "Wed, 13 May 2026 08:00:00 -0000",
-      "description": "My guest today is Krishna Rao, the CFO of Anthropic. The center of our conversation is how he navigates the decision around procuring and allocating compute, which he describes as the canvas on which everything else gets built. We talk about what he calls the cone of uncertainty, the three chip platforms Anthropic uses fungibly across Trainium, TPUs, and GPUs, and the daily meetings they run to allocate compute between model development, internal use, and serving customer demand. He explains why"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-05-21T08:58:27.085Z",
+  "generatedAt": "2026-05-22T08:50:12.620Z",
   "lookbackHours": 336
 }
