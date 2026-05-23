@@ -2,38 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Intel's 30 Years in Costa Rica",
-      "videoId": "AU1iHfUdkBU",
-      "url": "https://www.youtube.com/watch?v=AU1iHfUdkBU",
-      "publishedAt": "2026-05-21T23:00:07+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "What Did Trump Get Out Of The Xi Summit? | with Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "CsFqEBZgSms",
+      "url": "https://www.youtube.com/watch?v=CsFqEBZgSms",
+      "publishedAt": "2026-05-19T02:38:00+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "EVERY Bank Is Moving to Blockchain Rails!",
-      "videoId": "HBCjwnq6QIc",
-      "url": "https://www.youtube.com/watch?v=HBCjwnq6QIc",
-      "publishedAt": "2026-05-21T20:00:18+00:00"
+      "title": "Clarity Act Clears a Milestone: Is This the Catalyst? | REKT Vision LIVE",
+      "videoId": "Mglo6in_CRg",
+      "url": "https://www.youtube.com/watch?v=Mglo6in_CRg",
+      "publishedAt": "2026-05-16T04:32:37+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Next AI Trade: Power, Chips, and Infrastructure | Trading the Markets with AI",
-      "videoId": "yxnXh_txHzs",
-      "url": "https://www.youtube.com/watch?v=yxnXh_txHzs",
-      "publishedAt": "2026-05-14T05:45:08+00:00"
+      "title": "Sui: The Blockchain Built for AI Agents | Adeniyi Abiodun at Sui Live Miami",
+      "videoId": "-HwDY2nQaTs",
+      "url": "https://www.youtube.com/watch?v=-HwDY2nQaTs",
+      "publishedAt": "2026-05-14T12:00:00+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 3
   },
-  "generatedAt": "2026-05-22T08:50:12.620Z",
+  "generatedAt": "2026-05-23T08:07:18.239Z",
   "lookbackHours": 336
 }
