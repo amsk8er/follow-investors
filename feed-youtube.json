@@ -2,28 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Top Ideas of the Week, Joe Bland Is Up 81% &amp; Crypto Still Isn’t Cool? on Real Vision",
-      "videoId": "IbKgylFEJWQ",
-      "url": "https://www.youtube.com/watch?v=IbKgylFEJWQ",
-      "publishedAt": "2026-05-23T13:00:19+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "How Things Fell Apart for Germany’s Nixdorf Computer",
+      "videoId": "8wT-QYm0zlg",
+      "url": "https://www.youtube.com/watch?v=8wT-QYm0zlg",
+      "publishedAt": "2026-05-24T23:00:39+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Everyone’s Buying the Wrong AI Stocks!",
-      "videoId": "r2GBRv3yXqY",
-      "url": "https://www.youtube.com/watch?v=r2GBRv3yXqY",
-      "publishedAt": "2026-05-14T11:30:41+00:00"
+      "title": "AI Agents Are About to Move Money!",
+      "videoId": "bJ_E2b3rjmQ",
+      "url": "https://www.youtube.com/watch?v=bJ_E2b3rjmQ",
+      "publishedAt": "2026-05-24T19:00:16+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why AI and Crypto Are About to Collide with Ryan Servatius | Sui Live Miami 2026",
+      "videoId": "KMq0S1WSlng",
+      "url": "https://www.youtube.com/watch?v=KMq0S1WSlng",
+      "publishedAt": "2026-05-24T13:30:11+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Tokenized Stocks, AI &amp; Crypto | Weekly Wrap-up",
+      "videoId": "-D747ps4ewM",
+      "url": "https://www.youtube.com/watch?v=-D747ps4ewM",
+      "publishedAt": "2026-05-16T13:00:00+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-05-24T08:18:14.032Z",
+  "generatedAt": "2026-05-25T09:51:15.882Z",
   "lookbackHours": 336
 }
