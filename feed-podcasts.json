@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]",
+      "guid": "880fe730-5891-11f1-af54-f7159e798863",
+      "url": "https://colossus.com/episode/the-new-rules-of-war/",
+      "publishedAt": "Tue, 26 May 2026 08:00:00 -0000",
+      "description": "My guest today is Darren Farber, and this is his second appearance on the show. Darren is a Managing Partner of Albion River, a defense-focused investment firm and he previously served as a special advisor to the Deputy Under Secretary of Defense. We recorded this conversation in the middle of the Iranian contingency, and we spent most of our time on what winning actually means in a theater like Iran. We discuss why magazine depth matters for the American industrial base, lessons from Ukraine, a"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-05-25T09:51:15.882Z",
+  "generatedAt": "2026-05-26T09:37:57.732Z",
   "lookbackHours": 336
 }
