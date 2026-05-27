@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Little Vertical Laser That Everyone Uses",
-      "videoId": "XSNuyDA4800",
-      "url": "https://www.youtube.com/watch?v=XSNuyDA4800",
-      "publishedAt": "2026-05-17T23:00:23+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "00年互联网泡沫，半导体都发生了什么？悲剧重演？历史已给出答案！",
-      "videoId": "91yRxsdc0gA",
-      "url": "https://www.youtube.com/watch?v=91yRxsdc0gA",
-      "publishedAt": "2026-05-18T00:30:34+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Charts Are SCREAMING Right Now",
+      "videoId": "Fc1jkFiWCro",
+      "url": "https://www.youtube.com/watch?v=Fc1jkFiWCro",
+      "publishedAt": "2026-05-26T20:30:29+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is Iran War Deal Imminent? | Macro Mondays with Andreas Steno &amp; Mikkel Rosenvold",
-      "videoId": "riKPNWblLew",
-      "url": "https://www.youtube.com/watch?v=riKPNWblLew",
-      "publishedAt": "2026-05-25T15:12:04+00:00"
+      "title": "Africa’s Financial System Is Ready for a Leap w/ Tayo Oviosu | Sui Live Miami",
+      "videoId": "Kki1leh4r94",
+      "url": "https://www.youtube.com/watch?v=Kki1leh4r94",
+      "publishedAt": "2026-05-26T12:00:14+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Looks Exactly Like Early 2021!",
-      "videoId": "Hxby2RZ9q8U",
-      "url": "https://www.youtube.com/watch?v=Hxby2RZ9q8U",
-      "publishedAt": "2026-05-17T19:00:11+00:00"
+      "title": "Raoul Pal: “It’s All So Obvious” | Sui Live Maimi 2026",
+      "videoId": "jHXHDzur38o",
+      "url": "https://www.youtube.com/watch?v=jHXHDzur38o",
+      "publishedAt": "2026-05-19T12:00:06+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-05-26T09:37:57.732Z",
+  "generatedAt": "2026-05-27T09:30:58.558Z",
   "lookbackHours": 336
 }

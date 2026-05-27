@@ -1,10 +1,6 @@
 {
   "seenTweets": {},
   "seenEpisodes": {
-    "3bc7d580-53ec-11f1-99c0-3bd245449e4f": 1779267431301,
-    "OZLWP2hmYMA": 1779267433820,
-    "5TPb8VyRBqg": 1779267433820,
-    "FucwxDMW3RU": 1779267433820,
     "fdfca472-4e43-11f1-bf1a-cf5adcc9aeb5": 1779354020752,
     "b7i6zHLhSXg": 1779354023135,
     "IEJr5ObAutU": 1779354023135,
@@ -25,9 +21,10 @@
     "XSNuyDA4800": 1779788390920,
     "91yRxsdc0gA": 1779788391508,
     "riKPNWblLew": 1779788392261,
-    "Hxby2RZ9q8U": 1779788392261
+    "Hxby2RZ9q8U": 1779788392261,
+    "Fc1jkFiWCro": 1779874374383,
+    "Kki1leh4r94": 1779874374383,
+    "jHXHDzur38o": 1779874374383
   },
-  "seenArticles": {
-    "https://www.fabricatedknowledge.com/p/nvidia-should-buyback-stock": 1779267431838
-  }
+  "seenArticles": {}
 }
