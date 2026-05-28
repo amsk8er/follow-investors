@@ -1,8 +1,31 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]",
+      "guid": "287a409a-5a58-11f1-b0cd-5fd58e8d8d52",
+      "url": "https://colossus.com/episode/reminiscences-of-an-investor/",
+      "publishedAt": "Thu, 28 May 2026 08:00:00 -0000",
+      "description": "My guest today is Dan Loeb, the founder and CEO of Third Point. Dan started Third Point in 1995 with a few million dollars, and today the firm manages over 24 billion across equities, corporate and structured credit, venture, and insurance. He is best known for his activist work at companies like Sotheby's, Sony, and Yahoo, and for the public letters he has written to boards over the years. What I find most interesting about Dan is how much his approach has evolved across thirty years. He came u"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Gavin Baker - Watts and Wafers - [Invest Like the Best, EP.473]",
+      "guid": "3bc7d580-53ec-11f1-99c0-3bd245449e4f",
+      "url": "https://colossus.com/episode/watts-and-wafers/",
+      "publishedAt": "Wed, 20 May 2026 08:00:00 -0000",
+      "description": "My guest today is Gavin Baker, founding partner and CIO of Atreides Management, and this is our sixth conversation. The central theme is watts and wafers, the two physical constraints that in Gavin's view will dictate the next phase of AI. On power, he thinks the near-term shortage starts to ease in 2027 and 2028 as new sources of energy come online, and that orbital compute solves it in the long term. On wafers, he explains what is different this time from the dotcom bubble and why TSMC’s capac"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   },
-  "generatedAt": "2026-05-27T09:30:58.558Z",
+  "generatedAt": "2026-05-28T09:48:01.893Z",
   "lookbackHours": 336
 }
