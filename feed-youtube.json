@@ -2,38 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The AI IPO Boom is Here! | Trading the Markets With AI",
-      "videoId": "3Ih4uVXTcw8",
-      "url": "https://www.youtube.com/watch?v=3Ih4uVXTcw8",
-      "publishedAt": "2026-05-28T05:44:21+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Japan's Rare Earths Island",
+      "videoId": "kaz71LziZLA",
+      "url": "https://www.youtube.com/watch?v=kaz71LziZLA",
+      "publishedAt": "2026-05-28T23:00:10+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Trading the Markets LIVE at 1pm ET",
-      "videoId": "d4NablSba0w",
-      "url": "https://www.youtube.com/watch?v=d4NablSba0w",
-      "publishedAt": "2026-05-27T20:23:10+00:00"
+      "title": "Sui Wants to Make Stablecoin Transfers Free",
+      "videoId": "xFGFfTh285g",
+      "url": "https://www.youtube.com/watch?v=xFGFfTh285g",
+      "publishedAt": "2026-05-28T20:30:10+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "REKT Vision LIVE @ 11:30AM ET",
-      "videoId": "rpc3xJf2HWQ",
-      "url": "https://www.youtube.com/watch?v=rpc3xJf2HWQ",
-      "publishedAt": "2026-05-27T14:15:23+00:00"
+      "title": "How Sui Is Building the Next Generation of Trading | Aslan Tashtanov, Mysten Labs | Sui Miami 2026",
+      "videoId": "p8WRuN3k_r8",
+      "url": "https://www.youtube.com/watch?v=p8WRuN3k_r8",
+      "publishedAt": "2026-05-28T11:30:30+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "HYPE on a Run — Can the Rest of Crypto Catch Up? | REKT Vision LIVE",
+      "videoId": "5TPb8VyRBqg",
+      "url": "https://www.youtube.com/watch?v=5TPb8VyRBqg",
+      "publishedAt": "2026-05-23T04:25:11+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-05-28T09:48:01.893Z",
+  "generatedAt": "2026-05-29T09:37:49.596Z",
   "lookbackHours": 336
 }
