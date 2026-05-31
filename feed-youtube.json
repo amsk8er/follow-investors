@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Intel's 30 Years in Costa Rica",
-      "videoId": "AU1iHfUdkBU",
-      "url": "https://www.youtube.com/watch?v=AU1iHfUdkBU",
-      "publishedAt": "2026-05-21T23:00:07+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "AI是威胁？还是机遇？软件股多点开花预示什么？哪些公司能率先迎来爆发？",
+      "videoId": "tUI3ITjo2Bw",
+      "url": "https://www.youtube.com/watch?v=tUI3ITjo2Bw",
+      "publishedAt": "2026-05-31T03:06:21+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "How Crypto and TradFi Are Starting to Merge | Moulik Nagesh of Binance",
-      "videoId": "kgerLaWRrRU",
-      "url": "https://www.youtube.com/watch?v=kgerLaWRrRU",
-      "publishedAt": "2026-05-29T22:00:57+00:00"
+      "title": "This Week’s Top Trades, Notes, and RV Highlights | The Weekly Wrap-Up",
+      "videoId": "weh_qDaN9TM",
+      "url": "https://www.youtube.com/watch?v=weh_qDaN9TM",
+      "publishedAt": "2026-05-30T13:00:21+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "EVERYTHING is Moving to Blockchain Rails!",
-      "videoId": "HBCjwnq6QIc",
-      "url": "https://www.youtube.com/watch?v=HBCjwnq6QIc",
-      "publishedAt": "2026-05-21T20:00:18+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Nvidia Earnings in the Spotlight | Trading the Markets With AI",
-      "videoId": "FucwxDMW3RU",
-      "url": "https://www.youtube.com/watch?v=FucwxDMW3RU",
-      "publishedAt": "2026-05-21T05:43:41+00:00"
+      "title": "Africa NEEDS Stablecoins!",
+      "videoId": "o47qu43JgVE",
+      "url": "https://www.youtube.com/watch?v=o47qu43JgVE",
+      "publishedAt": "2026-05-26T12:30:37+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-05-30T08:17:42.532Z",
+  "generatedAt": "2026-05-31T08:35:18.817Z",
   "lookbackHours": 336
 }
