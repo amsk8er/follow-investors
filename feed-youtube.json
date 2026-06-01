@@ -2,38 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "AI是威胁？还是机遇？软件股多点开花预示什么？哪些公司能率先迎来爆发？",
-      "videoId": "tUI3ITjo2Bw",
-      "url": "https://www.youtube.com/watch?v=tUI3ITjo2Bw",
-      "publishedAt": "2026-05-31T03:06:21+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Taiwan's DRAM Failure",
+      "videoId": "ehT3U935Pww",
+      "url": "https://www.youtube.com/watch?v=ehT3U935Pww",
+      "publishedAt": "2026-05-31T23:00:36+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Week’s Top Trades, Notes, and RV Highlights | The Weekly Wrap-Up",
-      "videoId": "weh_qDaN9TM",
-      "url": "https://www.youtube.com/watch?v=weh_qDaN9TM",
-      "publishedAt": "2026-05-30T13:00:21+00:00"
+      "title": "The Yield Curve Secret Driving This Bull Market!",
+      "videoId": "i3ElOLvBMBY",
+      "url": "https://www.youtube.com/watch?v=i3ElOLvBMBY",
+      "publishedAt": "2026-05-31T19:30:03+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Africa NEEDS Stablecoins!",
-      "videoId": "o47qu43JgVE",
-      "url": "https://www.youtube.com/watch?v=o47qu43JgVE",
-      "publishedAt": "2026-05-26T12:30:37+00:00"
+      "title": "Top Ideas of the Week, Joe Bland Is Up 81% &amp; Crypto Still Isn’t Cool? on Real Vision",
+      "videoId": "IbKgylFEJWQ",
+      "url": "https://www.youtube.com/watch?v=IbKgylFEJWQ",
+      "publishedAt": "2026-05-23T13:00:19+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 3
   },
-  "generatedAt": "2026-05-31T08:35:18.817Z",
+  "generatedAt": "2026-06-01T11:11:12.573Z",
   "lookbackHours": 336
 }
