@@ -5,35 +5,45 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Taiwan's DRAM Failure",
-      "videoId": "ehT3U935Pww",
-      "url": "https://www.youtube.com/watch?v=ehT3U935Pww",
-      "publishedAt": "2026-05-31T23:00:36+00:00"
+      "title": "How Things Fell Apart for Germany’s Nixdorf Computer",
+      "videoId": "8wT-QYm0zlg",
+      "url": "https://www.youtube.com/watch?v=8wT-QYm0zlg",
+      "publishedAt": "2026-05-24T23:00:39+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Yield Curve Secret Driving This Bull Market!",
-      "videoId": "i3ElOLvBMBY",
-      "url": "https://www.youtube.com/watch?v=i3ElOLvBMBY",
-      "publishedAt": "2026-05-31T19:30:03+00:00"
+      "title": "3 Banger Trades For June w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "4C14MD8iRvY",
+      "url": "https://www.youtube.com/watch?v=4C14MD8iRvY",
+      "publishedAt": "2026-06-02T02:51:26+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Top Ideas of the Week, Joe Bland Is Up 81% &amp; Crypto Still Isn’t Cool? on Real Vision",
-      "videoId": "IbKgylFEJWQ",
-      "url": "https://www.youtube.com/watch?v=IbKgylFEJWQ",
-      "publishedAt": "2026-05-23T13:00:19+00:00"
+      "title": "REKT Vision LIVE @ 11:30am ET",
+      "videoId": "m4YiyybaXuE",
+      "url": "https://www.youtube.com/watch?v=m4YiyybaXuE",
+      "publishedAt": "2026-06-01T14:27:26+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why Hyperliquid Is the &quot;Gold Standard&quot; | REKT Vision with @blocmates",
+      "videoId": "84DlWgnR1GE",
+      "url": "https://www.youtube.com/watch?v=84DlWgnR1GE",
+      "publishedAt": "2026-06-01T14:01:13+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-06-01T11:11:12.573Z",
+  "generatedAt": "2026-06-02T10:06:22.175Z",
   "lookbackHours": 336
 }
