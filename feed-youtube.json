@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "How Things Fell Apart for Germany’s Nixdorf Computer",
-      "videoId": "8wT-QYm0zlg",
-      "url": "https://www.youtube.com/watch?v=8wT-QYm0zlg",
-      "publishedAt": "2026-05-24T23:00:39+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why AI Agents Need Crypto Rails w/ Arpan Nanavati, CEO of Beep",
+      "videoId": "vfQYOzV7NlE",
+      "url": "https://www.youtube.com/watch?v=vfQYOzV7NlE",
+      "publishedAt": "2026-06-02T12:00:25+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "3 Banger Trades For June w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "4C14MD8iRvY",
-      "url": "https://www.youtube.com/watch?v=4C14MD8iRvY",
-      "publishedAt": "2026-06-02T02:51:26+00:00"
+      "title": "Is Inflation About to Peak? | Macro Mondays with Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "riKPNWblLew",
+      "url": "https://www.youtube.com/watch?v=riKPNWblLew",
+      "publishedAt": "2026-05-25T15:12:04+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "REKT Vision LIVE @ 11:30am ET",
-      "videoId": "m4YiyybaXuE",
-      "url": "https://www.youtube.com/watch?v=m4YiyybaXuE",
-      "publishedAt": "2026-06-01T14:27:26+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why Hyperliquid Is the &quot;Gold Standard&quot; | REKT Vision with @blocmates",
-      "videoId": "84DlWgnR1GE",
-      "url": "https://www.youtube.com/watch?v=84DlWgnR1GE",
-      "publishedAt": "2026-06-01T14:01:13+00:00"
+      "title": "AI Agents Can Move Money!",
+      "videoId": "bJ_E2b3rjmQ",
+      "url": "https://www.youtube.com/watch?v=bJ_E2b3rjmQ",
+      "publishedAt": "2026-05-24T19:00:16+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-06-02T10:06:22.175Z",
+  "generatedAt": "2026-06-03T10:44:42.604Z",
   "lookbackHours": 336
 }
