@@ -1,31 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Dara Khosrowshahi - Uber's Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]",
-      "guid": "b0548680-5efc-11f1-b7e5-c74e739454e3",
-      "url": "https://colossus.com/episode/order-out-of-chaos/",
-      "publishedAt": "Wed, 03 Jun 2026 08:00:00 -0000",
-      "description": "My guest today is Dara Khosrowshahi, the CEO of Uber. Before Uber, Dara ran Expedia for thirteen years. We start with why he took this job in 2017, and a big part of that story is Daniel Ek, who told him that life is not about happiness, it is about impact. We talk about what the chaos felt like on day one, and how his family leaving Iran when he was nine shaped the way he handles pressure today. We spend most of our time on autonomous vehicles and Uber's role as the demand aggregator in a world"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Darren Farber on Iran, China, and the Rise of Neoprimes - [Invest Like the Best, EP.474]",
-      "guid": "880fe730-5891-11f1-af54-f7159e798863",
-      "url": "https://colossus.com/episode/the-new-rules-of-war/",
-      "publishedAt": "Tue, 26 May 2026 08:00:00 -0000",
-      "description": "My guest today is Darren Farber, and this is his second appearance on the show. Darren is a Managing Partner of Albion River, a defense-focused investment firm and he previously served as a special advisor to the Deputy Under Secretary of Defense. We recorded this conversation in the middle of the Iranian contingency, and we spent most of our time on what winning actually means in a theater like Iran. We discuss why magazine depth matters for the American industrial base, lessons from Ukraine, a"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-06-03T10:44:42.604Z",
+  "generatedAt": "2026-06-04T09:44:15.339Z",
   "lookbackHours": 336
 }
