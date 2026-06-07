@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Dan Loeb - Lessons from 30 Years of Investing - [Invest Like the Best, EP.475]",
-      "guid": "287a409a-5a58-11f1-b0cd-5fd58e8d8d52",
-      "url": "https://colossus.com/episode/reminiscences-of-an-investor/",
-      "publishedAt": "Thu, 28 May 2026 08:00:00 -0000",
-      "description": "My guest today is Dan Loeb, the founder and CEO of Third Point. Dan started Third Point in 1995 with a few million dollars, and today the firm manages over 24 billion across equities, corporate and structured credit, venture, and insurance. He is best known for his activist work at companies like Sotheby's, Sony, and Yahoo, and for the public letters he has written to boards over the years. What I find most interesting about Dan is how much his approach has evolved across thirty years. He came u"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-06-06T08:24:52.765Z",
+  "generatedAt": "2026-06-07T08:45:54.533Z",
   "lookbackHours": 336
 }
