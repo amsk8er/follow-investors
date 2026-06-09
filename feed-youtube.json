@@ -2,58 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The EU Chips Act is a Failure",
-      "videoId": "eqoX9OIR-DI",
-      "url": "https://www.youtube.com/watch?v=eqoX9OIR-DI",
-      "publishedAt": "2026-06-07T23:00:23+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "美股涨到头了？这3类股票不要碰！还有1类反而出大机会？",
-      "videoId": "xEkNd6xG1qo",
-      "url": "https://www.youtube.com/watch?v=xEkNd6xG1qo",
-      "publishedAt": "2026-06-08T00:22:03+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "AI是威胁？还是机遇？软件股多点开花预示什么？哪些公司能率先迎来爆发？",
-      "videoId": "tUI3ITjo2Bw",
-      "url": "https://www.youtube.com/watch?v=tUI3ITjo2Bw",
-      "publishedAt": "2026-05-31T03:06:21+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Panic or No Panic? with Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "iOBn3fewrQg",
+      "url": "https://www.youtube.com/watch?v=iOBn3fewrQg",
+      "publishedAt": "2026-06-08T22:37:30+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Overlooked Sector Could RIP Higher!",
-      "videoId": "HW7DZ7kiLuE",
-      "url": "https://www.youtube.com/watch?v=HW7DZ7kiLuE",
-      "publishedAt": "2026-06-07T19:45:40+00:00"
+      "title": "Bottom for Bitcoin? | REKT Vision LIVE @ 11:30am ET",
+      "videoId": "A7WQ42XTX3E",
+      "url": "https://www.youtube.com/watch?v=A7WQ42XTX3E",
+      "publishedAt": "2026-06-08T22:35:20+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Week’s Top Trades, Notes, and RV Highlights | The Weekly Wrap-Up",
-      "videoId": "weh_qDaN9TM",
-      "url": "https://www.youtube.com/watch?v=weh_qDaN9TM",
-      "publishedAt": "2026-05-30T13:00:21+00:00"
+      "title": "This Chart Could Change Everything!",
+      "videoId": "AEWMtqeLC0I",
+      "url": "https://www.youtube.com/watch?v=AEWMtqeLC0I",
+      "publishedAt": "2026-06-08T19:45:22+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-06-08T10:19:06.184Z",
+  "generatedAt": "2026-06-09T09:25:54.780Z",
   "lookbackHours": 336
 }
