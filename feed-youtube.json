@@ -2,38 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Panic or No Panic? with Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "iOBn3fewrQg",
-      "url": "https://www.youtube.com/watch?v=iOBn3fewrQg",
-      "publishedAt": "2026-06-08T22:37:30+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Taiwan's DRAM Failure",
+      "videoId": "ehT3U935Pww",
+      "url": "https://www.youtube.com/watch?v=ehT3U935Pww",
+      "publishedAt": "2026-05-31T23:00:36+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Bottom for Bitcoin? | REKT Vision LIVE @ 11:30am ET",
-      "videoId": "A7WQ42XTX3E",
-      "url": "https://www.youtube.com/watch?v=A7WQ42XTX3E",
-      "publishedAt": "2026-06-08T22:35:20+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "This Chart Could Change Everything!",
-      "videoId": "AEWMtqeLC0I",
-      "url": "https://www.youtube.com/watch?v=AEWMtqeLC0I",
-      "publishedAt": "2026-06-08T19:45:22+00:00"
+      "title": "What In The World Happening With Crypto!?",
+      "videoId": "hA4a6XzO-uM",
+      "url": "https://www.youtube.com/watch?v=hA4a6XzO-uM",
+      "publishedAt": "2026-06-09T15:00:15+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-06-09T09:25:54.780Z",
+  "generatedAt": "2026-06-10T09:41:40.267Z",
   "lookbackHours": 336
 }
