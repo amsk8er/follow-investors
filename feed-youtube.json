@@ -2,28 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Taiwan's DRAM Failure",
-      "videoId": "ehT3U935Pww",
-      "url": "https://www.youtube.com/watch?v=ehT3U935Pww",
-      "publishedAt": "2026-05-31T23:00:36+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Are The Markets Broken? Drinks with Raoul: June 2026",
+      "videoId": "kafIwWfTmp0",
+      "url": "https://www.youtube.com/watch?v=kafIwWfTmp0",
+      "publishedAt": "2026-06-10T23:00:56+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "What In The World Happening With Crypto!?",
-      "videoId": "hA4a6XzO-uM",
-      "url": "https://www.youtube.com/watch?v=hA4a6XzO-uM",
-      "publishedAt": "2026-06-09T15:00:15+00:00"
+      "title": "AI Spending NEEDS More Cash!",
+      "videoId": "QF15UrDH9Ms",
+      "url": "https://www.youtube.com/watch?v=QF15UrDH9Ms",
+      "publishedAt": "2026-06-10T11:30:11+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Is $60,000 the Bottom for Bitcoin? | REKT Vision w/ OSF",
+      "videoId": "m4YiyybaXuE",
+      "url": "https://www.youtube.com/watch?v=m4YiyybaXuE",
+      "publishedAt": "2026-06-06T04:24:14+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-06-10T09:41:40.267Z",
+  "generatedAt": "2026-06-11T10:08:23.264Z",
   "lookbackHours": 336
 }
