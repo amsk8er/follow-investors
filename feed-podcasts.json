@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Dara Khosrowshahi - Uber's Bet on AVs, AI, and Building a Super-App - [Invest Like the Best, EP.476]",
-      "guid": "b0548680-5efc-11f1-b7e5-c74e739454e3",
-      "url": "https://colossus.com/episode/order-out-of-chaos/",
-      "publishedAt": "Wed, 03 Jun 2026 08:00:00 -0000",
-      "description": "My guest today is Dara Khosrowshahi, the CEO of Uber. Before Uber, Dara ran Expedia for thirteen years. We start with why he took this job in 2017, and a big part of that story is Daniel Ek, who told him that life is not about happiness, it is about impact. We talk about what the chaos felt like on day one, and how his family leaving Iran when he was nine shaped the way he handles pressure today. We spend most of our time on autonomous vehicles and Uber's role as the demand aggregator in a world"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-06-12T09:57:46.497Z",
+  "generatedAt": "2026-06-13T08:47:34.903Z",
   "lookbackHours": 336
 }
