@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The EU Chips Act is a Failure",
-      "videoId": "eqoX9OIR-DI",
-      "url": "https://www.youtube.com/watch?v=eqoX9OIR-DI",
-      "publishedAt": "2026-06-07T23:00:23+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "美股涨到头了？这3类股票不要碰！还有1类反而出大机会？",
-      "videoId": "xEkNd6xG1qo",
-      "url": "https://www.youtube.com/watch?v=xEkNd6xG1qo",
-      "publishedAt": "2026-06-08T00:22:03+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Is The Iran-US Deal Actually Done?! with Andreas Steno | Macro Mondays",
+      "videoId": "iOBn3fewrQg",
+      "url": "https://www.youtube.com/watch?v=iOBn3fewrQg",
+      "publishedAt": "2026-06-16T02:38:11+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The SpaceX IPO Frenzy Isn't Over!",
-      "videoId": "Y_3FHFKBEWc",
-      "url": "https://www.youtube.com/watch?v=Y_3FHFKBEWc",
-      "publishedAt": "2026-06-15T21:00:32+00:00"
+      "title": "The SpaceX IPO Has Landed. Are AI Valuations Crazy? | REKT Vision w/ Mando",
+      "videoId": "A7WQ42XTX3E",
+      "url": "https://www.youtube.com/watch?v=A7WQ42XTX3E",
+      "publishedAt": "2026-06-13T04:35:08+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Sector Could RIP to The Upside!",
-      "videoId": "HW7DZ7kiLuE",
-      "url": "https://www.youtube.com/watch?v=HW7DZ7kiLuE",
-      "publishedAt": "2026-06-07T19:45:40+00:00"
+      "title": "This Chart Could Change Everything!",
+      "videoId": "AEWMtqeLC0I",
+      "url": "https://www.youtube.com/watch?v=AEWMtqeLC0I",
+      "publishedAt": "2026-06-08T19:45:22+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-06-16T10:55:30.553Z",
+  "generatedAt": "2026-06-17T10:27:18.835Z",
   "lookbackHours": 336
 }
