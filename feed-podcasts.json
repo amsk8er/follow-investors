@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Alex Sacerdote - How to Invest Through Technology Cycles - [Invest Like the Best, EP.477]",
-      "guid": "638034f8-63bb-11f1-8c95-6396d39926c0",
-      "url": "https://colossus.com/episode/investing-on-the-s-curve/",
-      "publishedAt": "Tue, 09 Jun 2026 08:00:00 -0000",
-      "description": "My guest today is Alex Sacerdote, founder of Whale Rock Capital Management. Whale Rock is a technology focused investment firm that manages more than $17 billion across hedge fund, long only, and hybrid strategies. Over the past three years it has been one of the best performing hedge funds, compounding at roughly 44 percent a year. Alex invests through a single lens that he has refined over twenty years. He looks for technology S-curves, durable competitive advantages, and underappreciated earn"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-06-17T10:27:18.835Z",
+  "generatedAt": "2026-06-18T10:07:25.460Z",
   "lookbackHours": 336
 }
