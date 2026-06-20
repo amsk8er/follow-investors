@@ -2,38 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The “Miracle” Rice",
-      "videoId": "iF7AQ73CsGs",
-      "url": "https://www.youtube.com/watch?v=iF7AQ73CsGs",
-      "publishedAt": "2026-06-18T23:00:30+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "STOP Trying To Pick AI Winners. Do This Instead!",
+      "videoId": "l66LLS9YVvg",
+      "url": "https://www.youtube.com/watch?v=l66LLS9YVvg",
+      "publishedAt": "2026-06-11T21:00:00+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "It's Time to Trim Your Winners, Not Chase Them",
-      "videoId": "If95P1iRqdg",
-      "url": "https://www.youtube.com/watch?v=If95P1iRqdg",
-      "publishedAt": "2026-06-18T20:30:02+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The SpaceX Hype Cycle Could End Badly",
-      "videoId": "HVh9lxHs4tE",
-      "url": "https://www.youtube.com/watch?v=HVh9lxHs4tE",
-      "publishedAt": "2026-06-18T11:45:15+00:00"
+      "title": "Drinks with Raoul: June 2026",
+      "videoId": "kafIwWfTmp0",
+      "url": "https://www.youtube.com/watch?v=kafIwWfTmp0",
+      "publishedAt": "2026-06-10T23:00:56+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-06-19T10:13:38.427Z",
+  "generatedAt": "2026-06-20T08:41:50.455Z",
   "lookbackHours": 336
 }
