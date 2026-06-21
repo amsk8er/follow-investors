@@ -2,28 +2,18 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "STOP Trying To Pick AI Winners. Do This Instead!",
-      "videoId": "l66LLS9YVvg",
-      "url": "https://www.youtube.com/watch?v=l66LLS9YVvg",
-      "publishedAt": "2026-06-11T21:00:00+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Drinks with Raoul: June 2026",
-      "videoId": "kafIwWfTmp0",
-      "url": "https://www.youtube.com/watch?v=kafIwWfTmp0",
-      "publishedAt": "2026-06-10T23:00:56+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "AI商业发展暗藏4大前瞻趋势！提前埋伏这些机会，押注下一轮AI暴涨？",
+      "videoId": "-ih9NBMHiU8",
+      "url": "https://www.youtube.com/watch?v=-ih9NBMHiU8",
+      "publishedAt": "2026-06-21T03:18:53+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 1
   },
-  "generatedAt": "2026-06-20T08:41:50.455Z",
+  "generatedAt": "2026-06-21T09:37:05.377Z",
   "lookbackHours": 336
 }
