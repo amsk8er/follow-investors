@@ -2,18 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "AI商业发展暗藏4大前瞻趋势！提前埋伏这些机会，押注下一轮AI暴涨？",
-      "videoId": "-ih9NBMHiU8",
-      "url": "https://www.youtube.com/watch?v=-ih9NBMHiU8",
-      "publishedAt": "2026-06-21T03:18:53+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Embedded Memories: The Next Generation",
+      "videoId": "iFoma1jUToU",
+      "url": "https://www.youtube.com/watch?v=iFoma1jUToU",
+      "publishedAt": "2026-06-21T23:00:12+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Hidden AI Trade: Land, Power, &amp; Compute | With Mike Alfred",
+      "videoId": "-p3DhlY2TEk",
+      "url": "https://www.youtube.com/watch?v=-p3DhlY2TEk",
+      "publishedAt": "2026-06-21T13:00:18+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Is The Bottom In For Bitcoin?",
+      "videoId": "naAlXx1AqnA",
+      "url": "https://www.youtube.com/watch?v=naAlXx1AqnA",
+      "publishedAt": "2026-06-13T12:00:27+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "AI is NOT Even Close to Peaking!",
+      "videoId": "Ebug1RMTG9A",
+      "url": "https://www.youtube.com/watch?v=Ebug1RMTG9A",
+      "publishedAt": "2026-06-12T11:30:11+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-06-21T09:37:05.377Z",
+  "generatedAt": "2026-06-22T11:36:32.257Z",
   "lookbackHours": 336
 }
