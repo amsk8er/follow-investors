@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Embedded Memories: The Next Generation",
-      "videoId": "iFoma1jUToU",
-      "url": "https://www.youtube.com/watch?v=iFoma1jUToU",
-      "publishedAt": "2026-06-21T23:00:12+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "What If MicroStrategy Has To Sell?",
+      "videoId": "FFrVgcUivJM",
+      "url": "https://www.youtube.com/watch?v=FFrVgcUivJM",
+      "publishedAt": "2026-06-22T20:55:25+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Hidden AI Trade: Land, Power, &amp; Compute | With Mike Alfred",
-      "videoId": "-p3DhlY2TEk",
-      "url": "https://www.youtube.com/watch?v=-p3DhlY2TEk",
-      "publishedAt": "2026-06-21T13:00:18+00:00"
+      "title": "Drinks with Raoul: June 2026 | Part II",
+      "videoId": "_bmC7gdUh1k",
+      "url": "https://www.youtube.com/watch?v=_bmC7gdUh1k",
+      "publishedAt": "2026-06-22T18:44:11+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is The Bottom In For Bitcoin?",
-      "videoId": "naAlXx1AqnA",
-      "url": "https://www.youtube.com/watch?v=naAlXx1AqnA",
-      "publishedAt": "2026-06-13T12:00:27+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "AI is NOT Even Close to Peaking!",
-      "videoId": "Ebug1RMTG9A",
-      "url": "https://www.youtube.com/watch?v=Ebug1RMTG9A",
-      "publishedAt": "2026-06-12T11:30:11+00:00"
+      "title": "Macro Mondays LIVE @Andreas 10am ET with Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "BuMXM5y0nXk",
+      "url": "https://www.youtube.com/watch?v=BuMXM5y0nXk",
+      "publishedAt": "2026-06-22T18:42:27+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-06-22T11:36:32.257Z",
+  "generatedAt": "2026-06-23T08:59:59.828Z",
   "lookbackHours": 336
 }
