@@ -1,10 +1,6 @@
 {
   "seenTweets": {},
   "seenEpisodes": {
-    "638034f8-63bb-11f1-8c95-6396d39926c0": 1781692152180,
-    "iOBn3fewrQg": 1781692154789,
-    "A7WQ42XTX3E": 1781692154789,
-    "AEWMtqeLC0I": 1781692154789,
     "BUBhRM3tSuM": 1781777363187,
     "cuO3SzilaBc": 1781777363187,
     "cJ6xAwCxN6Q": 1781777363187,
@@ -26,7 +22,12 @@
     "ByBLjNA3MvY": 1782291364289,
     "_5SF2Ndmw6c": 1782291364898,
     "CtSom5v-Ml0": 1782291364898,
-    "gsteK2Vl5PA": 1782291364898
+    "gsteK2Vl5PA": 1782291364898,
+    "75f25e08-693e-11f1-9601-1f00dcdf856f": 1782377421511,
+    "DM33goQkYzg": 1782377424061,
+    "Y_3FHFKBEWc": 1782377424061
   },
-  "seenArticles": {}
+  "seenArticles": {
+    "https://www.fabricatedknowledge.com/p/in-depth-what-unitrees-evolution": 1782377422065
+  }
 }
