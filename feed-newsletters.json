@@ -1,19 +1,8 @@
 {
-  "newsletters": [
-    {
-      "source": "newsletter",
-      "name": "Fabricated Knowledge",
-      "author": "Doug O'Laughlin",
-      "tag": "产业研究",
-      "title": "IN-DEPTH: What Unitree's Evolution Means For Robotics",
-      "url": "https://www.fabricatedknowledge.com/p/in-depth-what-unitrees-evolution",
-      "publishedAt": "Wed, 24 Jun 2026 20:28:30 GMT",
-      "description": "Unitree Playbook, China's Scaling Law, Geopolitics, and Humanoids in the wild"
-    }
-  ],
+  "newsletters": [],
   "stats": {
-    "newsletterArticles": 1
+    "newsletterArticles": 0
   },
-  "generatedAt": "2026-06-25T08:48:26.324Z",
+  "generatedAt": "2026-06-26T08:51:12.108Z",
   "lookbackHours": 72
 }
