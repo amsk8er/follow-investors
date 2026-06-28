@@ -2,38 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Confused Which RV Membership Is Right For You? | with Raoul Pal",
-      "videoId": "vh5g0JXx0DI",
-      "url": "https://www.youtube.com/watch?v=vh5g0JXx0DI",
-      "publishedAt": "2026-06-26T15:00:05+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "The “Miracle” Rice",
+      "videoId": "iF7AQ73CsGs",
+      "url": "https://www.youtube.com/watch?v=iF7AQ73CsGs",
+      "publishedAt": "2026-06-18T23:00:30+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is The Oil Still Flowing? w/ Andreas Steno | Macro Mondays",
-      "videoId": "cuO3SzilaBc",
-      "url": "https://www.youtube.com/watch?v=cuO3SzilaBc",
-      "publishedAt": "2026-06-23T02:29:59+00:00"
+      "title": "It's Time to Trim Your Winners, Not Chase Them",
+      "videoId": "If95P1iRqdg",
+      "url": "https://www.youtube.com/watch?v=If95P1iRqdg",
+      "publishedAt": "2026-06-18T20:30:02+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is a Bigger Move Coming?! | Trading the Markets",
-      "videoId": "BUBhRM3tSuM",
-      "url": "https://www.youtube.com/watch?v=BUBhRM3tSuM",
-      "publishedAt": "2026-06-18T06:11:55+00:00"
+      "title": "The SpaceX Hype Cycle Could End Badly",
+      "videoId": "HVh9lxHs4tE",
+      "url": "https://www.youtube.com/watch?v=HVh9lxHs4tE",
+      "publishedAt": "2026-06-18T11:45:15+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Wall Street Isn't Looking Here Yet!",
+      "videoId": "cJ6xAwCxN6Q",
+      "url": "https://www.youtube.com/watch?v=cJ6xAwCxN6Q",
+      "publishedAt": "2026-06-17T11:30:40+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-06-27T08:26:47.767Z",
+  "generatedAt": "2026-06-28T08:41:09.421Z",
   "lookbackHours": 336
 }
