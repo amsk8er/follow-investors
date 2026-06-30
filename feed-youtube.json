@@ -2,28 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "TOTO: From Toilets to E-Chucks",
-      "videoId": "CIB49e_r1OI",
-      "url": "https://www.youtube.com/watch?v=CIB49e_r1OI",
-      "publishedAt": "2026-06-28T23:00:21+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "AI商业发展暗藏4大前瞻趋势！提前埋伏这些机会，押注下一轮AI暴涨？",
+      "videoId": "-ih9NBMHiU8",
+      "url": "https://www.youtube.com/watch?v=-ih9NBMHiU8",
+      "publishedAt": "2026-06-21T03:18:53+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Investors Say Sentiment Looks Wrong in Crypto &amp; Macro Markets Right Now",
-      "videoId": "3LVb6esEFOk",
-      "url": "https://www.youtube.com/watch?v=3LVb6esEFOk",
-      "publishedAt": "2026-06-28T12:15:12+00:00"
+      "title": "This QE-Like Setup Could Surprise Everyone!",
+      "videoId": "U1XQ2Hn2PNc",
+      "url": "https://www.youtube.com/watch?v=U1XQ2Hn2PNc",
+      "publishedAt": "2026-06-29T21:08:20+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Trading The Markets with Kris Bullock and Bijan Maleki | Live @1pm ET",
+      "videoId": "FbK_gbo8WsU",
+      "url": "https://www.youtube.com/watch?v=FbK_gbo8WsU",
+      "publishedAt": "2026-06-29T18:02:01+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Everyone Wrong About The Dollar? with Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays LIVE @10am ET",
+      "videoId": "QCSXqups45A",
+      "url": "https://www.youtube.com/watch?v=QCSXqups45A",
+      "publishedAt": "2026-06-29T18:00:55+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-06-29T10:24:23.794Z",
+  "generatedAt": "2026-06-30T08:57:41.526Z",
   "lookbackHours": 336
 }
