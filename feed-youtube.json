@@ -2,48 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "AI商业发展暗藏4大前瞻趋势！提前埋伏这些机会，押注下一轮AI暴涨？",
-      "videoId": "-ih9NBMHiU8",
-      "url": "https://www.youtube.com/watch?v=-ih9NBMHiU8",
-      "publishedAt": "2026-06-21T03:18:53+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Embedded Memories: The Next Generation",
+      "videoId": "iFoma1jUToU",
+      "url": "https://www.youtube.com/watch?v=iFoma1jUToU",
+      "publishedAt": "2026-06-21T23:00:12+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This QE-Like Setup Could Surprise Everyone!",
-      "videoId": "U1XQ2Hn2PNc",
-      "url": "https://www.youtube.com/watch?v=U1XQ2Hn2PNc",
-      "publishedAt": "2026-06-29T21:08:20+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Trading The Markets with Kris Bullock and Bijan Maleki | Live @1pm ET",
-      "videoId": "FbK_gbo8WsU",
-      "url": "https://www.youtube.com/watch?v=FbK_gbo8WsU",
-      "publishedAt": "2026-06-29T18:02:01+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Everyone Wrong About The Dollar? with Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays LIVE @10am ET",
-      "videoId": "QCSXqups45A",
-      "url": "https://www.youtube.com/watch?v=QCSXqups45A",
-      "publishedAt": "2026-06-29T18:00:55+00:00"
+      "title": "The Hidden AI Trade: Land, Power, &amp; Compute | With Mike Alfred",
+      "videoId": "-p3DhlY2TEk",
+      "url": "https://www.youtube.com/watch?v=-p3DhlY2TEk",
+      "publishedAt": "2026-06-21T13:00:18+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-06-30T08:57:41.526Z",
+  "generatedAt": "2026-07-01T09:30:35.783Z",
   "lookbackHours": 336
 }
