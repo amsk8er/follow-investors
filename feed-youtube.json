@@ -2,28 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Embedded Memories: The Next Generation",
-      "videoId": "iFoma1jUToU",
-      "url": "https://www.youtube.com/watch?v=iFoma1jUToU",
-      "publishedAt": "2026-06-21T23:00:12+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Everyone Wrong About The Dollar? with Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays LIVE @10am ET",
+      "videoId": "BuMXM5y0nXk",
+      "url": "https://www.youtube.com/watch?v=BuMXM5y0nXk",
+      "publishedAt": "2026-06-30T02:42:31+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Hidden AI Trade: Land, Power, &amp; Compute | With Mike Alfred",
-      "videoId": "-p3DhlY2TEk",
-      "url": "https://www.youtube.com/watch?v=-p3DhlY2TEk",
-      "publishedAt": "2026-06-21T13:00:18+00:00"
+      "title": "Bitcoin Is Stuck... What’s Next? | Trading The Markets",
+      "videoId": "_5SF2Ndmw6c",
+      "url": "https://www.youtube.com/watch?v=_5SF2Ndmw6c",
+      "publishedAt": "2026-06-25T06:14:59+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "What If MicroStrategy Has To Sell?!",
+      "videoId": "FFrVgcUivJM",
+      "url": "https://www.youtube.com/watch?v=FFrVgcUivJM",
+      "publishedAt": "2026-06-22T20:55:25+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-07-01T09:30:35.783Z",
+  "generatedAt": "2026-07-02T08:42:59.184Z",
   "lookbackHours": 336
 }
