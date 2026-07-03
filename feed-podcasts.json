@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Vlad Barbalat - Investing $120 Billion in Permanent Capital - [Invest Like the Best, EP.479]",
-      "guid": "2152d90e-6ea2-11f1-bf4e-975e0e419694",
-      "url": "https://colossus.com/episode/the-power-of-permanent-capital/",
-      "publishedAt": "Tue, 23 Jun 2026 08:00:00 -0000",
-      "description": "My guest today is Vlad Barbalat, the Chief Investment Officer of Liberty Mutual Investments, the $120 billion investment platform that sits within one of the largest insurance companies in the world. Vlad grew up in Soviet Moldova, came to America in 1990, and built a career that eventually led him to one of the most distinctive capital allocator seats anywhere in finance. Today we talk about how the mutual insurance structure creates a unique investment platform, what Liberty looks for in a new"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-07-02T08:42:59.184Z",
+  "generatedAt": "2026-07-03T08:50:23.026Z",
   "lookbackHours": 336
 }
