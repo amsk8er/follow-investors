@@ -2,18 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "涨的要跌？跌的要涨？下半年2大风险，1大致富机会，你必须了解！",
+      "videoId": "px5M4ry8IO4",
+      "url": "https://www.youtube.com/watch?v=px5M4ry8IO4",
+      "publishedAt": "2026-07-05T03:12:10+00:00"
+    },
+    {
+      "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "ONE Mistake Could Crash the Entire Market!",
-      "videoId": "DM33goQkYzg",
-      "url": "https://www.youtube.com/watch?v=DM33goQkYzg",
-      "publishedAt": "2026-06-24T11:15:14+00:00"
+      "title": "Everyone is SLEEPING On This Trade!",
+      "videoId": "fzF2-_oCfas",
+      "url": "https://www.youtube.com/watch?v=fzF2-_oCfas",
+      "publishedAt": "2026-06-25T20:45:27+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-07-04T08:25:26.348Z",
+  "generatedAt": "2026-07-05T08:41:16.452Z",
   "lookbackHours": 336
 }
