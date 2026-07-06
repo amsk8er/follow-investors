@@ -2,28 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "涨的要跌？跌的要涨？下半年2大风险，1大致富机会，你必须了解！",
-      "videoId": "px5M4ry8IO4",
-      "url": "https://www.youtube.com/watch?v=px5M4ry8IO4",
-      "publishedAt": "2026-07-05T03:12:10+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "The Debt-Fueled Collapse of China’s Top Machine Tool Maker",
+      "videoId": "HUBB8DoiB80",
+      "url": "https://www.youtube.com/watch?v=HUBB8DoiB80",
+      "publishedAt": "2026-07-05T23:00:16+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Everyone is SLEEPING On This Trade!",
-      "videoId": "fzF2-_oCfas",
-      "url": "https://www.youtube.com/watch?v=fzF2-_oCfas",
-      "publishedAt": "2026-06-25T20:45:27+00:00"
+      "title": "This Is the Most Important Race Ever!",
+      "videoId": "I71XejoWHlI",
+      "url": "https://www.youtube.com/watch?v=I71XejoWHlI",
+      "publishedAt": "2026-07-05T19:00:23+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Market Is Misreading Inflation, Oil, and the Fed | Maleeha Bengali",
+      "videoId": "YsR_uqKU-5s",
+      "url": "https://www.youtube.com/watch?v=YsR_uqKU-5s",
+      "publishedAt": "2026-07-05T13:00:22+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Can Real Vision Really Help You Live Your Best Financial Life? | with Raoul Pal",
+      "videoId": "vh5g0JXx0DI",
+      "url": "https://www.youtube.com/watch?v=vh5g0JXx0DI",
+      "publishedAt": "2026-06-26T15:00:05+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-07-05T08:41:16.452Z",
+  "generatedAt": "2026-07-06T09:57:30.431Z",
   "lookbackHours": 336
 }
