@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]",
-      "guid": "639efb30-79ab-11f1-9457-e7c50e832f59",
-      "url": "https://colossus.com/episode/posting-priests-private-markets/",
-      "publishedAt": "Tue, 07 Jul 2026 08:00:00 -0000",
-      "description": "My guest today is Jeremy Giffon. Jeremy has been on the show before as one of our most popular guests, and this conversation is every bit as enjoyable as the first. Over the last 18 months, Jeremy has had hundreds of conversations with founders and with the capital behind their companies. I don't know many investors with such a high rep count in the most interesting corners of private markets, so I asked him what he has learned. We talk about what those lessons mean for founders and investors, w"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-07-07T09:25:22.818Z",
+  "generatedAt": "2026-07-08T08:09:38.647Z",
   "lookbackHours": 336
 }

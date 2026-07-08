@@ -2,18 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "TOTO's Semiconductor Secret",
+      "videoId": "CIB49e_r1OI",
+      "url": "https://www.youtube.com/watch?v=CIB49e_r1OI",
+      "publishedAt": "2026-06-28T23:00:21+00:00"
+    },
+    {
+      "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "These AI Toll Roads Could Beat Out the Chip Makers!",
-      "videoId": "24TLedrmunI",
-      "url": "https://www.youtube.com/watch?v=24TLedrmunI",
-      "publishedAt": "2026-07-06T11:45:12+00:00"
+      "title": "Can France Really Win The World Cup?! 🇫🇷",
+      "videoId": "_oAttu9d7Zk",
+      "url": "https://www.youtube.com/watch?v=_oAttu9d7Zk",
+      "publishedAt": "2026-07-07T21:08:22+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why Are Central Banks Getting It So Wrong!? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "QCSXqups45A",
+      "url": "https://www.youtube.com/watch?v=QCSXqups45A",
+      "publishedAt": "2026-07-07T02:44:30+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why Bitcoin Still Can’t Catch a Bid?| Trading The Markets w/ Kris Bullock &amp; Bijan Maleki",
+      "videoId": "FbK_gbo8WsU",
+      "url": "https://www.youtube.com/watch?v=FbK_gbo8WsU",
+      "publishedAt": "2026-07-02T05:56:32+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-07-07T09:25:22.818Z",
+  "generatedAt": "2026-07-08T08:09:38.647Z",
   "lookbackHours": 336
 }
