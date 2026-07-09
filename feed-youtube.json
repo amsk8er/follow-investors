@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "TOTO's Semiconductor Secret",
-      "videoId": "CIB49e_r1OI",
-      "url": "https://www.youtube.com/watch?v=CIB49e_r1OI",
-      "publishedAt": "2026-06-28T23:00:21+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Macro Mondays Live @10 am ET with Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "emT9KMYxcN4",
+      "url": "https://www.youtube.com/watch?v=emT9KMYxcN4",
+      "publishedAt": "2026-07-08T15:20:30+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Can France Really Win The World Cup?! 🇫🇷",
-      "videoId": "_oAttu9d7Zk",
-      "url": "https://www.youtube.com/watch?v=_oAttu9d7Zk",
-      "publishedAt": "2026-07-07T21:08:22+00:00"
+      "title": "The Next Pain Trade?",
+      "videoId": "U1XQ2Hn2PNc",
+      "url": "https://www.youtube.com/watch?v=U1XQ2Hn2PNc",
+      "publishedAt": "2026-06-29T21:08:20+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Are Central Banks Getting It So Wrong!? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "QCSXqups45A",
-      "url": "https://www.youtube.com/watch?v=QCSXqups45A",
-      "publishedAt": "2026-07-07T02:44:30+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why Bitcoin Still Can’t Catch a Bid?| Trading The Markets w/ Kris Bullock &amp; Bijan Maleki",
-      "videoId": "FbK_gbo8WsU",
-      "url": "https://www.youtube.com/watch?v=FbK_gbo8WsU",
-      "publishedAt": "2026-07-02T05:56:32+00:00"
+      "title": "Why Investors Say Sentiment Looks Wrong in Crypto &amp; Macro Markets Right Now",
+      "videoId": "3LVb6esEFOk",
+      "url": "https://www.youtube.com/watch?v=3LVb6esEFOk",
+      "publishedAt": "2026-06-28T12:15:12+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-07-08T08:09:38.647Z",
+  "generatedAt": "2026-07-09T09:22:25.879Z",
   "lookbackHours": 336
 }
