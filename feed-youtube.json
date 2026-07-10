@@ -2,38 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Macro Mondays Live @10 am ET with Andreas Steno &amp; Mikkel Rosenvold",
-      "videoId": "emT9KMYxcN4",
-      "url": "https://www.youtube.com/watch?v=emT9KMYxcN4",
-      "publishedAt": "2026-07-08T15:20:30+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "RCA Made a Vacuum Tube to Beat the Transistor",
+      "videoId": "08_Bh7P93NY",
+      "url": "https://www.youtube.com/watch?v=08_Bh7P93NY",
+      "publishedAt": "2026-07-09T23:00:32+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Next Pain Trade?",
-      "videoId": "U1XQ2Hn2PNc",
-      "url": "https://www.youtube.com/watch?v=U1XQ2Hn2PNc",
-      "publishedAt": "2026-06-29T21:08:20+00:00"
+      "title": "The Debt Trap Is Just Getting Started!",
+      "videoId": "wEuI-AHmZDo",
+      "url": "https://www.youtube.com/watch?v=wEuI-AHmZDo",
+      "publishedAt": "2026-07-09T11:30:08+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Investors Say Sentiment Looks Wrong in Crypto &amp; Macro Markets Right Now",
-      "videoId": "3LVb6esEFOk",
-      "url": "https://www.youtube.com/watch?v=3LVb6esEFOk",
-      "publishedAt": "2026-06-28T12:15:12+00:00"
+      "title": "Everyone Wrong About The Dollar? with Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays LIVE @10am ET",
+      "videoId": "BuMXM5y0nXk",
+      "url": "https://www.youtube.com/watch?v=BuMXM5y0nXk",
+      "publishedAt": "2026-06-30T02:42:31+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 3
   },
-  "generatedAt": "2026-07-09T09:22:25.879Z",
+  "generatedAt": "2026-07-10T09:19:40.323Z",
   "lookbackHours": 336
 }
