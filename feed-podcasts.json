@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]",
-      "guid": "532910c4-743d-11f1-b7dc-b31915c88b79",
-      "url": "https://colossus.com/episode/the-future-of-ai-hardware/",
-      "publishedAt": "Tue, 30 Jun 2026 15:00:00 -0000",
-      "description": "My guests today are Gavin Uberti and Rob Wachen, the founders of Etched. A few years ago, when they set out to build a better AI chip than the largest companies in the world, almost everyone I called told me it could not be done. They have since done it, taping out a working chip on their first attempt and becoming the first hardware company founded after ChatGPT to do so. They already have more than a billion dollars of customer demand for their first product, and have raised eight hundred mill"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-07-10T09:19:40.323Z",
+  "generatedAt": "2026-07-11T07:41:13.899Z",
   "lookbackHours": 336
 }
