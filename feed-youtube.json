@@ -1,39 +1,8 @@
 {
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The 40-Year Mystery of the Iron Nitride Magnet",
-      "videoId": "MSLIC5yDHQc",
-      "url": "https://www.youtube.com/watch?v=MSLIC5yDHQc",
-      "publishedAt": "2026-07-02T22:00:23+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Can AI Save the Economy From a Debt Crisis?!",
-      "videoId": "lw14E7LRx9I",
-      "url": "https://www.youtube.com/watch?v=lw14E7LRx9I",
-      "publishedAt": "2026-07-02T20:30:04+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why Bitcoin Still Can’t Catch a Bid?| Trading The Markets w/ Kris Bullock &amp; Bijan Maleki",
-      "videoId": "pWTvx-zjJ_s",
-      "url": "https://www.youtube.com/watch?v=pWTvx-zjJ_s",
-      "publishedAt": "2026-07-02T16:11:30+00:00"
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 0
   },
-  "generatedAt": "2026-07-11T07:41:13.899Z",
+  "generatedAt": "2026-07-12T08:01:32.232Z",
   "lookbackHours": 336
 }
