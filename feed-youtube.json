@@ -1,8 +1,39 @@
 {
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "AI竟与100年前电力革命如此相似？90%的人都看错方向，历史已指明最大商机！",
+      "videoId": "0kvj3lbJqoY",
+      "url": "https://www.youtube.com/watch?v=0kvj3lbJqoY",
+      "publishedAt": "2026-07-12T13:06:33+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Peter Brandt's Rule Every Trader Should Know",
+      "videoId": "Wc8_Nt1L0iU",
+      "url": "https://www.youtube.com/watch?v=Wc8_Nt1L0iU",
+      "publishedAt": "2026-07-12T19:00:18+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Bitcoin’s Bear Market Isn’t Over Yet, But A Summer Rally Possible? w/ @RektCapital &amp; Kris Bullock",
+      "videoId": "cS1i-G6pq_Q",
+      "url": "https://www.youtube.com/watch?v=cS1i-G6pq_Q",
+      "publishedAt": "2026-07-12T14:00:17+00:00"
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-07-12T08:01:32.232Z",
+  "generatedAt": "2026-07-13T08:50:57.655Z",
   "lookbackHours": 336
 }
