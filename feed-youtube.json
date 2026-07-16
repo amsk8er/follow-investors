@@ -2,38 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Debt-Fueled Collapse of China’s Top Machine Tool Maker",
-      "videoId": "HUBB8DoiB80",
-      "url": "https://www.youtube.com/watch?v=HUBB8DoiB80",
-      "publishedAt": "2026-07-05T23:00:16+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Ethereum Bull Case!",
+      "videoId": "5cyQ3QsU8r0",
+      "url": "https://www.youtube.com/watch?v=5cyQ3QsU8r0",
+      "publishedAt": "2026-07-15T11:00:03+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "US vs China - The Most Important Race Ever!",
-      "videoId": "I71XejoWHlI",
-      "url": "https://www.youtube.com/watch?v=I71XejoWHlI",
-      "publishedAt": "2026-07-05T19:00:23+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The Market Is Misreading Inflation, Oil, and the Fed | Maleeha Bengali",
-      "videoId": "YsR_uqKU-5s",
-      "url": "https://www.youtube.com/watch?v=YsR_uqKU-5s",
-      "publishedAt": "2026-07-05T13:00:22+00:00"
+      "title": "What Could Beat Out The Chip Makers?",
+      "videoId": "24TLedrmunI",
+      "url": "https://www.youtube.com/watch?v=24TLedrmunI",
+      "publishedAt": "2026-07-06T11:45:12+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-07-15T07:51:46.649Z",
+  "generatedAt": "2026-07-16T07:57:07.100Z",
   "lookbackHours": 336
 }
