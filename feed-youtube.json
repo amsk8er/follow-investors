@@ -2,38 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Miraculous Cochlear Ear Implant",
-      "videoId": "MXhd5D9eXXk",
-      "url": "https://www.youtube.com/watch?v=MXhd5D9eXXk",
-      "publishedAt": "2026-07-16T23:00:33+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "This Chart Has Matched Bitcoin Almost PERFECTLY",
+      "videoId": "kYPcSWy2ABI",
+      "url": "https://www.youtube.com/watch?v=kYPcSWy2ABI",
+      "publishedAt": "2026-07-17T16:00:14+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Can France Really Win The World Cup?! 🇫🇷",
-      "videoId": "_oAttu9d7Zk",
-      "url": "https://www.youtube.com/watch?v=_oAttu9d7Zk",
-      "publishedAt": "2026-07-07T21:08:22+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why Are Central Banks Getting It So Wrong!? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "QCSXqups45A",
-      "url": "https://www.youtube.com/watch?v=QCSXqups45A",
-      "publishedAt": "2026-07-07T02:44:30+00:00"
+      "title": "Why Global Liquidity May Be Turning Against Markets | With Michael Howell",
+      "videoId": "HHeRDiWWprk",
+      "url": "https://www.youtube.com/watch?v=HHeRDiWWprk",
+      "publishedAt": "2026-07-16T20:49:58+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-07-17T07:53:40.470Z",
+  "generatedAt": "2026-07-18T07:28:39.640Z",
   "lookbackHours": 336
 }
