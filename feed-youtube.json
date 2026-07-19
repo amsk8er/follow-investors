@@ -2,28 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "This Chart Has Matched Bitcoin Almost PERFECTLY",
-      "videoId": "kYPcSWy2ABI",
-      "url": "https://www.youtube.com/watch?v=kYPcSWy2ABI",
-      "publishedAt": "2026-07-17T16:00:14+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "RCA Made a Vacuum Tube to Beat the Transistor",
+      "videoId": "08_Bh7P93NY",
+      "url": "https://www.youtube.com/watch?v=08_Bh7P93NY",
+      "publishedAt": "2026-07-09T23:00:32+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "加息是否会引发美股大跌？AI投资会不会转向？下半年最大风险，你该如何应对？",
+      "videoId": "SPyXyB7lgWU",
+      "url": "https://www.youtube.com/watch?v=SPyXyB7lgWU",
+      "publishedAt": "2026-07-19T03:13:40+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Global Liquidity May Be Turning Against Markets | With Michael Howell",
-      "videoId": "HHeRDiWWprk",
-      "url": "https://www.youtube.com/watch?v=HHeRDiWWprk",
-      "publishedAt": "2026-07-16T20:49:58+00:00"
+      "title": "The Debt Trap Is Just Getting Started!",
+      "videoId": "wEuI-AHmZDo",
+      "url": "https://www.youtube.com/watch?v=wEuI-AHmZDo",
+      "publishedAt": "2026-07-09T11:30:08+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-07-18T07:28:39.640Z",
+  "generatedAt": "2026-07-19T08:00:50.932Z",
   "lookbackHours": 336
 }
