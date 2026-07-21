@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Matthew Smith — How America Runs Out of Natural Gas by 2030 - [Invest Like the Best, EP.483]",
+      "guid": "28a024d4-849e-11f1-a2f7-af48456aa9fb",
+      "url": "https://colossus.com/episode/americas-next-energy-crisis/",
+      "publishedAt": "Tue, 21 Jul 2026 08:00:00 -0000",
+      "description": "My guest today is Matthew Smith. Matthew is the founder and CIO of Chronometer Partners, which invests in energy, industrials, materials, power and utilities, and related infrastructure. For the last 18 months he and his team have modeled nearly every natural gas well, pipeline, and processing asset in the United States. He's reached a conclusion most of the market doesn't share.&nbsp; Starting in 2028, AI data centers and LNG exports will need more gas than the country can produce and deliver. "
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-07-20T08:42:01.605Z",
+  "generatedAt": "2026-07-21T08:09:04.597Z",
   "lookbackHours": 336
 }
