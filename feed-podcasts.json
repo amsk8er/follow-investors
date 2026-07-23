@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]",
+      "guid": "78e0a26e-7f00-11f1-b43d-f79b97e3a2f1",
+      "url": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
+      "publishedAt": "Tue, 14 Jul 2026 08:00:00 -0000",
+      "description": "Today my guest is John Kim. John is one of the world's top and most prolific fundraisers.&nbsp; He was chief client officer at General Catalyst, where he helped raise many of the firm's flagship funds. He is now chairman and president of corporate development at Lila Sciences, a company building scientific superintelligence, where he has helped raise several hundred million dollars.&nbsp; He is also the author of The Tao of Fundraising.&nbsp; This conversation is really a guide on how to raise m"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-07-22T08:09:36.361Z",
+  "generatedAt": "2026-07-23T08:13:12.219Z",
   "lookbackHours": 336
 }

@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "AI竟与100年前电力革命如此相似？90%的人都看错方向，历史已指明最大商机！",
-      "videoId": "0kvj3lbJqoY",
-      "url": "https://www.youtube.com/watch?v=0kvj3lbJqoY",
-      "publishedAt": "2026-07-12T13:06:33+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Problem Nobody Wants to Talk About",
+      "videoId": "r7fQmJIXNIg",
+      "url": "https://www.youtube.com/watch?v=r7fQmJIXNIg",
+      "publishedAt": "2026-07-22T15:30:21+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is This Sell-Off Becoming A Crisis?!",
-      "videoId": "lcyL_r-Pveg",
-      "url": "https://www.youtube.com/watch?v=lcyL_r-Pveg",
-      "publishedAt": "2026-07-21T21:15:24+00:00"
+      "title": "Every Trader Should Know THIS Rule!",
+      "videoId": "Wc8_Nt1L0iU",
+      "url": "https://www.youtube.com/watch?v=Wc8_Nt1L0iU",
+      "publishedAt": "2026-07-12T19:00:18+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Think the AI Boom Has Peaked? #ai #semiconductors #investing",
-      "videoId": "ZB9dgyZHYbY",
-      "url": "https://www.youtube.com/watch?v=ZB9dgyZHYbY",
-      "publishedAt": "2026-07-13T21:20:55+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why Did the Iran War Restart? | Macro Mondays w/ Andreas Steno &amp; Mikkel Rosenvold",
-      "videoId": "G8WqFYZW08s",
-      "url": "https://www.youtube.com/watch?v=G8WqFYZW08s",
-      "publishedAt": "2026-07-13T16:05:40+00:00"
+      "title": "Bitcoin Breakdown or Bottoming Process? | @RektCapital &amp; Kris Bullock",
+      "videoId": "cS1i-G6pq_Q",
+      "url": "https://www.youtube.com/watch?v=cS1i-G6pq_Q",
+      "publishedAt": "2026-07-12T14:00:17+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-07-22T08:09:36.361Z",
+  "generatedAt": "2026-07-23T08:13:12.219Z",
   "lookbackHours": 336
 }
