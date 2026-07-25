@@ -2,38 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "One Move Away From a Breakout!?",
-      "videoId": "yTNlepB7zlc",
-      "url": "https://www.youtube.com/watch?v=yTNlepB7zlc",
-      "publishedAt": "2026-07-23T13:49:39+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Hybrid Memory Cube: HBM's Challenger #short #history #tech",
+      "videoId": "CbY8WHmGgMY",
+      "url": "https://www.youtube.com/watch?v=CbY8WHmGgMY",
+      "publishedAt": "2026-07-25T03:00:34+00:00"
     },
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Trading the Markets: Bitcoin, ETH, and the Altcoins That Matter Now w/ Kris Bullock &amp; Bijan Maleki",
-      "videoId": "_0MTgUWJ3xQ",
-      "url": "https://www.youtube.com/watch?v=_0MTgUWJ3xQ",
-      "publishedAt": "2026-07-23T12:32:32+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The Bull Case for Ethereum! 📈",
-      "videoId": "5cyQ3QsU8r0",
-      "url": "https://www.youtube.com/watch?v=5cyQ3QsU8r0",
-      "publishedAt": "2026-07-15T11:00:03+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "The Miraculous Cochlear Ear Implant",
+      "videoId": "MXhd5D9eXXk",
+      "url": "https://www.youtube.com/watch?v=MXhd5D9eXXk",
+      "publishedAt": "2026-07-16T23:00:33+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-07-24T08:09:06.109Z",
+  "generatedAt": "2026-07-25T07:51:31.423Z",
   "lookbackHours": 336
 }
