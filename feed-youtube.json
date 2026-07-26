@@ -2,28 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Hybrid Memory Cube: HBM's Challenger #short #history #tech",
-      "videoId": "CbY8WHmGgMY",
-      "url": "https://www.youtube.com/watch?v=CbY8WHmGgMY",
-      "publishedAt": "2026-07-25T03:00:34+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "财报深度分析：特斯拉暴跌的惊人规律？跌幅还没到头！但买点已经清晰！",
+      "videoId": "-_U4YHElE2k",
+      "url": "https://www.youtube.com/watch?v=-_U4YHElE2k",
+      "publishedAt": "2026-07-26T02:20:22+00:00"
     },
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Miraculous Cochlear Ear Implant",
-      "videoId": "MXhd5D9eXXk",
-      "url": "https://www.youtube.com/watch?v=MXhd5D9eXXk",
-      "publishedAt": "2026-07-16T23:00:33+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why Global Liquidity May Be Turning Against Markets | With Michael Howell",
+      "videoId": "HHeRDiWWprk",
+      "url": "https://www.youtube.com/watch?v=HHeRDiWWprk",
+      "publishedAt": "2026-07-19T13:00:05+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "This Chart Has Matched Bitcoin Almost PERFECTLY",
+      "videoId": "kYPcSWy2ABI",
+      "url": "https://www.youtube.com/watch?v=kYPcSWy2ABI",
+      "publishedAt": "2026-07-17T16:00:14+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-07-25T07:51:31.423Z",
+  "generatedAt": "2026-07-26T08:09:55.387Z",
   "lookbackHours": 336
 }
