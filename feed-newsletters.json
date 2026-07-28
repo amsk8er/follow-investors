@@ -1,8 +1,19 @@
 {
-  "newsletters": [],
+  "newsletters": [
+    {
+      "source": "newsletter",
+      "name": "Fabricated Knowledge",
+      "author": "Doug O'Laughlin",
+      "tag": "产业研究",
+      "title": "Close but Not Quite",
+      "url": "https://www.fabricatedknowledge.com/p/close-but-not-quite",
+      "publishedAt": "Mon, 27 Jul 2026 20:48:06 GMT",
+      "description": "It's not the end of this washout."
+    }
+  ],
   "stats": {
-    "newsletterArticles": 0
+    "newsletterArticles": 1
   },
-  "generatedAt": "2026-07-27T09:33:13.636Z",
+  "generatedAt": "2026-07-28T08:16:12.581Z",
   "lookbackHours": 72
 }

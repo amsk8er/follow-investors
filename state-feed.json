@@ -1,10 +1,6 @@
 {
   "seenTweets": {},
   "seenEpisodes": {
-    "28a024d4-849e-11f1-a2f7-af48456aa9fb": 1784621461503,
-    "HRpLuO9yEUg": 1784621464174,
-    "a-i41YeAzsM": 1784621464174,
-    "KTIjSfG0K8I": 1784621464174,
     "0kvj3lbJqoY": 1784707893744,
     "lcyL_r-Pveg": 1784707894297,
     "ZB9dgyZHYbY": 1784707894297,
@@ -24,7 +20,14 @@
     "byWZoKCdePo": 1785144911532,
     "SPyXyB7lgWU": 1785144912493,
     "oveUXlRZatU": 1785144913359,
-    "hzD3kSL_haE": 1785144913359
+    "hzD3kSL_haE": 1785144913359,
+    "aa5cce3c-879b-11f1-8b29-8bc127cc1ad0": 1785226685022,
+    "MFgYnxHumsY": 1785226686132,
+    "KMh6VJclRc0": 1785226687625,
+    "W0fHG--EIQU": 1785226687625,
+    "pWTvx-zjJ_s": 1785226687625
   },
-  "seenArticles": {}
+  "seenArticles": {
+    "https://www.fabricatedknowledge.com/p/close-but-not-quite": 1785226685533
+  }
 }
