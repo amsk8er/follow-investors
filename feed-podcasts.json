@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
-      "guid": "28a024d4-849e-11f1-a2f7-af48456aa9fb",
-      "url": "https://colossus.com/episode/americas-next-energy-crisis/",
-      "publishedAt": "Tue, 21 Jul 2026 08:00:00 -0000",
-      "description": "My guest today is Matthew Smith. Matthew is the founder and CIO of Chronometer Partners, which invests in energy, industrials, materials, power and utilities, and related infrastructure. For the last 18 months he and his team have modeled nearly every natural gas well, pipeline, and processing asset in the United States. He's reached a conclusion most of the market doesn't share.&nbsp; Starting in 2028, AI data centers and LNG exports will need more gas than the country can produce and deliver. "
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-07-29T08:22:21.562Z",
+  "generatedAt": "2026-07-30T08:08:38.057Z",
   "lookbackHours": 336
 }
