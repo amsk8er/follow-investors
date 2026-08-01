@@ -2,18 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Gallium Nitride: From Light to Power",
-      "videoId": "srGmVOFpasU",
-      "url": "https://www.youtube.com/watch?v=srGmVOFpasU",
-      "publishedAt": "2026-07-30T23:00:34+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "One Move Away From a Breakout!?",
+      "videoId": "yTNlepB7zlc",
+      "url": "https://www.youtube.com/watch?v=yTNlepB7zlc",
+      "publishedAt": "2026-07-23T13:49:39+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Bitcoin, ETH, and the Altcoins That Matter Now| Trading the Markets w/ Kris Bullock",
+      "videoId": "_0MTgUWJ3xQ",
+      "url": "https://www.youtube.com/watch?v=_0MTgUWJ3xQ",
+      "publishedAt": "2026-07-23T12:32:32+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-07-31T08:35:50.545Z",
+  "generatedAt": "2026-08-01T08:05:17.371Z",
   "lookbackHours": 336
 }
