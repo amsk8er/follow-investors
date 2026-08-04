@@ -2,28 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "ADSL's Copper Miracle",
-      "videoId": "phoeSk-qY8s",
-      "url": "https://www.youtube.com/watch?v=phoeSk-qY8s",
-      "publishedAt": "2026-08-02T23:00:05+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "财报深度分析：特斯拉暴跌的惊人规律？跌幅还没到头！但买点已经清晰！",
+      "videoId": "-_U4YHElE2k",
+      "url": "https://www.youtube.com/watch?v=-_U4YHElE2k",
+      "publishedAt": "2026-07-26T02:20:22+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Cem Karsan: This Market Has Become Too Big to Fail",
-      "videoId": "5KrgIjDDYYg",
-      "url": "https://www.youtube.com/watch?v=5KrgIjDDYYg",
-      "publishedAt": "2026-08-02T13:30:26+00:00"
+      "title": "&quot;The Trump Media API Is Wild!&quot; - Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "Jo0OhvLf7EY",
+      "url": "https://www.youtube.com/watch?v=Jo0OhvLf7EY",
+      "publishedAt": "2026-08-03T20:00:03+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 2
   },
-  "generatedAt": "2026-08-03T09:24:33.017Z",
+  "generatedAt": "2026-08-04T08:22:42.807Z",
   "lookbackHours": 336
 }
