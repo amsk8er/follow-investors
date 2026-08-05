@@ -2,28 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "财报深度分析：特斯拉暴跌的惊人规律？跌幅还没到头！但买点已经清晰！",
-      "videoId": "-_U4YHElE2k",
-      "url": "https://www.youtube.com/watch?v=-_U4YHElE2k",
-      "publishedAt": "2026-07-26T02:20:22+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "True 3D DRAM",
+      "videoId": "byWZoKCdePo",
+      "url": "https://www.youtube.com/watch?v=byWZoKCdePo",
+      "publishedAt": "2026-07-26T23:00:00+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "&quot;The Trump Media API Is Wild!&quot; - Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "Jo0OhvLf7EY",
-      "url": "https://www.youtube.com/watch?v=Jo0OhvLf7EY",
-      "publishedAt": "2026-08-03T20:00:03+00:00"
+      "title": "Why The U.S. Just Rescued The Yen w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "Ob5lHnUeRNs",
+      "url": "https://www.youtube.com/watch?v=Ob5lHnUeRNs",
+      "publishedAt": "2026-08-04T18:07:04+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Does Bloom Energy Have A China Problem?",
+      "videoId": "KMh6VJclRc0",
+      "url": "https://www.youtube.com/watch?v=KMh6VJclRc0",
+      "publishedAt": "2026-07-27T11:30:02+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Cem Karsan &quot;A Crisis May Be Part of the Plan&quot;",
+      "videoId": "oveUXlRZatU",
+      "url": "https://www.youtube.com/watch?v=oveUXlRZatU",
+      "publishedAt": "2026-07-26T19:00:16+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-08-04T08:22:42.807Z",
+  "generatedAt": "2026-08-05T08:20:02.142Z",
   "lookbackHours": 336
 }
