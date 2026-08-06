@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Sam Altman - How to Make an Abundant Future - [Invest Like the Best, EP.484]",
-      "guid": "aa5cce3c-879b-11f1-8b29-8bc127cc1ad0",
-      "url": "https://colossus.com/episode/how-to-make-an-abundant-future/",
-      "publishedAt": "Tue, 28 Jul 2026 08:00:00 -0000",
-      "description": "My guest today is Sam Altman, CEO of OpenAI. It's a conversation spanning the history, present, and future of OpenAI, from the origin of ChatGPT through Codex, hardware, and their new Jalapeno chip. We discuss the early decision to buy compute at a scale nobody thought was rational, and the plan to build a gigawatt of new capacity every week.&nbsp; We talk about Kimi and distillation, the Hugging Face incident and what it means for the pace of AI development, and what it's like to raise kids who"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-08-05T08:20:02.142Z",
+  "generatedAt": "2026-08-06T08:16:54.062Z",
   "lookbackHours": 336
 }
