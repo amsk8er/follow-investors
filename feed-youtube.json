@@ -1,39 +1,8 @@
 {
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why The U.S. Just Rescued The Yen w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "KTIjSfG0K8I",
-      "url": "https://www.youtube.com/watch?v=KTIjSfG0K8I",
-      "publishedAt": "2026-08-03T14:38:45+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The Fed Has This Completely Wrong!",
-      "videoId": "wH4HcV1VMzY",
-      "url": "https://www.youtube.com/watch?v=wH4HcV1VMzY",
-      "publishedAt": "2026-07-29T11:45:28+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Watch the Dollar! - Raoul Pal",
-      "videoId": "oAc-TSvjp1A",
-      "url": "https://www.youtube.com/watch?v=oAc-TSvjp1A",
-      "publishedAt": "2026-07-28T14:51:05+00:00"
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 0
   },
-  "generatedAt": "2026-08-07T07:00:47.135Z",
+  "generatedAt": "2026-08-08T06:35:55.122Z",
   "lookbackHours": 336
 }
