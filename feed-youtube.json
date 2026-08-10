@@ -1,8 +1,69 @@
 {
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "The Dark Fiber Listening Network",
+      "videoId": "8939X_kFwG4",
+      "url": "https://www.youtube.com/watch?v=8939X_kFwG4",
+      "publishedAt": "2026-08-09T23:00:07+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Gallium Nitride: From Light to Power",
+      "videoId": "srGmVOFpasU",
+      "url": "https://www.youtube.com/watch?v=srGmVOFpasU",
+      "publishedAt": "2026-07-30T23:00:34+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "PLTR财报大涨30%！唯一AI应用股为何逆境反转？下一轮爆发来了？",
+      "videoId": "nLZ-C7bbZzs",
+      "url": "https://www.youtube.com/watch?v=nLZ-C7bbZzs",
+      "publishedAt": "2026-08-09T02:58:06+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why This Investor Thinks The Fed Is Making a Policy Mistake with Daniel Lacalle",
+      "videoId": "U2WwLW-m-Qc",
+      "url": "https://www.youtube.com/watch?v=U2WwLW-m-Qc",
+      "publishedAt": "2026-08-09T13:00:06+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Don't Miss The Commodity Boom!",
+      "videoId": "D0ztv8hPVAU",
+      "url": "https://www.youtube.com/watch?v=D0ztv8hPVAU",
+      "publishedAt": "2026-08-08T15:00:35+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Are Financial Conditions Finally Turning for Crypto? | Trading the Markets w/ Kris Bullock",
+      "videoId": "_0MTgUWJ3xQ",
+      "url": "https://www.youtube.com/watch?v=_0MTgUWJ3xQ",
+      "publishedAt": "2026-08-06T05:52:38+00:00"
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 6
   },
-  "generatedAt": "2026-08-09T06:39:07.597Z",
+  "generatedAt": "2026-08-10T07:12:35.525Z",
   "lookbackHours": 336
 }
