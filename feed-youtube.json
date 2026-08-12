@@ -1,8 +1,59 @@
 {
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "ADSL's Copper Miracle",
+      "videoId": "phoeSk-qY8s",
+      "url": "https://www.youtube.com/watch?v=phoeSk-qY8s",
+      "publishedAt": "2026-08-02T23:00:05+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "微软史无前例大反转！蛰伏一年，巨头终于准备好起飞了？",
+      "videoId": "9tREtYASGbs",
+      "url": "https://www.youtube.com/watch?v=9tREtYASGbs",
+      "publishedAt": "2026-08-02T02:29:16+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Trading the Markets @1pm ET with Kris Bullock &amp; Bijan Maleki",
+      "videoId": "tFk84CKmLes",
+      "url": "https://www.youtube.com/watch?v=tFk84CKmLes",
+      "publishedAt": "2026-08-11T13:13:58+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why Is the Fed Talking Hikes?",
+      "videoId": "rMSlhdFIbyY",
+      "url": "https://www.youtube.com/watch?v=rMSlhdFIbyY",
+      "publishedAt": "2026-08-11T11:45:05+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Government’s New Plan for Markets with Cem Karsan",
+      "videoId": "5KrgIjDDYYg",
+      "url": "https://www.youtube.com/watch?v=5KrgIjDDYYg",
+      "publishedAt": "2026-08-02T13:30:26+00:00"
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 5
   },
-  "generatedAt": "2026-08-11T06:50:34.722Z",
+  "generatedAt": "2026-08-12T07:09:53.210Z",
   "lookbackHours": 336
 }

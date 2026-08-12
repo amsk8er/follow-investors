@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Eric Vishria - A Decade of Lessons Investing in Software &amp; Hardware - [Invest Like the Best, EP.486]",
+      "guid": "be6f2778-94f0-11f1-8fc8-5fdf34225c7d",
+      "url": "https://colossus.com/episode/sandcastles-and-silicon/",
+      "publishedAt": "Tue, 11 Aug 2026 08:00:00 -0000",
+      "description": "My guest today is Eric Vishria, a General Partner at Benchmark.&nbsp; Eric has spent his career in software and cloud, and few people know the history of these markets as well as he does. What makes him special is his ability to use that history to make sense of today.&nbsp; We discuss what the rise of AWS teaches us about AI, what he has learned from investing in Fireworks, Sierra, and Cerebras, and how the criteria for winning have changed for founders and investors.&nbsp; Please enjoy my conv"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-08-11T06:50:34.722Z",
+  "generatedAt": "2026-08-12T07:09:53.210Z",
   "lookbackHours": 336
 }
