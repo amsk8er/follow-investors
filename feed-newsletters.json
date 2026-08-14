@@ -1,8 +1,19 @@
 {
-  "newsletters": [],
+  "newsletters": [
+    {
+      "source": "newsletter",
+      "name": "Fabricated Knowledge",
+      "author": "Doug O'Laughlin",
+      "tag": "产业研究",
+      "title": "The Cost of Time and AI Timelines",
+      "url": "https://www.fabricatedknowledge.com/p/the-cost-of-time-and-ai-timelines",
+      "publishedAt": "Thu, 13 Aug 2026 15:49:24 GMT",
+      "description": "Financing anything is just pulling forward the future."
+    }
+  ],
   "stats": {
-    "newsletterArticles": 0
+    "newsletterArticles": 1
   },
-  "generatedAt": "2026-08-13T07:13:44.800Z",
+  "generatedAt": "2026-08-14T07:10:10.014Z",
   "lookbackHours": 72
 }
