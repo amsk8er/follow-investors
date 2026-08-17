@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "早看早赚钱！掌握这套AI投资方法论，下半年安心抓机会，防风险！",
-      "videoId": "oZC00ImTJt8",
-      "url": "https://www.youtube.com/watch?v=oZC00ImTJt8",
-      "publishedAt": "2026-08-16T00:37:11+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "How TSMC Uses Old Fabs to Make New Chips",
+      "videoId": "cDxVYQrxeiQ",
+      "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
+      "publishedAt": "2026-08-16T23:00:31+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "South Korea’s Chip Exports Just Exploded 160%",
-      "videoId": "G4KZNJuMs4k",
-      "url": "https://www.youtube.com/watch?v=G4KZNJuMs4k",
-      "publishedAt": "2026-08-14T12:00:21+00:00"
+      "title": "Volatility Makes Investors Sell at the Worst Time!",
+      "videoId": "CXw3K55uxpE",
+      "url": "https://www.youtube.com/watch?v=CXw3K55uxpE",
+      "publishedAt": "2026-08-16T19:30:30+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Real Reason the Middle Class Is Getting Poorer",
-      "videoId": "V9jtRweRoqQ",
-      "url": "https://www.youtube.com/watch?v=V9jtRweRoqQ",
-      "publishedAt": "2026-08-05T11:45:14+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why The U.S. Just Rescued The Yen w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "KTIjSfG0K8I",
-      "url": "https://www.youtube.com/watch?v=KTIjSfG0K8I",
-      "publishedAt": "2026-08-03T14:38:45+00:00"
+      "title": "Why the USD/JPY Could Hit 200 | Weston Nakamura &amp; Ash Bennington",
+      "videoId": "XFNk96CabCg",
+      "url": "https://www.youtube.com/watch?v=XFNk96CabCg",
+      "publishedAt": "2026-08-16T13:00:34+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-08-16T06:23:13.747Z",
+  "generatedAt": "2026-08-17T06:34:59.784Z",
   "lookbackHours": 336
 }
