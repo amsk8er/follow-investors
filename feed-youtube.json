@@ -1,39 +1,8 @@
 {
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "How TSMC Uses Old Fabs to Make New Chips",
-      "videoId": "cDxVYQrxeiQ",
-      "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
-      "publishedAt": "2026-08-16T23:00:31+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Volatility Makes Investors Sell at the Worst Time!",
-      "videoId": "CXw3K55uxpE",
-      "url": "https://www.youtube.com/watch?v=CXw3K55uxpE",
-      "publishedAt": "2026-08-16T19:30:30+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why the USD/JPY Could Hit 200 | Weston Nakamura &amp; Ash Bennington",
-      "videoId": "XFNk96CabCg",
-      "url": "https://www.youtube.com/watch?v=XFNk96CabCg",
-      "publishedAt": "2026-08-16T13:00:34+00:00"
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 0
   },
-  "generatedAt": "2026-08-17T06:34:59.784Z",
+  "generatedAt": "2026-08-18T06:27:02.933Z",
   "lookbackHours": 336
 }
