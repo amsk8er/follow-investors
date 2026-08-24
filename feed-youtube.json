@@ -2,78 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "China's Fiery Incinerator Boom",
-      "videoId": "AuIEBSb2xiE",
-      "url": "https://www.youtube.com/watch?v=AuIEBSb2xiE",
-      "publishedAt": "2026-08-20T23:00:24+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "SK hynix and the HBM Revolution",
-      "videoId": "Cg5tAujp6Go",
-      "url": "https://www.youtube.com/watch?v=Cg5tAujp6Go",
-      "publishedAt": "2026-08-13T23:00:03+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Dark Fiber Listening Network",
-      "videoId": "8939X_kFwG4",
-      "url": "https://www.youtube.com/watch?v=8939X_kFwG4",
-      "publishedAt": "2026-08-09T23:00:07+00:00"
-    },
-    {
-      "source": "youtube",
       "channel": "美投讲美股",
       "handle": "@MeiTouJun",
       "tag": "中文压缩",
-      "title": "美债遭史诗级抛售！危机将至？对后市有何影响？",
-      "videoId": "_oDISo3B3xw",
-      "url": "https://www.youtube.com/watch?v=_oDISo3B3xw",
-      "publishedAt": "2026-08-23T01:13:48+00:00"
+      "title": "早看早赚钱！掌握这套AI投资方法论，下半年安心抓机会，防风险！",
+      "videoId": "oZC00ImTJt8",
+      "url": "https://www.youtube.com/watch?v=oZC00ImTJt8",
+      "publishedAt": "2026-08-16T00:37:11+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "When Your Shirt Accidentally Matches the Guest’s Mug",
-      "videoId": "WtAai9lNmzw",
-      "url": "https://www.youtube.com/watch?v=WtAai9lNmzw",
-      "publishedAt": "2026-08-22T13:00:09+00:00"
+      "title": "The U.S. Is Fighting an Economic War",
+      "videoId": "K_FsMcFT8i8",
+      "url": "https://www.youtube.com/watch?v=K_FsMcFT8i8",
+      "publishedAt": "2026-08-23T19:00:05+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Crypto Is Coiling for a Violent Move!?",
-      "videoId": "myV0uTbvd0Y",
-      "url": "https://www.youtube.com/watch?v=myV0uTbvd0Y",
-      "publishedAt": "2026-08-20T20:45:14+00:00"
+      "title": "The Fed Just Changed the Rules for Investors with Jim Bianco &amp; Andreas Steno",
+      "videoId": "lFpQuOEzGzc",
+      "url": "https://www.youtube.com/watch?v=lFpQuOEzGzc",
+      "publishedAt": "2026-08-23T13:00:28+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Treasury Just Flipped the Setup for BTC &amp; Gold w/ Kris Bullock &amp; Bijan Maleki | Trading the Markets",
-      "videoId": "-RQjMRjDmuk",
-      "url": "https://www.youtube.com/watch?v=-RQjMRjDmuk",
-      "publishedAt": "2026-08-19T17:55:39+00:00"
+      "title": "This is Why Investors Should Be Watching The Dollar",
+      "videoId": "grOKbQJjlU4",
+      "url": "https://www.youtube.com/watch?v=grOKbQJjlU4",
+      "publishedAt": "2026-08-19T11:40:20+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 7
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-08-23T06:24:58.179Z",
+  "generatedAt": "2026-08-24T06:37:33.923Z",
   "lookbackHours": 336
 }
