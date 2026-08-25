@@ -1,49 +1,8 @@
 {
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "早看早赚钱！掌握这套AI投资方法论，下半年安心抓机会，防风险！",
-      "videoId": "oZC00ImTJt8",
-      "url": "https://www.youtube.com/watch?v=oZC00ImTJt8",
-      "publishedAt": "2026-08-16T00:37:11+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The U.S. Is Fighting an Economic War",
-      "videoId": "K_FsMcFT8i8",
-      "url": "https://www.youtube.com/watch?v=K_FsMcFT8i8",
-      "publishedAt": "2026-08-23T19:00:05+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The Fed Just Changed the Rules for Investors with Jim Bianco &amp; Andreas Steno",
-      "videoId": "lFpQuOEzGzc",
-      "url": "https://www.youtube.com/watch?v=lFpQuOEzGzc",
-      "publishedAt": "2026-08-23T13:00:28+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "This is Why Investors Should Be Watching The Dollar",
-      "videoId": "grOKbQJjlU4",
-      "url": "https://www.youtube.com/watch?v=grOKbQJjlU4",
-      "publishedAt": "2026-08-19T11:40:20+00:00"
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 0
   },
-  "generatedAt": "2026-08-24T06:37:33.923Z",
+  "generatedAt": "2026-08-25T06:29:35.119Z",
   "lookbackHours": 336
 }
