@@ -1,8 +1,59 @@
 {
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Has the Solid State Transformer’s Time Finally Come?",
+      "videoId": "Oytqz3zuB7w",
+      "url": "https://www.youtube.com/watch?v=Oytqz3zuB7w",
+      "publishedAt": "2026-08-24T14:00:11+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "How TSMC Uses Old Fabs to Make New Chips",
+      "videoId": "cDxVYQrxeiQ",
+      "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
+      "publishedAt": "2026-08-16T23:00:31+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Scott Bessent Just Changed the Liquidity Setup w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "OhrXA6cY0Yg",
+      "url": "https://www.youtube.com/watch?v=OhrXA6cY0Yg",
+      "publishedAt": "2026-08-24T16:06:59+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Trading the Markets: Bitcoin &amp; Gold w/ Kris Bullock &amp; Bijan Maleki | LIVE Wednesday @ 1pm ET",
+      "videoId": "L9SIgvqih6o",
+      "url": "https://www.youtube.com/watch?v=L9SIgvqih6o",
+      "publishedAt": "2026-08-24T15:10:50+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why Q4 Could Be Huge for Markets! w/ Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "hQJMq-opNJw",
+      "url": "https://www.youtube.com/watch?v=hQJMq-opNJw",
+      "publishedAt": "2026-08-17T15:32:18+00:00"
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 5
   },
-  "generatedAt": "2026-08-25T06:29:35.119Z",
+  "generatedAt": "2026-08-26T06:32:05.885Z",
   "lookbackHours": 336
 }
