@@ -2,58 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Has the Solid State Transformer’s Time Finally Come?",
-      "videoId": "Oytqz3zuB7w",
-      "url": "https://www.youtube.com/watch?v=Oytqz3zuB7w",
-      "publishedAt": "2026-08-24T14:00:11+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "How TSMC Uses Old Fabs to Make New Chips",
-      "videoId": "cDxVYQrxeiQ",
-      "url": "https://www.youtube.com/watch?v=cDxVYQrxeiQ",
-      "publishedAt": "2026-08-16T23:00:31+00:00"
-    },
-    {
-      "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
       "title": "Scott Bessent Just Changed the Liquidity Setup w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "OhrXA6cY0Yg",
-      "url": "https://www.youtube.com/watch?v=OhrXA6cY0Yg",
-      "publishedAt": "2026-08-24T16:06:59+00:00"
+      "videoId": "FdMEvk0geOw",
+      "url": "https://www.youtube.com/watch?v=FdMEvk0geOw",
+      "publishedAt": "2026-08-26T15:25:38+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Trading the Markets: Bitcoin &amp; Gold w/ Kris Bullock &amp; Bijan Maleki | LIVE Wednesday @ 1pm ET",
-      "videoId": "L9SIgvqih6o",
-      "url": "https://www.youtube.com/watch?v=L9SIgvqih6o",
-      "publishedAt": "2026-08-24T15:10:50+00:00"
+      "title": "Who’s Really Buying U.S. Treasuries?",
+      "videoId": "s4VjSZpfEyo",
+      "url": "https://www.youtube.com/watch?v=s4VjSZpfEyo",
+      "publishedAt": "2026-08-26T11:45:00+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Q4 Could Be Huge for Markets! w/ Andreas Steno &amp; Mikkel Rosenvold",
-      "videoId": "hQJMq-opNJw",
-      "url": "https://www.youtube.com/watch?v=hQJMq-opNJw",
-      "publishedAt": "2026-08-17T15:32:18+00:00"
+      "title": "Jim Bianco: AI Leaders Made the Backlash Much Worse!",
+      "videoId": "Ld2D7SDcVnA",
+      "url": "https://www.youtube.com/watch?v=Ld2D7SDcVnA",
+      "publishedAt": "2026-08-17T11:30:33+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-08-26T06:32:05.885Z",
+  "generatedAt": "2026-08-27T17:08:09.414Z",
   "lookbackHours": 336
 }
