@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Ben Thompson on Big Tech, China, and the AI Boom Running Out of Money - [Invest Like the Best, EP.487]",
-      "guid": "b0356202-9aa0-11f1-b3c3-6bc8a0cf3d6f",
-      "url": "https://colossus.com/episode/winners-losers-ai-era/",
-      "publishedAt": "Tue, 18 Aug 2026 08:00:00 -0000",
-      "description": "My guest today is Ben Thompson, the founder and author of Stratechery. Ben is one of my favorite business thinkers and I love talking to him about everything happening in markets and technology.&nbsp; We go through every important company, including OpenAI, Nvidia, Intel, Apple, Microsoft, Google, and Amazon. We also discuss why he thinks it would be dangerous for the United States to win the AI race outright, what container shipping and the railroads of the 1870s tell us about the buildout, and"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-08-27T17:08:09.414Z",
+  "generatedAt": "2026-08-28T17:55:04.474Z",
   "lookbackHours": 336
 }
