@@ -1,29 +1,8 @@
 {
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Your Eyeballs Already Have a Market Price",
-      "videoId": "8sNF2JbKzok",
-      "url": "https://www.youtube.com/watch?v=8sNF2JbKzok",
-      "publishedAt": "2026-08-27T20:45:29+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The Real Story Behind the Yen Intervention | Weston Nakamura &amp; Ash Bennington",
-      "videoId": "XFNk96CabCg",
-      "url": "https://www.youtube.com/watch?v=XFNk96CabCg",
-      "publishedAt": "2026-08-16T13:00:34+00:00"
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 0
   },
-  "generatedAt": "2026-08-28T17:55:04.474Z",
+  "generatedAt": "2026-08-29T11:59:31.703Z",
   "lookbackHours": 336
 }
