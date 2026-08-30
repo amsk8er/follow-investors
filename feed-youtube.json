@@ -1,8 +1,29 @@
 {
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "AI产业巨变！英伟达将迎来二次爆发？",
+      "videoId": "yDGpqBKJBpc",
+      "url": "https://www.youtube.com/watch?v=yDGpqBKJBpc",
+      "publishedAt": "2026-08-30T02:01:08+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Oil Could Be About to Make Another Major Move Higher",
+      "videoId": "i3Byy_rNHrk",
+      "url": "https://www.youtube.com/watch?v=i3Byy_rNHrk",
+      "publishedAt": "2026-08-28T11:45:07+00:00"
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-08-29T11:59:31.703Z",
+  "generatedAt": "2026-08-30T10:56:14.274Z",
   "lookbackHours": 336
 }
