@@ -2,68 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Little Ceiling Robots Inside a Semiconductor Fab",
-      "videoId": "SwYDxh3PQJ0",
-      "url": "https://www.youtube.com/watch?v=SwYDxh3PQJ0",
-      "publishedAt": "2026-08-30T23:00:33+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "China's Fiery Incinerator Boom",
-      "videoId": "AuIEBSb2xiE",
-      "url": "https://www.youtube.com/watch?v=AuIEBSb2xiE",
-      "publishedAt": "2026-08-20T23:00:24+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "美债遭史诗级抛售！危机将至？对后市有何影响？",
-      "videoId": "_oDISo3B3xw",
-      "url": "https://www.youtube.com/watch?v=_oDISo3B3xw",
-      "publishedAt": "2026-08-23T01:13:48+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Bitcoin Could Make One More High Before It Turns",
+      "videoId": "JK1CbEPa3lo",
+      "url": "https://www.youtube.com/watch?v=JK1CbEPa3lo",
+      "publishedAt": "2026-08-31T12:15:03+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why America’s Battery Boom Needs More Lithium",
-      "videoId": "b4mV3Hqnul8",
-      "url": "https://www.youtube.com/watch?v=b4mV3Hqnul8",
-      "publishedAt": "2026-08-30T19:00:04+00:00"
+      "title": "The U.S. Is Fighting an Economic War",
+      "videoId": "K_FsMcFT8i8",
+      "url": "https://www.youtube.com/watch?v=K_FsMcFT8i8",
+      "publishedAt": "2026-08-23T19:00:05+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why AI Could Trigger the Next Lithium Boom w/ Howard Klein and Matt Fernley of @RockStockChannel",
-      "videoId": "IIsF8dmCJFY",
-      "url": "https://www.youtube.com/watch?v=IIsF8dmCJFY",
-      "publishedAt": "2026-08-30T13:00:17+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "When Your Shirt Accidentally Matches the Guest’s Mug",
-      "videoId": "WtAai9lNmzw",
-      "url": "https://www.youtube.com/watch?v=WtAai9lNmzw",
-      "publishedAt": "2026-08-22T13:00:09+00:00"
+      "title": "The Fed Just Changed the Rules for Investors with Jim Bianco &amp; Andreas Steno",
+      "videoId": "lFpQuOEzGzc",
+      "url": "https://www.youtube.com/watch?v=lFpQuOEzGzc",
+      "publishedAt": "2026-08-23T13:00:28+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 6
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-08-31T12:13:12.648Z",
+  "generatedAt": "2026-09-01T10:49:13.914Z",
   "lookbackHours": 336
 }
