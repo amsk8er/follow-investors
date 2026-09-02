@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Sarah Guo - What the 250 People Building AI Believe - [Invest Like the Best, EP.489]",
-      "guid": "987a3d0c-a547-11f1-907d-e7244a2569a6",
-      "url": "https://colossus.com/episode/no-priors-just-conviction/",
-      "publishedAt": "Tue, 01 Sep 2026 08:00:00 -0000",
-      "description": "My guest today is Sarah Guo, founder and managing partner of Conviction, the venture firm she built to back AI-native companies from their earliest days.&nbsp; Sarah has become one of the most sought-after early-stage investors in AI, often the first check into the companies defining the frontier.&nbsp; In this conversation, we go inside that frontier: what the small group of people actually building AI believe right now, why some of the field's best researchers are wrestling with their own sens"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-09-01T10:49:13.914Z",
+  "generatedAt": "2026-09-02T10:13:42.602Z",
   "lookbackHours": 336
 }
