@@ -2,38 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Is the Risk-On Trade in Trouble Now? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "gf_Yt46JN7U",
-      "url": "https://www.youtube.com/watch?v=gf_Yt46JN7U",
-      "publishedAt": "2026-09-01T15:41:05+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Has the Solid State Transformer’s Time Finally Come?",
+      "videoId": "Oytqz3zuB7w",
+      "url": "https://www.youtube.com/watch?v=Oytqz3zuB7w",
+      "publishedAt": "2026-08-24T14:00:11+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Trading The Markets every Wednesday LIVE @ 1pm ET  w/ Kris Bullock &amp; Bijan Maleki",
-      "videoId": "FFHezsfq80A",
-      "url": "https://www.youtube.com/watch?v=FFHezsfq80A",
-      "publishedAt": "2026-09-01T14:59:44+00:00"
+      "title": "The S&amp;P 500 Could Be Heading for a 20% Correction",
+      "videoId": "58hWh7KSv5A",
+      "url": "https://www.youtube.com/watch?v=58hWh7KSv5A",
+      "publishedAt": "2026-09-02T21:00:00+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Will Superintelligent AI Really Destroy Humanity?",
-      "videoId": "4BfRPdb_v3Q",
-      "url": "https://www.youtube.com/watch?v=4BfRPdb_v3Q",
-      "publishedAt": "2026-09-01T11:45:09+00:00"
+      "title": "Bitcoin Just Flipped! Is the Bottom Finally In? w/ Kris Bullock &amp; Bijan Maleki | Trading the Markets",
+      "videoId": "L9SIgvqih6o",
+      "url": "https://www.youtube.com/watch?v=L9SIgvqih6o",
+      "publishedAt": "2026-08-26T18:02:13+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Scott Bessent Just Changed the Liquidity Setup w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "OhrXA6cY0Yg",
+      "url": "https://www.youtube.com/watch?v=OhrXA6cY0Yg",
+      "publishedAt": "2026-08-24T16:06:59+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-09-02T10:13:42.602Z",
+  "generatedAt": "2026-09-03T10:25:19.901Z",
   "lookbackHours": 336
 }
