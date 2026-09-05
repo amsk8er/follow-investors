@@ -2,28 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "AI EDAs: Is It Real?",
-      "videoId": "GzhfZy8-CjU",
-      "url": "https://www.youtube.com/watch?v=GzhfZy8-CjU",
-      "publishedAt": "2026-09-03T23:00:09+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Is the Risk-On Trade in Trouble Now? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "FdMEvk0geOw",
+      "url": "https://www.youtube.com/watch?v=FdMEvk0geOw",
+      "publishedAt": "2026-08-31T14:47:11+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Bitcoin Needs to Prove Itself Before Year-End!",
-      "videoId": "Szr1fzou0wM",
-      "url": "https://www.youtube.com/watch?v=Szr1fzou0wM",
-      "publishedAt": "2026-09-03T20:00:05+00:00"
+      "title": "Who’s Really Buying U.S. Treasuries?",
+      "videoId": "s4VjSZpfEyo",
+      "url": "https://www.youtube.com/watch?v=s4VjSZpfEyo",
+      "publishedAt": "2026-08-26T11:45:00+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 2
   },
-  "generatedAt": "2026-09-04T10:19:11.279Z",
+  "generatedAt": "2026-09-05T09:41:19.252Z",
   "lookbackHours": 336
 }
