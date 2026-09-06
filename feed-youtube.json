@@ -2,28 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Is the Risk-On Trade in Trouble Now? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "FdMEvk0geOw",
-      "url": "https://www.youtube.com/watch?v=FdMEvk0geOw",
-      "publishedAt": "2026-08-31T14:47:11+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "为何软件股集体大涨？AI新风口浮出水面！哪些公司能做实反转？",
+      "videoId": "01s3YdYUCcU",
+      "url": "https://www.youtube.com/watch?v=01s3YdYUCcU",
+      "publishedAt": "2026-09-06T02:03:58+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Who’s Really Buying U.S. Treasuries?",
-      "videoId": "s4VjSZpfEyo",
-      "url": "https://www.youtube.com/watch?v=s4VjSZpfEyo",
-      "publishedAt": "2026-08-26T11:45:00+00:00"
+      "title": "This Is Blockchain’s Easiest Wall Street Use Case!",
+      "videoId": "eerIu8kTHzU",
+      "url": "https://www.youtube.com/watch?v=eerIu8kTHzU",
+      "publishedAt": "2026-09-05T13:00:12+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Your Eyeballs Already Have a Market Price",
+      "videoId": "8sNF2JbKzok",
+      "url": "https://www.youtube.com/watch?v=8sNF2JbKzok",
+      "publishedAt": "2026-08-27T20:45:29+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-09-05T09:41:19.252Z",
+  "generatedAt": "2026-09-06T09:56:33.638Z",
   "lookbackHours": 336
 }
