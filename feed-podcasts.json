@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Walter Russell Mead - How America Keeps Winning - [Invest Like the Best, EP.490]",
-      "guid": "15a690ac-ab0e-11f1-b645-033fb2279e5b",
-      "url": "https://colossus.com/episode/god-gold-silicon/",
-      "publishedAt": "Tue, 08 Sep 2026 08:00:00 -0000",
-      "description": "My guest today is Walter Russell Mead. Walter is a columnist at the Wall Street Journal and the author of Special Providence and God and Gold, two of the best books written on American power.&nbsp; He has spent decades studying how the United States came to dominate the world, and our conversation is about whether it can keep doing so.&nbsp; Walter lays out the five step playbook that carried the Dutch, then the British, then America to global leadership, and why the same pattern keeps beating c"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-09-08T10:18:44.543Z",
+  "generatedAt": "2026-09-09T10:26:48.213Z",
   "lookbackHours": 336
 }
