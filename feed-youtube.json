@@ -2,28 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Did Numerical Control De-skill Machinists?",
-      "videoId": "DNKfD1PC68E",
-      "url": "https://www.youtube.com/watch?v=DNKfD1PC68E",
-      "publishedAt": "2026-09-10T23:00:09+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Could The S&amp;P 500 Be Heading for $7000?",
+      "videoId": "58hWh7KSv5A",
+      "url": "https://www.youtube.com/watch?v=58hWh7KSv5A",
+      "publishedAt": "2026-09-02T21:00:00+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why SpaceX and OpenAI Have a Huge AI Advantage?",
-      "videoId": "G98BXnuVlNo",
-      "url": "https://www.youtube.com/watch?v=G98BXnuVlNo",
-      "publishedAt": "2026-09-10T11:45:26+00:00"
+      "title": "MACRO MONDAYS LIVE @  w/ Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "gf_Yt46JN7U",
+      "url": "https://www.youtube.com/watch?v=gf_Yt46JN7U",
+      "publishedAt": "2026-09-01T15:41:05+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 2
   },
-  "generatedAt": "2026-09-11T10:16:17.703Z",
+  "generatedAt": "2026-09-12T09:49:41.208Z",
   "lookbackHours": 336
 }
