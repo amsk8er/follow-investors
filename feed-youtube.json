@@ -2,28 +2,58 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Could The S&amp;P 500 Be Heading for $7000?",
-      "videoId": "58hWh7KSv5A",
-      "url": "https://www.youtube.com/watch?v=58hWh7KSv5A",
-      "publishedAt": "2026-09-02T21:00:00+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "AI EDAs: Is It Real?",
+      "videoId": "GzhfZy8-CjU",
+      "url": "https://www.youtube.com/watch?v=GzhfZy8-CjU",
+      "publishedAt": "2026-09-03T23:00:09+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "5大风险集中爆发！大跌将至？但1大机会你必须把握住！",
+      "videoId": "KG9M-8mvq7Q",
+      "url": "https://www.youtube.com/watch?v=KG9M-8mvq7Q",
+      "publishedAt": "2026-09-13T01:49:06+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "MACRO MONDAYS LIVE @  w/ Andreas Steno &amp; Mikkel Rosenvold",
-      "videoId": "gf_Yt46JN7U",
-      "url": "https://www.youtube.com/watch?v=gf_Yt46JN7U",
-      "publishedAt": "2026-09-01T15:41:05+00:00"
+      "title": "This Chip Stock Could Be Setting Up Another BIG Move!",
+      "videoId": "zSCWFhBgarA",
+      "url": "https://www.youtube.com/watch?v=zSCWFhBgarA",
+      "publishedAt": "2026-09-12T13:15:01+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Bitcoin Needs to Prove Itself Before Year-End!",
+      "videoId": "Szr1fzou0wM",
+      "url": "https://www.youtube.com/watch?v=Szr1fzou0wM",
+      "publishedAt": "2026-09-03T20:00:05+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Is the Risk-On Trade in Trouble Now? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
+      "videoId": "FdMEvk0geOw",
+      "url": "https://www.youtube.com/watch?v=FdMEvk0geOw",
+      "publishedAt": "2026-08-31T14:47:11+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 5
   },
-  "generatedAt": "2026-09-12T09:49:41.208Z",
+  "generatedAt": "2026-09-13T10:49:39.974Z",
   "lookbackHours": 336
 }
