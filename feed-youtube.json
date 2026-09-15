@@ -5,55 +5,45 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Silicon Valley’s Starving for Compute",
-      "videoId": "x8QP9oXgahA",
-      "url": "https://www.youtube.com/watch?v=x8QP9oXgahA",
-      "publishedAt": "2026-09-13T23:00:33+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "为何软件股集体大涨？AI新风口浮出水面！哪些公司能做实反转？",
-      "videoId": "01s3YdYUCcU",
-      "url": "https://www.youtube.com/watch?v=01s3YdYUCcU",
-      "publishedAt": "2026-09-06T02:03:58+00:00"
+      "title": "The Flood that Wrecked the Hard Disk Drive Industry",
+      "videoId": "flkcHcpdRX0",
+      "url": "https://www.youtube.com/watch?v=flkcHcpdRX0",
+      "publishedAt": "2026-09-06T23:00:19+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Stan Druckenmiller: This Irrational Habit Destroys Traders",
-      "videoId": "45sMKnYjMFk",
-      "url": "https://www.youtube.com/watch?v=45sMKnYjMFk",
-      "publishedAt": "2026-09-13T19:30:10+00:00"
+      "title": "The Market Could Be Underestimating the Fed Again!",
+      "videoId": "uXZMr1AZ3pE",
+      "url": "https://www.youtube.com/watch?v=uXZMr1AZ3pE",
+      "publishedAt": "2026-09-14T20:00:13+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is Bitcoin’s Best Era Already Behind It? w/ Mike McGlone &amp; Jamie Coutts",
-      "videoId": "iCWsXNdMVX0",
-      "url": "https://www.youtube.com/watch?v=iCWsXNdMVX0",
-      "publishedAt": "2026-09-13T13:00:34+00:00"
+      "title": "The Trading Rule That Kept Stan Druckenmiller in the Game",
+      "videoId": "MW93GzWOoaI",
+      "url": "https://www.youtube.com/watch?v=MW93GzWOoaI",
+      "publishedAt": "2026-09-06T19:30:34+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Is Blockchain’s Easiest Wall Street Use Case!",
-      "videoId": "eerIu8kTHzU",
-      "url": "https://www.youtube.com/watch?v=eerIu8kTHzU",
-      "publishedAt": "2026-09-05T13:00:12+00:00"
+      "title": "The AI Breakthrough Nobody Is Ready For w/ Raoul Pal and David Mattin | The Exponentialist",
+      "videoId": "JkK0h6Lyq08",
+      "url": "https://www.youtube.com/watch?v=JkK0h6Lyq08",
+      "publishedAt": "2026-09-06T13:00:12+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-09-14T11:17:52.187Z",
+  "generatedAt": "2026-09-15T10:42:58.115Z",
   "lookbackHours": 336
 }
