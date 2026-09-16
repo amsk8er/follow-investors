@@ -1,8 +1,31 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Michael Moritz - Lessons From 40 Years of Investing and Writing - [Invest Like the Best, EP.491]",
+      "guid": "87191ece-b17d-11f1-82f8-a3ebc660a3bc",
+      "url": "https://colossus.com/episode/the-outsider/",
+      "publishedAt": "Wed, 16 Sep 2026 08:00:00 -0000",
+      "description": "Michael Moritz led Sequoia Capital for nearly two decades and backed some of the defining companies of the internet era.&nbsp; In his new memoir, Ausländer, he turns his attention to his own family, Jewish refugees who fled Nazi Germany and rebuilt their lives in Wales.&nbsp; We discuss the imprint his parents left on him, the method he used for decades of asking founders about their childhoods and the Time profile that ended his relationship with Steve Jobs.&nbsp; We also also cover Lee Iacocca"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Walter Russell Mead - How America Keeps Winning - [Invest Like the Best, EP.490]",
+      "guid": "15a690ac-ab0e-11f1-b645-033fb2279e5b",
+      "url": "https://colossus.com/episode/god-gold-silicon/",
+      "publishedAt": "Tue, 08 Sep 2026 08:00:00 -0000",
+      "description": "My guest today is Walter Russell Mead. Walter is a columnist at the Wall Street Journal and the author of Special Providence and God and Gold, two of the best books written on American power.&nbsp; He has spent decades studying how the United States came to dominate the world, and our conversation is about whether it can keep doing so.&nbsp; Walter lays out the five step playbook that carried the Dutch, then the British, then America to global leadership, and why the same pattern keeps beating c"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   },
-  "generatedAt": "2026-09-15T10:42:58.115Z",
+  "generatedAt": "2026-09-16T10:31:15.149Z",
   "lookbackHours": 336
 }
