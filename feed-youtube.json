@@ -2,28 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Bitcoin’s Next Move Comes Down to the Fed? w/ Kris Bullock &amp; Bijan Maleki | Trading The Market",
-      "videoId": "spkBYBp2j4k",
-      "url": "https://www.youtube.com/watch?v=spkBYBp2j4k",
-      "publishedAt": "2026-09-17T06:06:30+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Exxon’s Office Fling",
+      "videoId": "Qeunu8YkuOk",
+      "url": "https://www.youtube.com/watch?v=Qeunu8YkuOk",
+      "publishedAt": "2026-09-17T23:00:39+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why the Stock Market’s Trading Hours Are Outdated!",
-      "videoId": "EQZmvVP2I6M",
-      "url": "https://www.youtube.com/watch?v=EQZmvVP2I6M",
-      "publishedAt": "2026-09-08T20:17:31+00:00"
+      "title": "The US Dollar Is Breaking EVERY Macro Rule!?",
+      "videoId": "nNk5Gk7gV_c",
+      "url": "https://www.youtube.com/watch?v=nNk5Gk7gV_c",
+      "publishedAt": "2026-09-17T14:45:00+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Bessent Just Made His Move. Is Bitcoin Ready? with Kris Bullock &amp; Bijan Maleki | Trading The Market",
+      "videoId": "HylPQIgWbdg",
+      "url": "https://www.youtube.com/watch?v=HylPQIgWbdg",
+      "publishedAt": "2026-09-10T06:06:31+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-09-17T10:41:09.406Z",
+  "generatedAt": "2026-09-18T10:16:40.456Z",
   "lookbackHours": 336
 }
