@@ -2,28 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Time To Leaning Into Gold and Crypto Again!?",
-      "videoId": "YskmVql7Wxc",
-      "url": "https://www.youtube.com/watch?v=YskmVql7Wxc",
-      "publishedAt": "2026-09-19T13:00:11+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Intel’s Optane Memory: A Promise Unfulfilled",
+      "videoId": "A2BsmrnegrY",
+      "url": "https://www.youtube.com/watch?v=A2BsmrnegrY",
+      "publishedAt": "2026-09-20T23:00:19+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "不想把投资都堆在AI上？这家公司人称“人类之光”，无惧颠覆，极强上涨！",
+      "videoId": "ajtCT6jl1Nw",
+      "url": "https://www.youtube.com/watch?v=ajtCT6jl1Nw",
+      "publishedAt": "2026-09-20T12:30:36+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is the Risk-On Trade Breaking Down? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "gf_Yt46JN7U",
-      "url": "https://www.youtube.com/watch?v=gf_Yt46JN7U",
-      "publishedAt": "2026-09-14T15:47:04+00:00"
+      "title": "The Best AI Investor Won’t Be a Machine",
+      "videoId": "YfxrLjZNq2w",
+      "url": "https://www.youtube.com/watch?v=YfxrLjZNq2w",
+      "publishedAt": "2026-09-20T19:00:12+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Tokenized Stocks Will Be Crypto’s Next Big Wave w/ Andrew McCormick of Chainlink",
+      "videoId": "vUeLyBHiUU4",
+      "url": "https://www.youtube.com/watch?v=vUeLyBHiUU4",
+      "publishedAt": "2026-09-20T13:00:31+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-09-20T10:19:35.115Z",
+  "generatedAt": "2026-09-21T11:30:28.027Z",
   "lookbackHours": 336
 }
