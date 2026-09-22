@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]",
+      "guid": "ea3567a0-b511-11f1-b31a-f738f618d5f9",
+      "url": "",
+      "publishedAt": "Tue, 22 Sep 2026 08:00:00 -0000",
+      "description": "Gabe Stengel is the co-founder and CEO of Rogo, the AI platform for finance. He believes the best investors will spend the next several years reinventing their firms around AI, and Rogo is trying to build the infrastructure that allows them to do it. We discuss how Rogo evolved alongside the frontier models, why the last mile and the harness around the models matter so much, what happens when every portfolio manager can deploy thousands of agents against a problem, and how AI could transform the"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-09-21T11:30:28.027Z",
+  "generatedAt": "2026-09-22T10:37:25.423Z",
   "lookbackHours": 336
 }
