@@ -2,58 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Silicon Valley’s Starving for Compute",
-      "videoId": "x8QP9oXgahA",
-      "url": "https://www.youtube.com/watch?v=x8QP9oXgahA",
-      "publishedAt": "2026-09-13T23:00:33+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "5大风险集中爆发！大跌将至？但1大机会你必须把握住！",
-      "videoId": "KG9M-8mvq7Q",
-      "url": "https://www.youtube.com/watch?v=KG9M-8mvq7Q",
-      "publishedAt": "2026-09-13T01:49:06+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "AI Is Supercharging Crypto Crime? Here’s What Comes Next | With Ari Redbord and Ash Bennington",
+      "videoId": "hVJY_-Gz76s",
+      "url": "https://www.youtube.com/watch?v=hVJY_-Gz76s",
+      "publishedAt": "2026-09-22T15:03:48+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Are Markets About to Take Off Again? w/ Andreas Steno &amp; Mikkel Rosenvold | Macro Mondays",
-      "videoId": "WLKBub4CdfI",
-      "url": "https://www.youtube.com/watch?v=WLKBub4CdfI",
-      "publishedAt": "2026-09-21T16:06:44+00:00"
+      "title": "What Would Actually Have to Happen for $1M Bitcoin?",
+      "videoId": "pMPzyfeLUlU",
+      "url": "https://www.youtube.com/watch?v=pMPzyfeLUlU",
+      "publishedAt": "2026-09-22T12:15:04+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Stop Listening to AI Executives!",
-      "videoId": "0CeJkAFOfAo",
-      "url": "https://www.youtube.com/watch?v=0CeJkAFOfAo",
-      "publishedAt": "2026-09-21T12:15:14+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Stan Druckenmiller: This Irrational Habit Destroys Traders",
-      "videoId": "45sMKnYjMFk",
-      "url": "https://www.youtube.com/watch?v=45sMKnYjMFk",
-      "publishedAt": "2026-09-13T19:30:10+00:00"
+      "title": "Bitcoin’s Risk-Reward Has Completely Changed w/ Mike McGlone &amp; Jamie Coutts",
+      "videoId": "iCWsXNdMVX0",
+      "url": "https://www.youtube.com/watch?v=iCWsXNdMVX0",
+      "publishedAt": "2026-09-13T13:00:34+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-09-22T10:37:25.423Z",
+  "generatedAt": "2026-09-23T10:29:50.313Z",
   "lookbackHours": 336
 }
