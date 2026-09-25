@@ -2,38 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Trading The Market LIVE @ 1pm ET  w/ Kris Bullock &amp; Bijan Maleki",
-      "videoId": "Xs3U_-OFdl8",
-      "url": "https://www.youtube.com/watch?v=Xs3U_-OFdl8",
-      "publishedAt": "2026-09-23T14:30:58+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "High Bandwidth Flash Is Coming",
+      "videoId": "3nTpW52nioI",
+      "url": "https://www.youtube.com/watch?v=3nTpW52nioI",
+      "publishedAt": "2026-09-24T23:00:30+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Macro Mondays LIVE @ 10am ET  w/ Andreas Steno &amp; Mikkel Rosenvold",
-      "videoId": "O_jDT3q_S2U",
-      "url": "https://www.youtube.com/watch?v=O_jDT3q_S2U",
-      "publishedAt": "2026-09-23T14:20:13+00:00"
+      "title": "Why You Should Watch South Korean Trade Data",
+      "videoId": "GvkmD60MmHI",
+      "url": "https://www.youtube.com/watch?v=GvkmD60MmHI",
+      "publishedAt": "2026-09-24T11:00:05+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This Chip Stock Could Be Setting Up Another BIG Move!",
-      "videoId": "zSCWFhBgarA",
-      "url": "https://www.youtube.com/watch?v=zSCWFhBgarA",
-      "publishedAt": "2026-09-12T13:15:01+00:00"
+      "title": "Bitcoin’s Next Move Comes Down to the Fed? w/ Kris Bullock &amp; Bijan Maleki | Trading The Market",
+      "videoId": "spkBYBp2j4k",
+      "url": "https://www.youtube.com/watch?v=spkBYBp2j4k",
+      "publishedAt": "2026-09-17T06:06:30+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Could Warsh Skip the Hike Just to Send a Message?",
+      "videoId": "bGfmII4cjoY",
+      "url": "https://www.youtube.com/watch?v=bGfmII4cjoY",
+      "publishedAt": "2026-09-15T19:58:44+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-09-24T10:47:00.419Z",
+  "generatedAt": "2026-09-25T10:51:38.498Z",
   "lookbackHours": 336
 }
