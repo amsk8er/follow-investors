@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Michael Moritz - Lessons From 40 Years of Investing and Writing - [Invest Like the Best, EP.491]",
-      "guid": "87191ece-b17d-11f1-82f8-a3ebc660a3bc",
-      "url": "https://colossus.com/episode/the-outsider/",
-      "publishedAt": "Wed, 16 Sep 2026 08:00:00 -0000",
-      "description": "Michael Moritz led Sequoia Capital for nearly two decades and backed some of the defining companies of the internet era.&nbsp; In his new memoir, Ausländer, he turns his attention to his own family, Jewish refugees who fled Nazi Germany and rebuilt their lives in Wales.&nbsp; We discuss the imprint his parents left on him, the method he used for decades of asking founders about their childhoods and the Time profile that ended his relationship with Steve Jobs.&nbsp; We also also cover Lee Iacocca"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-09-25T10:51:38.498Z",
+  "generatedAt": "2026-09-26T10:32:17.256Z",
   "lookbackHours": 336
 }
