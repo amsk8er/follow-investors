@@ -2,18 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "存储还能涨吗？历史上三轮暴涨，竟与今天如此相似？",
-      "videoId": "viQjQ3mgeOc",
-      "url": "https://www.youtube.com/watch?v=viQjQ3mgeOc",
-      "publishedAt": "2026-09-27T03:18:45+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "The Dramatic Birth of the DVD Boom",
+      "videoId": "-XqyBEm3oeI",
+      "url": "https://www.youtube.com/watch?v=-XqyBEm3oeI",
+      "publishedAt": "2026-09-27T23:00:27+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why the AI Bubble Is Blocking the Next Altseason",
+      "videoId": "HapulKX6qoU",
+      "url": "https://www.youtube.com/watch?v=HapulKX6qoU",
+      "publishedAt": "2026-09-27T19:00:21+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Time To Leaning Into Gold and Crypto Again!?",
+      "videoId": "YskmVql7Wxc",
+      "url": "https://www.youtube.com/watch?v=YskmVql7Wxc",
+      "publishedAt": "2026-09-19T13:00:11+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-09-27T11:03:53.393Z",
+  "generatedAt": "2026-09-28T12:25:07.025Z",
   "lookbackHours": 336
 }

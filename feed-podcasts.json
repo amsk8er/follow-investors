@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
+      "guid": "72db537c-bb24-11f1-805d-739c8a3d8d83",
+      "url": "https://colossus.com/episode/instinct-the-personal-agent/",
+      "publishedAt": "Mon, 28 Sep 2026 12:05:00 -0000",
+      "description": "My guest today is Noah Shinn. Noah is the founder of Instinct, a personal assistant that you text, call, or email the same way you would a person. It has its own phone and its own computer, and it can do almost anything on your behalf that you would do yourself online. Instinct is about a year old, still invite-only, and growing roughly 10% day over day without any marketing spend. We discuss the surprising ways people are already using Instinct, the trusted network that lets two people's agents"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-09-27T11:03:53.393Z",
+  "generatedAt": "2026-09-28T12:25:07.025Z",
   "lookbackHours": 336
 }
