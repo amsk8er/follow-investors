@@ -5,35 +5,45 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "The Dramatic Birth of the DVD Boom",
-      "videoId": "-XqyBEm3oeI",
-      "url": "https://www.youtube.com/watch?v=-XqyBEm3oeI",
-      "publishedAt": "2026-09-27T23:00:27+00:00"
+      "title": "Intel’s Optane Memory: A Promise Unfulfilled",
+      "videoId": "A2BsmrnegrY",
+      "url": "https://www.youtube.com/watch?v=A2BsmrnegrY",
+      "publishedAt": "2026-09-20T23:00:19+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "不想把投资都堆在AI上？这家公司人称“人类之光”，无惧颠覆，极强上涨！",
+      "videoId": "ajtCT6jl1Nw",
+      "url": "https://www.youtube.com/watch?v=ajtCT6jl1Nw",
+      "publishedAt": "2026-09-20T12:30:36+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why the AI Bubble Is Blocking the Next Altseason",
-      "videoId": "HapulKX6qoU",
-      "url": "https://www.youtube.com/watch?v=HapulKX6qoU",
-      "publishedAt": "2026-09-27T19:00:21+00:00"
+      "title": "Bitcoin Just Did What It Does After Bear Markets",
+      "videoId": "TeVOtHxBtgc",
+      "url": "https://www.youtube.com/watch?v=TeVOtHxBtgc",
+      "publishedAt": "2026-09-29T11:30:17+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Time To Leaning Into Gold and Crypto Again!?",
-      "videoId": "YskmVql7Wxc",
-      "url": "https://www.youtube.com/watch?v=YskmVql7Wxc",
-      "publishedAt": "2026-09-19T13:00:11+00:00"
+      "title": "Tokenized Stocks Will Be Crypto’s Next Big Wave w/ Andrew McCormick of Chainlink",
+      "videoId": "vUeLyBHiUU4",
+      "url": "https://www.youtube.com/watch?v=vUeLyBHiUU4",
+      "publishedAt": "2026-09-20T13:00:31+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-09-28T12:25:07.025Z",
+  "generatedAt": "2026-09-29T11:50:27.332Z",
   "lookbackHours": 336
 }
