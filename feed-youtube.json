@@ -2,38 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Micron Could Reveal What Happens to Tech Stocks Next",
-      "videoId": "Tm8Nh6mwBuM",
-      "url": "https://www.youtube.com/watch?v=Tm8Nh6mwBuM",
-      "publishedAt": "2026-09-30T13:20:48+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "EUV Photomasks Are Getting Bigger",
+      "videoId": "B7KcQ2yE6pM",
+      "url": "https://www.youtube.com/watch?v=B7KcQ2yE6pM",
+      "publishedAt": "2026-10-01T23:00:30+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Biggest Crypto Security Threat Right Now | With Ari Redbord and Ash Bennington",
-      "videoId": "hVJY_-Gz76s",
-      "url": "https://www.youtube.com/watch?v=hVJY_-Gz76s",
-      "publishedAt": "2026-09-27T13:00:07+00:00"
+      "title": "A U.S.-China Rivalry Re-Escalation Is a Matter of Time",
+      "videoId": "elqG6KZj_mM",
+      "url": "https://www.youtube.com/watch?v=elqG6KZj_mM",
+      "publishedAt": "2026-10-01T15:40:54+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Bitcoin to $1M? Be Careful What You Wish For",
-      "videoId": "pMPzyfeLUlU",
-      "url": "https://www.youtube.com/watch?v=pMPzyfeLUlU",
-      "publishedAt": "2026-09-22T12:15:04+00:00"
+      "title": "How to Pick the Right Altcoins for the Next Rally | Trading The Market w/ Kris and Bijan",
+      "videoId": "Xs3U_-OFdl8",
+      "url": "https://www.youtube.com/watch?v=Xs3U_-OFdl8",
+      "publishedAt": "2026-10-01T06:07:29+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Yields Hit Multi-Decade Highs. Are We in Trouble? | Macro Mondays w/ Andreas &amp; Mikkel",
+      "videoId": "O_jDT3q_S2U",
+      "url": "https://www.youtube.com/watch?v=O_jDT3q_S2U",
+      "publishedAt": "2026-09-29T02:43:15+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-10-01T12:05:57.116Z",
+  "generatedAt": "2026-10-02T11:36:49.667Z",
   "lookbackHours": 336
 }
