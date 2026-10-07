@@ -1,31 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Andrew Huberman - The Frontier of Neurotechnology - [Invest Like the Best, EP.494]",
-      "guid": "641962f4-bdcf-11f1-899d-0759b6038cac",
-      "url": "http://colossus.com/episode/reading-and-writing-the-brain/",
-      "publishedAt": "Tue, 06 Oct 2026 08:00:00 -0000",
-      "description": "Andrew Huberman is a neuroscientist and professor at Stanford, the host of the Huberman Lab podcast, and the author of Protocols. Most of our conversation is about where neuroscience goes next. For decades the field has focused on reading from the brain, and Andrew believes the next era is about writing to it with precise control over specific brain states. He explains why he thinks the leading AI companies are really building toward this, and why understanding our waking brain states is the pro"
-    },
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
-      "guid": "72db537c-bb24-11f1-805d-739c8a3d8d83",
-      "url": "https://colossus.com/episode/instinct-the-personal-agent/",
-      "publishedAt": "Mon, 28 Sep 2026 12:05:00 -0000",
-      "description": "My guest today is Noah Shinn. Noah is the founder of Instinct, a personal assistant that you text, call, or email the same way you would a person. It has its own phone and its own computer, and it can do almost anything on your behalf that you would do yourself online. Instinct is about a year old, still invite-only, and growing roughly 10% day over day without any marketing spend. We discuss the surprising ways people are already using Instinct, the trusted network that lets two people's agents"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-10-06T12:27:43.238Z",
+  "generatedAt": "2026-10-07T12:20:51.147Z",
   "lookbackHours": 336
 }

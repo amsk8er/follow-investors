@@ -2,38 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Dramatic Birth of the DVD Boom",
-      "videoId": "-XqyBEm3oeI",
-      "url": "https://www.youtube.com/watch?v=-XqyBEm3oeI",
-      "publishedAt": "2026-09-27T23:00:27+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Sui Basecamp 2026: Day 1 | Marina Bay Sands, Singapore",
+      "videoId": "7Kf-HWgJJsA",
+      "url": "https://www.youtube.com/watch?v=7Kf-HWgJJsA",
+      "publishedAt": "2026-10-07T09:10:40+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is Everyone Too Bearish on France?",
-      "videoId": "B-8atU3qJDY",
-      "url": "https://www.youtube.com/watch?v=B-8atU3qJDY",
-      "publishedAt": "2026-10-05T20:01:25+00:00"
+      "title": "This Is the Line in the Sand for Bitcoin Now",
+      "videoId": "H14tqDTW7Xk",
+      "url": "https://www.youtube.com/watch?v=H14tqDTW7Xk",
+      "publishedAt": "2026-10-06T15:15:11+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why the AI Bubble Is Blocking the Next Altcoin Season",
-      "videoId": "HapulKX6qoU",
-      "url": "https://www.youtube.com/watch?v=HapulKX6qoU",
-      "publishedAt": "2026-09-27T19:00:21+00:00"
+      "title": "Bitcoin Just Did What It Does After Bear Markets",
+      "videoId": "TeVOtHxBtgc",
+      "url": "https://www.youtube.com/watch?v=TeVOtHxBtgc",
+      "publishedAt": "2026-09-29T11:30:17+00:00"
     }
   ],
   "stats": {
     "youtubeVideos": 3
   },
-  "generatedAt": "2026-10-06T12:27:43.238Z",
+  "generatedAt": "2026-10-07T12:20:51.147Z",
   "lookbackHours": 336
 }
