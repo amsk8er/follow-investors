@@ -2,28 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "S&amp;P 500 Earnings Are Surging 30% — Here’s the Risk for Q4",
-      "videoId": "1nKXl--D6Jk",
-      "url": "https://www.youtube.com/watch?v=1nKXl--D6Jk",
-      "publishedAt": "2026-10-08T11:15:15+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Is TSMC Coming to Texas?",
+      "videoId": "wJRfoWXTU80",
+      "url": "https://www.youtube.com/watch?v=wJRfoWXTU80",
+      "publishedAt": "2026-10-08T23:00:23+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Sui Basecamp LIVE on October 8, 2026 | Marina Bay Sand, Singapore",
-      "videoId": "0M_WpErdhrM",
-      "url": "https://www.youtube.com/watch?v=0M_WpErdhrM",
-      "publishedAt": "2026-10-08T09:26:13+00:00"
+      "title": "Micron Could Reveal What Happens to Tech Stocks Next",
+      "videoId": "Tm8Nh6mwBuM",
+      "url": "https://www.youtube.com/watch?v=Tm8Nh6mwBuM",
+      "publishedAt": "2026-09-30T13:20:48+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Biggest Crypto Security Threat Right Now | With Ari Redbord and Ash Bennington",
+      "videoId": "hVJY_-Gz76s",
+      "url": "https://www.youtube.com/watch?v=hVJY_-Gz76s",
+      "publishedAt": "2026-09-27T13:00:07+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-10-08T12:30:18.866Z",
+  "generatedAt": "2026-10-09T12:18:59.464Z",
   "lookbackHours": 336
 }
