@@ -5,35 +5,45 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Is TSMC Coming to Texas?",
-      "videoId": "wJRfoWXTU80",
-      "url": "https://www.youtube.com/watch?v=wJRfoWXTU80",
-      "publishedAt": "2026-10-08T23:00:23+00:00"
+      "title": "EUV Photomasks Are Getting Bigger",
+      "videoId": "B7KcQ2yE6pM",
+      "url": "https://www.youtube.com/watch?v=B7KcQ2yE6pM",
+      "publishedAt": "2026-10-01T23:00:30+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Micron Could Reveal What Happens to Tech Stocks Next",
-      "videoId": "Tm8Nh6mwBuM",
-      "url": "https://www.youtube.com/watch?v=Tm8Nh6mwBuM",
-      "publishedAt": "2026-09-30T13:20:48+00:00"
+      "title": "The Samurai Mindset Every Investor Needs to Learn",
+      "videoId": "6p0VQMYpzLU",
+      "url": "https://www.youtube.com/watch?v=6p0VQMYpzLU",
+      "publishedAt": "2026-10-09T21:00:03+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Biggest Crypto Security Threat Right Now | With Ari Redbord and Ash Bennington",
-      "videoId": "hVJY_-Gz76s",
-      "url": "https://www.youtube.com/watch?v=hVJY_-Gz76s",
-      "publishedAt": "2026-09-27T13:00:07+00:00"
+      "title": "A U.S.-China Rivalry Re-Escalation Is a Matter of Time!",
+      "videoId": "elqG6KZj_mM",
+      "url": "https://www.youtube.com/watch?v=elqG6KZj_mM",
+      "publishedAt": "2026-10-01T15:40:54+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "How to Pick the Right Altcoins for the Next Rally | Trading The Market w/ Kris and Bijan",
+      "videoId": "Xs3U_-OFdl8",
+      "url": "https://www.youtube.com/watch?v=Xs3U_-OFdl8",
+      "publishedAt": "2026-10-01T06:07:29+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-10-09T12:18:59.464Z",
+  "generatedAt": "2026-10-10T11:37:14.504Z",
   "lookbackHours": 336
 }
