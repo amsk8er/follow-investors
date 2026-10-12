@@ -2,48 +2,58 @@
   "youtube": [
     {
       "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "ASML’s New Multibeam Inspection Tool is Familiar",
+      "videoId": "CqPsGYJHozM",
+      "url": "https://www.youtube.com/watch?v=CqPsGYJHozM",
+      "publishedAt": "2026-10-11T23:00:38+00:00"
+    },
+    {
+      "source": "youtube",
       "channel": "美投讲美股",
       "handle": "@MeiTouJun",
       "tag": "中文压缩",
-      "title": "网络安全凭什么成为AI新王？历史规律预示，大牛股将从这两大趋势中诞生！",
-      "videoId": "KOfeTp-9PI8",
-      "url": "https://www.youtube.com/watch?v=KOfeTp-9PI8",
-      "publishedAt": "2026-10-11T02:49:58+00:00"
+      "title": "债市比股市聪明？美债vs美股史诗级背离！市场正酝酿大跌？",
+      "videoId": "hC-rt4_F3mQ",
+      "url": "https://www.youtube.com/watch?v=hC-rt4_F3mQ",
+      "publishedAt": "2026-10-04T01:52:17+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Oil Could Still Go Much Higher with Josh Young, Bison Interests | The Geopolitical Edge",
-      "videoId": "3Atl7qFvtnU",
-      "url": "https://www.youtube.com/watch?v=3Atl7qFvtnU",
-      "publishedAt": "2026-10-10T13:00:00+00:00"
+      "title": "Macro Mondays LIVE @10am ET  w/ Andreas &amp; Mikkel",
+      "videoId": "MIAMC_w-FqY",
+      "url": "https://www.youtube.com/watch?v=MIAMC_w-FqY",
+      "publishedAt": "2026-10-12T13:13:20+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Real AI Playbook: How to Use AI Better w/ @austin.marchese",
-      "videoId": "FSN1oLySrI4",
-      "url": "https://www.youtube.com/watch?v=FSN1oLySrI4",
-      "publishedAt": "2026-10-02T15:00:06+00:00"
+      "title": "Trading The Markets LIVE @w/ 1pm ET with Kris Bullock and Bijan Maleki",
+      "videoId": "Nq6h3rjklDg",
+      "url": "https://www.youtube.com/watch?v=Nq6h3rjklDg",
+      "publishedAt": "2026-10-12T13:11:00+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Yields Hit Multi-Decade Highs. Are We in Trouble? | Macro Mondays w/ Andreas &amp; Mikkel",
-      "videoId": "O_jDT3q_S2U",
-      "url": "https://www.youtube.com/watch?v=O_jDT3q_S2U",
-      "publishedAt": "2026-09-29T02:43:15+00:00"
+      "title": "Cem Karsan: A Market Crisis Is About to Happen",
+      "videoId": "h3jDc5Bg8Sc",
+      "url": "https://www.youtube.com/watch?v=h3jDc5Bg8Sc",
+      "publishedAt": "2026-10-11T19:30:11+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 5
   },
-  "generatedAt": "2026-10-11T11:50:25.610Z",
+  "generatedAt": "2026-10-12T13:56:54.364Z",
   "lookbackHours": 336
 }
