@@ -2,48 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Fall of Brazil's Armored Vehicle King",
-      "videoId": "6NCgNU4ALiI",
-      "url": "https://www.youtube.com/watch?v=6NCgNU4ALiI",
-      "publishedAt": "2026-10-04T23:00:28+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Time to Buy the Dip in France? 🇫🇷",
+      "videoId": "B-8atU3qJDY",
+      "url": "https://www.youtube.com/watch?v=B-8atU3qJDY",
+      "publishedAt": "2026-10-05T20:01:25+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "This AI Trade Looks Interesting - Blackstone Could Be Ready for a Reversal",
-      "videoId": "yEaf6einSmE",
-      "url": "https://www.youtube.com/watch?v=yEaf6einSmE",
-      "publishedAt": "2026-10-12T17:00:01+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "How Much Longer Can This Cycle Run? w/ Andreas &amp; Mikkel | Macro Mondays",
-      "videoId": "WN-w5WPUrRw",
-      "url": "https://www.youtube.com/watch?v=WN-w5WPUrRw",
-      "publishedAt": "2026-10-06T02:49:21+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Ben Cowen: Bitcoin Just Changed the Entire Setup | with Kris Bullock",
-      "videoId": "S5DYK-fUwIE",
-      "url": "https://www.youtube.com/watch?v=S5DYK-fUwIE",
-      "publishedAt": "2026-10-04T14:00:07+00:00"
+      "title": "Micron Looks Cheap After Earnings... But Here's the Catch",
+      "videoId": "obrApjvJzzc",
+      "url": "https://www.youtube.com/watch?v=obrApjvJzzc",
+      "publishedAt": "2026-10-03T13:00:12+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-10-13T13:13:06.970Z",
+  "generatedAt": "2026-10-14T10:53:07.050Z",
   "lookbackHours": 336
 }
