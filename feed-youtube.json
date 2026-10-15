@@ -1,29 +1,8 @@
 {
-  "youtube": [
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Time to Buy the Dip in France? 🇫🇷",
-      "videoId": "B-8atU3qJDY",
-      "url": "https://www.youtube.com/watch?v=B-8atU3qJDY",
-      "publishedAt": "2026-10-05T20:01:25+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Micron Looks Cheap After Earnings... But Here's the Catch",
-      "videoId": "obrApjvJzzc",
-      "url": "https://www.youtube.com/watch?v=obrApjvJzzc",
-      "publishedAt": "2026-10-03T13:00:12+00:00"
-    }
-  ],
+  "youtube": [],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 0
   },
-  "generatedAt": "2026-10-14T10:53:07.050Z",
+  "generatedAt": "2026-10-15T10:35:06.771Z",
   "lookbackHours": 336
 }
