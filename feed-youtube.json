@@ -2,28 +2,18 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "IGBTs Took Silicon Power to the Next Level",
-      "videoId": "pGQWq_q1gnM",
-      "url": "https://www.youtube.com/watch?v=pGQWq_q1gnM",
-      "publishedAt": "2026-10-15T23:00:03+00:00"
-    },
-    {
-      "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Sui Basecamp 2026: Day 1 | Marina Bay Sands, Singapore",
-      "videoId": "7Kf-HWgJJsA",
-      "url": "https://www.youtube.com/watch?v=7Kf-HWgJJsA",
-      "publishedAt": "2026-10-07T09:10:40+00:00"
+      "title": "Sui Basecamp 2026: Day 2 | Marina Bay Sand, Singapore",
+      "videoId": "0M_WpErdhrM",
+      "url": "https://www.youtube.com/watch?v=0M_WpErdhrM",
+      "publishedAt": "2026-10-08T09:26:13+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 1
   },
-  "generatedAt": "2026-10-16T10:21:58.236Z",
+  "generatedAt": "2026-10-17T09:54:41.204Z",
   "lookbackHours": 336
 }
