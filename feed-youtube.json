@@ -2,38 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Birth &amp; Rise of India's IT Outsourcing Industry",
-      "videoId": "NYej-KstgTg",
-      "url": "https://www.youtube.com/watch?v=NYej-KstgTg",
-      "publishedAt": "2026-10-18T23:00:26+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "AI新王诞生！历史规律预示，大牛股将从这两大趋势中长出！",
+      "videoId": "KOfeTp-9PI8",
+      "url": "https://www.youtube.com/watch?v=KOfeTp-9PI8",
+      "publishedAt": "2026-10-11T02:49:58+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why This Crypto Cycle Is Different",
-      "videoId": "e765emCgFS8",
-      "url": "https://www.youtube.com/watch?v=e765emCgFS8",
-      "publishedAt": "2026-10-18T13:00:30+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The Samurai Mindset Every Investor Needs to Learn",
-      "videoId": "6p0VQMYpzLU",
-      "url": "https://www.youtube.com/watch?v=6p0VQMYpzLU",
-      "publishedAt": "2026-10-09T21:00:03+00:00"
+      "title": "Why Oil Could Still Go Much Higher with Josh Young, Bison Interests | The Geopolitical Edge",
+      "videoId": "3Atl7qFvtnU",
+      "url": "https://www.youtube.com/watch?v=3Atl7qFvtnU",
+      "publishedAt": "2026-10-10T13:00:00+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-10-19T11:37:43.858Z",
+  "generatedAt": "2026-10-20T10:41:07.213Z",
   "lookbackHours": 336
 }

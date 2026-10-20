@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Christina Cacioppo - Building an Enduring Software Company in the Age of AI - [Invest Like the Best, EP.496]",
+      "guid": "5d4b6646-cc2c-11f1-b83e-6fbc19058151",
+      "url": "https://colossus.com/episode/becoming-a-category-winner/",
+      "publishedAt": "Tue, 20 Oct 2026 08:00:00 -0000",
+      "description": "My guest today is Christina Cacioppo, founder and CEO of Vanta, which helps more than 16,000 companies manage security and compliance.&nbsp; Five years after our first conversation, we discuss how Vanta became a category leader, what it takes to reinvent a successful software business in the age of AI, and why Christina is betting on agents to do the work rather than simply assist users.&nbsp; We also explore the changing economics of software, the war for exceptional talent, AI's impact on cybe"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-10-19T11:37:43.858Z",
+  "generatedAt": "2026-10-20T10:41:07.213Z",
   "lookbackHours": 336
 }
