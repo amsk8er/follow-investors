@@ -2,28 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "美投讲美股",
-      "handle": "@MeiTouJun",
-      "tag": "中文压缩",
-      "title": "AI新王诞生！历史规律预示，大牛股将从这两大趋势中长出！",
-      "videoId": "KOfeTp-9PI8",
-      "url": "https://www.youtube.com/watch?v=KOfeTp-9PI8",
-      "publishedAt": "2026-10-11T02:49:58+00:00"
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "ASML’s New Multibeam Inspection Tool is Familiar",
+      "videoId": "CqPsGYJHozM",
+      "url": "https://www.youtube.com/watch?v=CqPsGYJHozM",
+      "publishedAt": "2026-10-11T23:00:38+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Oil Could Still Go Much Higher with Josh Young, Bison Interests | The Geopolitical Edge",
-      "videoId": "3Atl7qFvtnU",
-      "url": "https://www.youtube.com/watch?v=3Atl7qFvtnU",
-      "publishedAt": "2026-10-10T13:00:00+00:00"
+      "title": "Trading the Markets w/ Kris Bullock and Nico Brugge",
+      "videoId": "kp9TWY58j0k",
+      "url": "https://www.youtube.com/watch?v=kp9TWY58j0k",
+      "publishedAt": "2026-10-20T22:46:45+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Is Inflation About to Derail the Rally? With Andreas Steno | Macro Mondays: October 19, 2026",
+      "videoId": "MIAMC_w-FqY",
+      "url": "https://www.youtube.com/watch?v=MIAMC_w-FqY",
+      "publishedAt": "2026-10-19T16:19:28+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Crypto Is Selling Off. Is the Bull Trend Broken? Trading the Markets w/ Kris Bullock and Nico Brugge",
+      "videoId": "Nq6h3rjklDg",
+      "url": "https://www.youtube.com/watch?v=Nq6h3rjklDg",
+      "publishedAt": "2026-10-15T05:51:43+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-10-20T10:41:07.213Z",
+  "generatedAt": "2026-10-21T10:51:57.259Z",
   "lookbackHours": 336
 }
