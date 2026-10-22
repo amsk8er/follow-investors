@@ -2,48 +2,38 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "ASML’s New Multibeam Inspection Tool is Familiar",
-      "videoId": "CqPsGYJHozM",
-      "url": "https://www.youtube.com/watch?v=CqPsGYJHozM",
-      "publishedAt": "2026-10-11T23:00:38+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Is the Genius Act the Regulatory Shift You've Been Waiting For? w/ Jonathan Gould Ash Bennington",
+      "videoId": "nA1WXcbbb6Y",
+      "url": "https://www.youtube.com/watch?v=nA1WXcbbb6Y",
+      "publishedAt": "2026-10-21T23:05:33+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Trading the Markets w/ Kris Bullock and Nico Brugge",
-      "videoId": "kp9TWY58j0k",
-      "url": "https://www.youtube.com/watch?v=kp9TWY58j0k",
-      "publishedAt": "2026-10-20T22:46:45+00:00"
+      "title": "Why the AI Buildout Won't Stop",
+      "videoId": "JVPW7fiQOmY",
+      "url": "https://www.youtube.com/watch?v=JVPW7fiQOmY",
+      "publishedAt": "2026-10-21T11:30:12+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is Inflation About to Derail the Rally? With Andreas Steno | Macro Mondays: October 19, 2026",
-      "videoId": "MIAMC_w-FqY",
-      "url": "https://www.youtube.com/watch?v=MIAMC_w-FqY",
-      "publishedAt": "2026-10-19T16:19:28+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Crypto Is Selling Off. Is the Bull Trend Broken? Trading the Markets w/ Kris Bullock and Nico Brugge",
-      "videoId": "Nq6h3rjklDg",
-      "url": "https://www.youtube.com/watch?v=Nq6h3rjklDg",
-      "publishedAt": "2026-10-15T05:51:43+00:00"
+      "title": "A Potential Hidden Gem for AI Investors?",
+      "videoId": "yEaf6einSmE",
+      "url": "https://www.youtube.com/watch?v=yEaf6einSmE",
+      "publishedAt": "2026-10-12T17:00:01+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-10-21T10:51:57.259Z",
+  "generatedAt": "2026-10-22T10:52:53.094Z",
   "lookbackHours": 336
 }

@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "David Vélez - Building Nubank and the Future of Global Banking - [Invest Like the Best, EP.495]",
+      "guid": "4bab0140-c690-11f1-ba93-9ff1cc3f5ef5",
+      "url": "https://colossus.com/episode/david-v-goliath/",
+      "publishedAt": "Tue, 13 Oct 2026 08:00:00 -0000",
+      "description": "David Vélez is the founder and CEO of Nubank, which serves 140 million customers across Latin America.&nbsp; David believes the industry is still in its Blockbuster era, with most of the world's banking still running through branches and incumbent banks, and that AI will make digital banks dramatically more efficient than the incumbents they compete with.&nbsp; He explains how Nubank rebuilt its entire organization around AI after missing the moment the technology started working, and why he is "
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-10-21T10:51:57.259Z",
+  "generatedAt": "2026-10-22T10:52:53.094Z",
   "lookbackHours": 336
 }
