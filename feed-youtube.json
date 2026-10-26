@@ -5,25 +5,35 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Y2K Created a Software Export Gold Rush",
-      "videoId": "RMoEgchfDmg",
-      "url": "https://www.youtube.com/watch?v=RMoEgchfDmg",
-      "publishedAt": "2026-10-24T19:00:36+00:00"
+      "title": "How Linux (and Windows) Ate UNIX",
+      "videoId": "ksx5g5WvAIw",
+      "url": "https://www.youtube.com/watch?v=ksx5g5WvAIw",
+      "publishedAt": "2026-10-25T23:00:15+00:00"
     },
     {
       "source": "youtube",
       "channel": "美投讲美股",
       "handle": "@MeiTouJun",
       "tag": "中文压缩",
-      "title": "最稳的麦当劳跌了30%？一生一次的买入机会？没看懂这点，先别急着抄底！",
-      "videoId": "PQj7cB4sqG4",
-      "url": "https://www.youtube.com/watch?v=PQj7cB4sqG4",
-      "publishedAt": "2026-10-25T00:00:12+00:00"
+      "title": "通胀失控，加息飙升，AI融资泡沫…危机集体爆发！美股扛不住了？",
+      "videoId": "xu8g7ZhavUc",
+      "url": "https://www.youtube.com/watch?v=xu8g7ZhavUc",
+      "publishedAt": "2026-10-18T02:17:15+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Oil Could Crash to $60, But Diesel May Stay Expensive",
+      "videoId": "dIGIdRXKKMQ",
+      "url": "https://www.youtube.com/watch?v=dIGIdRXKKMQ",
+      "publishedAt": "2026-10-25T19:30:24+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-10-25T10:25:47.333Z",
+  "generatedAt": "2026-10-26T11:55:11.240Z",
   "lookbackHours": 336
 }
