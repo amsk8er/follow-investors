@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+      "guid": "8b3e3192-d1c1-11f1-979a-77ed8e9f0194",
+      "url": "https://colossus.com/episode/the-limits-of-intelligence/",
+      "publishedAt": "Tue, 27 Oct 2026 08:00:00 -0000",
+      "description": "Cliff Sosin is the founder of CAS Investment Partners, which he started in 2012. Roughly 80% of his portfolio is in Carvana.&nbsp; We discuss why Cliff thinks there are hard limits to what even the smartest AI can predict, which businesses benefit as intelligence gets cheap, and what that means for Meta and the frontier labs.&nbsp; We also cover why he avoids investing in the AI build-out, how AI agents will push customers to the lowest-cost provider, and why he is comfortable with 80% of his po"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-10-26T11:55:11.240Z",
+  "generatedAt": "2026-10-27T11:17:37.979Z",
   "lookbackHours": 336
 }
