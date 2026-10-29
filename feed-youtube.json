@@ -5,25 +5,45 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "The Million Kilometer Earthquake Detector",
-      "videoId": "-dkjlB3slSo",
-      "url": "https://www.youtube.com/watch?v=-dkjlB3slSo",
-      "publishedAt": "2026-10-27T22:00:13+00:00"
+      "title": "Edison’s Half Mile Problem",
+      "videoId": "ub00LkAWPe4",
+      "url": "https://www.youtube.com/watch?v=ub00LkAWPe4",
+      "publishedAt": "2026-10-28T22:00:14+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The GENIUS Act Just Opened a New Door for Stablecoins",
-      "videoId": "9V15SMARCWE",
-      "url": "https://www.youtube.com/watch?v=9V15SMARCWE",
-      "publishedAt": "2026-10-27T11:45:07+00:00"
+      "title": "Is the Bull Trend Broken? Trading the Markets w/ Kris Bullock and Nico Brugge",
+      "videoId": "JqoCmdswbBU",
+      "url": "https://www.youtube.com/watch?v=JqoCmdswbBU",
+      "publishedAt": "2026-10-29T06:04:38+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "40 Million Transactions Per Second Still Isn't FAST Enough?!?",
+      "videoId": "lf0-zXqHoBM",
+      "url": "https://www.youtube.com/watch?v=lf0-zXqHoBM",
+      "publishedAt": "2026-10-28T18:00:13+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Bitcoin Is Bouncing, Is the Bull Trend Back?  w/ Kris Bullock &amp; Ryan Chamberlain",
+      "videoId": "kp9TWY58j0k",
+      "url": "https://www.youtube.com/watch?v=kp9TWY58j0k",
+      "publishedAt": "2026-10-22T06:07:05+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-10-28T11:51:31.946Z",
+  "generatedAt": "2026-10-29T11:59:07.858Z",
   "lookbackHours": 336
 }
