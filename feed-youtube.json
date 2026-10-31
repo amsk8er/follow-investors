@@ -5,45 +5,55 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Why Edison Lost the Battle of the Currents",
-      "videoId": "iajgS3611BM",
-      "url": "https://www.youtube.com/watch?v=iajgS3611BM",
-      "publishedAt": "2026-10-29T22:00:06+00:00"
+      "title": "Silicon Valley Walks the Jagged Edge",
+      "videoId": "gADulYiRSww",
+      "url": "https://www.youtube.com/watch?v=gADulYiRSww",
+      "publishedAt": "2026-10-30T14:00:40+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Why IBM Walked Out of India",
+      "videoId": "zXlit97fLds",
+      "url": "https://www.youtube.com/watch?v=zXlit97fLds",
+      "publishedAt": "2026-10-22T22:00:18+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Wall Street Is Getting the AI Trade Wrong",
-      "videoId": "FZi50rpMRW4",
-      "url": "https://www.youtube.com/watch?v=FZi50rpMRW4",
-      "publishedAt": "2026-10-29T20:45:24+00:00"
+      "title": "Why AI Is NOT the Next Dot-Com Bubble with Andreas Steno and Mikkel Rosenvold | Macro Mondays",
+      "videoId": "NBdPcM2GFJA",
+      "url": "https://www.youtube.com/watch?v=NBdPcM2GFJA",
+      "publishedAt": "2026-10-26T15:32:55+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why the AI Buildout Won't Stop",
-      "videoId": "JVPW7fiQOmY",
-      "url": "https://www.youtube.com/watch?v=JVPW7fiQOmY",
-      "publishedAt": "2026-10-21T11:30:12+00:00"
+      "title": "Why Stablecoins Could Transform America's Financial System",
+      "videoId": "53uq2Mn4K4w",
+      "url": "https://www.youtube.com/watch?v=53uq2Mn4K4w",
+      "publishedAt": "2026-10-22T19:05:03+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is Inflation About to Derail the Rally? With Andreas Steno | Macro Mondays: October 19, 2026",
-      "videoId": "MIAMC_w-FqY",
-      "url": "https://www.youtube.com/watch?v=MIAMC_w-FqY",
-      "publishedAt": "2026-10-19T16:19:28+00:00"
+      "title": "Is the Genius Act the Regulatory Shift You've Been Waiting For? w/ Jonathan Gould Ash Bennington",
+      "videoId": "Na8RYe-OSHY",
+      "url": "https://www.youtube.com/watch?v=Na8RYe-OSHY",
+      "publishedAt": "2026-10-22T16:50:52+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 5
   },
-  "generatedAt": "2026-10-30T11:53:21.432Z",
+  "generatedAt": "2026-10-31T11:26:47.209Z",
   "lookbackHours": 336
 }
