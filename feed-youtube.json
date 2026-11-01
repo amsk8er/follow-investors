@@ -5,55 +5,45 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Silicon Valley Walks the Jagged Edge",
-      "videoId": "gADulYiRSww",
-      "url": "https://www.youtube.com/watch?v=gADulYiRSww",
-      "publishedAt": "2026-10-30T14:00:40+00:00"
+      "title": "A $300,000 Computer Pushed TCS Into Exports",
+      "videoId": "TTGOXA5OgY4",
+      "url": "https://www.youtube.com/watch?v=TTGOXA5OgY4",
+      "publishedAt": "2026-11-01T07:00:31+00:00"
     },
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Why IBM Walked Out of India",
-      "videoId": "zXlit97fLds",
-      "url": "https://www.youtube.com/watch?v=zXlit97fLds",
-      "publishedAt": "2026-10-22T22:00:18+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why AI Is NOT the Next Dot-Com Bubble with Andreas Steno and Mikkel Rosenvold | Macro Mondays",
-      "videoId": "NBdPcM2GFJA",
-      "url": "https://www.youtube.com/watch?v=NBdPcM2GFJA",
-      "publishedAt": "2026-10-26T15:32:55+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "个人Agent横空出世！新一轮军备竞赛即将展开！AI又要变天了？",
+      "videoId": "U6DV0MzMBJs",
+      "url": "https://www.youtube.com/watch?v=U6DV0MzMBJs",
+      "publishedAt": "2026-11-01T02:44:10+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Stablecoins Could Transform America's Financial System",
-      "videoId": "53uq2Mn4K4w",
-      "url": "https://www.youtube.com/watch?v=53uq2Mn4K4w",
-      "publishedAt": "2026-10-22T19:05:03+00:00"
+      "title": "Why Your Enterprise AI Needs This Audit Layer",
+      "videoId": "WLPLKCZenLk",
+      "url": "https://www.youtube.com/watch?v=WLPLKCZenLk",
+      "publishedAt": "2026-10-31T13:30:27+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Is the Genius Act the Regulatory Shift You've Been Waiting For? w/ Jonathan Gould Ash Bennington",
-      "videoId": "Na8RYe-OSHY",
-      "url": "https://www.youtube.com/watch?v=Na8RYe-OSHY",
-      "publishedAt": "2026-10-22T16:50:52+00:00"
+      "title": "Rory Johnston: $60 Oil Is Possible in 2027 | with Mikkel Rosenvold",
+      "videoId": "6SwuZmT1Pvc",
+      "url": "https://www.youtube.com/watch?v=6SwuZmT1Pvc",
+      "publishedAt": "2026-10-23T14:00:06+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-10-31T11:26:47.209Z",
+  "generatedAt": "2026-11-01T12:21:42.003Z",
   "lookbackHours": 336
 }
