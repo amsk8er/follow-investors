@@ -1,8 +1,31 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]",
+      "guid": "49530156-d7dc-11f1-b21c-fbd5cb900e1d",
+      "url": "https://colossus.com/episode/the-productive-investor/",
+      "publishedAt": "Wed, 04 Nov 2026 09:00:00 -0000",
+      "description": "My guest today is Martin Casado, General Partner at Andreessen Horowitz.&nbsp; Martin has spent three decades building and investing in technology infrastructure. We discuss why traditional approaches to investing often fail to capture disruptive technologies, how AI is reshaping the economics of software, and why the ability to turn capital directly into technological progress may be the most important change of all. Martin also shares lessons from some of his biggest investments and acquisitio"
+    },
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+      "guid": "8b3e3192-d1c1-11f1-979a-77ed8e9f0194",
+      "url": "https://colossus.com/episode/the-limits-of-intelligence/",
+      "publishedAt": "Tue, 27 Oct 2026 08:00:00 -0000",
+      "description": "Cliff Sosin is the founder of CAS Investment Partners, which he started in 2012. Roughly 80% of his portfolio is in Carvana.&nbsp; We discuss why Cliff thinks there are hard limits to what even the smartest AI can predict, which businesses benefit as intelligence gets cheap, and what that means for Meta and the frontier labs.&nbsp; We also cover why he avoids investing in the AI build-out, how AI agents will push customers to the lowest-cost provider, and why he is comfortable with 80% of his po"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   },
-  "generatedAt": "2026-11-03T13:18:04.893Z",
+  "generatedAt": "2026-11-04T13:29:57.135Z",
   "lookbackHours": 336
 }
