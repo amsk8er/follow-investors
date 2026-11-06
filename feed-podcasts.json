@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Ramtin Naimi on the State of Venture Investing - [Invest Like the Best, EP.499]",
+      "guid": "3fb5f28e-d96c-11f1-b641-ef1269edfae6",
+      "url": "https://colossus.com/episode/trillion-dollar-goalposts/",
+      "publishedAt": "Fri, 06 Nov 2026 09:00:00 -0000",
+      "description": "My guest today is Ramtin Naimi, the founder of Abstract Ventures, back for our second conversation. Few people see as many companies as Ramtin and his firm, so this time we zoom in on what they’re seeing right now. The question he keeps coming back to is whether this is 2019 or 2021: early in a run, or at the top of one. Hot rounds now come with a second, pricier tranche for the firms that lost the deal, and he’s seen more term sheets pulled or renegotiated in recent weeks than at any time since"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-11-05T13:44:36.681Z",
+  "generatedAt": "2026-11-06T13:28:30.069Z",
   "lookbackHours": 336
 }
