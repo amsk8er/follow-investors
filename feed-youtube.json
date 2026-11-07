@@ -5,55 +5,35 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Why Japanese Supercomputers Frightened America",
-      "videoId": "SnVQ-gK96lM",
-      "url": "https://www.youtube.com/watch?v=SnVQ-gK96lM",
-      "publishedAt": "2026-11-05T23:00:34+00:00"
+      "title": "&quot;Anything That Might Save My Foot&quot;",
+      "videoId": "S0UKqR8yrOo",
+      "url": "https://www.youtube.com/watch?v=S0UKqR8yrOo",
+      "publishedAt": "2026-11-06T23:00:05+00:00"
     },
     {
       "source": "youtube",
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Edison’s Half Mile Problem",
-      "videoId": "ub00LkAWPe4",
-      "url": "https://www.youtube.com/watch?v=ub00LkAWPe4",
-      "publishedAt": "2026-10-28T22:00:14+00:00"
+      "title": "Why Edison Lost the Battle of the Currents",
+      "videoId": "iajgS3611BM",
+      "url": "https://www.youtube.com/watch?v=iajgS3611BM",
+      "publishedAt": "2026-10-29T22:00:06+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Bitcoin's Worst-Case Scenario: $58K Level Could Trigger a World of Pain",
-      "videoId": "eZh1MHADr4Q",
-      "url": "https://www.youtube.com/watch?v=eZh1MHADr4Q",
-      "publishedAt": "2026-11-05T21:33:17+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Is the Bull Trend Broken? Trading the Markets w/ Kris Bullock and Nico Brugge",
-      "videoId": "JqoCmdswbBU",
-      "url": "https://www.youtube.com/watch?v=JqoCmdswbBU",
-      "publishedAt": "2026-10-29T06:04:38+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "40 Million Transactions Per Second Still Isn't FAST Enough?!?",
-      "videoId": "lf0-zXqHoBM",
-      "url": "https://www.youtube.com/watch?v=lf0-zXqHoBM",
-      "publishedAt": "2026-10-28T18:00:13+00:00"
+      "title": "Wall Street Is Getting the AI Trade Wrong",
+      "videoId": "FZi50rpMRW4",
+      "url": "https://www.youtube.com/watch?v=FZi50rpMRW4",
+      "publishedAt": "2026-10-29T20:45:24+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 5
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-11-06T13:28:30.069Z",
+  "generatedAt": "2026-11-07T12:08:03.611Z",
   "lookbackHours": 336
 }
