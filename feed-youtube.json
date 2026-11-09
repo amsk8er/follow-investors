@@ -5,35 +5,65 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Silicon Valley Walks the Jagged Edge",
-      "videoId": "gADulYiRSww",
-      "url": "https://www.youtube.com/watch?v=gADulYiRSww",
-      "publishedAt": "2026-10-30T14:00:40+00:00"
+      "title": "How Cisco Got Bullwhipped",
+      "videoId": "aPuPzqJN1DQ",
+      "url": "https://www.youtube.com/watch?v=aPuPzqJN1DQ",
+      "publishedAt": "2026-11-08T23:00:32+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "A $300,000 Computer Pushed TCS Into Exports",
+      "videoId": "TTGOXA5OgY4",
+      "url": "https://www.youtube.com/watch?v=TTGOXA5OgY4",
+      "publishedAt": "2026-11-01T07:00:31+00:00"
     },
     {
       "source": "youtube",
       "channel": "美投讲美股",
       "handle": "@MeiTouJun",
       "tag": "中文压缩",
-      "title": "投资能赚钱，还做什么博主？业内人告诉你，如何筛选好博主！",
-      "videoId": "6LiHFqguqcQ",
-      "url": "https://www.youtube.com/watch?v=6LiHFqguqcQ",
-      "publishedAt": "2026-11-08T02:21:10+00:00"
+      "title": "个人Agent横空出世！新一轮军备竞赛即将展开！AI又要变天了？",
+      "videoId": "U6DV0MzMBJs",
+      "url": "https://www.youtube.com/watch?v=U6DV0MzMBJs",
+      "publishedAt": "2026-11-01T02:44:10+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why AI Is NOT the Next Dot-Com Bubble with Andreas Steno and Mikkel Rosenvold | Macro Mondays",
-      "videoId": "NBdPcM2GFJA",
-      "url": "https://www.youtube.com/watch?v=NBdPcM2GFJA",
-      "publishedAt": "2026-10-26T15:32:55+00:00"
+      "title": "The Economy Is Sending a Surprising Signal? with Mikkel Rosenvold | Macro Mondays Nov 9, 2026",
+      "videoId": "9JC499IVEAc",
+      "url": "https://www.youtube.com/watch?v=9JC499IVEAc",
+      "publishedAt": "2026-11-09T13:54:07+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Is the U.S. Dollar Setting Up for Historic Money Printing?",
+      "videoId": "H7aJIEohvrE",
+      "url": "https://www.youtube.com/watch?v=H7aJIEohvrE",
+      "publishedAt": "2026-11-08T20:30:02+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Cem Karsan: &quot;The Fed Is Preparing to Print Again&quot; with Ash Bennington",
+      "videoId": "hqOKMdbUaKk",
+      "url": "https://www.youtube.com/watch?v=hqOKMdbUaKk",
+      "publishedAt": "2026-11-08T14:00:33+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 6
   },
-  "generatedAt": "2026-11-08T12:29:02.611Z",
+  "generatedAt": "2026-11-09T14:44:35.392Z",
   "lookbackHours": 336
 }
