@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]",
-      "guid": "f2c43732-dd18-11f1-bff2-0bf5984a7473",
-      "url": "https://colossus.com/episode/the-patient-revolution/",
-      "publishedAt": "Wed, 11 Nov 2026 09:00:00 -0000",
-      "description": "My guest today is Zach Reitano, the co-founder and CEO of Ro, the country’s leading provider of GLP-1s. In four years, Ro has grown from a $250 million run rate to over $3 billion, with fewer people than it had in 2021. The heart of our conversation is what he sees as the central flaw in American healthcare, which is that the patient is not the customer. He points to GLP-1s and LASIK as examples of what’s possible when patients pay directly, and he thinks AI could bring healthcare down to the pr"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-11-11T13:14:31.943Z",
+  "generatedAt": "2026-11-12T14:18:31.447Z",
   "lookbackHours": 336
 }

@@ -2,38 +2,18 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Special Antibiotic Collected in Indonesia",
-      "videoId": "9LMvGwOT1a0",
-      "url": "https://www.youtube.com/watch?v=9LMvGwOT1a0",
-      "publishedAt": "2026-11-03T04:00:28+00:00"
-    },
-    {
-      "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The AI Trade May Have Just Hit Its Breaking Point!",
-      "videoId": "5TmE_8W5-qU",
-      "url": "https://www.youtube.com/watch?v=5TmE_8W5-qU",
-      "publishedAt": "2026-11-10T14:25:31+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Crypto’s Institutional Era Has Begun w/ Tania Reif, David Duong, Chris Perkins",
-      "videoId": "MgMp42NOCos",
-      "url": "https://www.youtube.com/watch?v=MgMp42NOCos",
-      "publishedAt": "2026-11-01T14:00:11+00:00"
+      "title": "Why Crypto's Biggest Weakness Could Be Its Strength",
+      "videoId": "f9pcdTKeBM8",
+      "url": "https://www.youtube.com/watch?v=f9pcdTKeBM8",
+      "publishedAt": "2026-11-12T13:44:41+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 1
   },
-  "generatedAt": "2026-11-11T13:14:31.943Z",
+  "generatedAt": "2026-11-12T14:18:31.447Z",
   "lookbackHours": 336
 }
