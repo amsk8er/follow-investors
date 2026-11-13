@@ -1,8 +1,20 @@
 {
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Invest Like the Best",
+      "host": "Patrick O'Shaughnessy",
+      "tag": "认知框架",
+      "title": "Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]",
+      "guid": "49530156-d7dc-11f1-b21c-fbd5cb900e1d",
+      "url": "https://colossus.com/episode/the-productive-investor/",
+      "publishedAt": "Wed, 04 Nov 2026 09:00:00 -0000",
+      "description": "My guest today is Martin Casado, General Partner at Andreessen Horowitz.&nbsp; Martin has spent three decades building and investing in technology infrastructure. We discuss why traditional approaches to investing often fail to capture disruptive technologies, how AI is reshaping the economics of software, and why the ability to turn capital directly into technological progress may be the most important change of all. Martin also shares lessons from some of his biggest investments and acquisitio"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   },
-  "generatedAt": "2026-11-12T14:18:31.447Z",
+  "generatedAt": "2026-11-13T13:39:49.253Z",
   "lookbackHours": 336
 }
