@@ -5,25 +5,35 @@
       "channel": "Asianometry (Jon Y)",
       "handle": "@asianometry",
       "tag": "产业研究",
-      "title": "Why Japanese Supercomputers Frightened America",
-      "videoId": "SnVQ-gK96lM",
-      "url": "https://www.youtube.com/watch?v=SnVQ-gK96lM",
-      "publishedAt": "2026-11-05T23:00:34+00:00"
+      "title": "&quot;Anything That Might Save My Foot&quot;",
+      "videoId": "S0UKqR8yrOo",
+      "url": "https://www.youtube.com/watch?v=S0UKqR8yrOo",
+      "publishedAt": "2026-11-06T23:00:05+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "没有黄仁勋的英伟达，还能投资吗？",
+      "videoId": "wcx2A_31VcU",
+      "url": "https://www.youtube.com/watch?v=wcx2A_31VcU",
+      "publishedAt": "2026-11-15T04:16:49+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Bitcoin's Worst-Case Scenario: $58K Level Could Trigger a World of Pain",
-      "videoId": "eZh1MHADr4Q",
-      "url": "https://www.youtube.com/watch?v=eZh1MHADr4Q",
-      "publishedAt": "2026-11-05T21:33:17+00:00"
+      "title": "Why Crypto Engineers Are Prime Targets for Hackers",
+      "videoId": "OLb3sYreMxU",
+      "url": "https://www.youtube.com/watch?v=OLb3sYreMxU",
+      "publishedAt": "2026-11-14T14:30:20+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-11-14T12:44:36.076Z",
+  "generatedAt": "2026-11-15T13:11:36.499Z",
   "lookbackHours": 336
 }
