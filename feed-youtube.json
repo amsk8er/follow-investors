@@ -2,48 +2,18 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "How Cisco Got Bullwhipped",
-      "videoId": "aPuPzqJN1DQ",
-      "url": "https://www.youtube.com/watch?v=aPuPzqJN1DQ",
-      "publishedAt": "2026-11-08T23:00:32+00:00"
-    },
-    {
-      "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The Economy Is Sending a Surprising Signal? with Mikkel Rosenvold | Macro Mondays",
-      "videoId": "by_7k0EZpdE",
-      "url": "https://www.youtube.com/watch?v=by_7k0EZpdE",
-      "publishedAt": "2026-11-09T16:53:14+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Is the U.S. Dollar Setting Up for Historic Money Printing?",
-      "videoId": "H7aJIEohvrE",
-      "url": "https://www.youtube.com/watch?v=H7aJIEohvrE",
-      "publishedAt": "2026-11-08T20:30:02+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Cem Karsan: &quot;The Fed Is Preparing to Print Again&quot; with Ash Bennington",
-      "videoId": "hqOKMdbUaKk",
-      "url": "https://www.youtube.com/watch?v=hqOKMdbUaKk",
-      "publishedAt": "2026-11-08T14:00:33+00:00"
+      "title": "The AI Trade May Have Just Hit Its Breaking Point!",
+      "videoId": "5TmE_8W5-qU",
+      "url": "https://www.youtube.com/watch?v=5TmE_8W5-qU",
+      "publishedAt": "2026-11-10T14:25:31+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 1
   },
-  "generatedAt": "2026-11-18T14:50:02.053Z",
+  "generatedAt": "2026-11-19T14:56:34.824Z",
   "lookbackHours": 336
 }
