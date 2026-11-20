@@ -2,18 +2,48 @@
   "youtube": [
     {
       "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Should TSMC Make 3D DRAM?",
+      "videoId": "nIzRMNjTm50",
+      "url": "https://www.youtube.com/watch?v=nIzRMNjTm50",
+      "publishedAt": "2026-11-19T23:00:31+00:00"
+    },
+    {
+      "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "The AI Trade May Have Just Hit Its Breaking Point!",
-      "videoId": "5TmE_8W5-qU",
-      "url": "https://www.youtube.com/watch?v=5TmE_8W5-qU",
-      "publishedAt": "2026-11-10T14:25:31+00:00"
+      "title": "The Next Global Power Shift Has Begun with Dr. Pippa Malmgren",
+      "videoId": "4eI8XHIjZCA",
+      "url": "https://www.youtube.com/watch?v=4eI8XHIjZCA",
+      "publishedAt": "2026-11-19T21:00:00+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why a Veteran Bitcoin Trader Is Sitting in Cash",
+      "videoId": "E-QcHKNR1rE",
+      "url": "https://www.youtube.com/watch?v=E-QcHKNR1rE",
+      "publishedAt": "2026-11-19T17:29:43+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Wall Street Could Be Wrong About AI | Macro Mondays with Andreas Steno",
+      "videoId": "ctyvkyTw1Z4",
+      "url": "https://www.youtube.com/watch?v=ctyvkyTw1Z4",
+      "publishedAt": "2026-11-19T16:19:53+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 1
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-11-19T14:56:34.824Z",
+  "generatedAt": "2026-11-20T14:38:13.963Z",
   "lookbackHours": 336
 }
