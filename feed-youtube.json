@@ -2,48 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "Indonesia’s Mega Rice Failure",
-      "videoId": "ZnNRkW51qng",
-      "url": "https://www.youtube.com/watch?v=ZnNRkW51qng",
-      "publishedAt": "2026-11-12T23:00:39+00:00"
+      "channel": "美投讲美股",
+      "handle": "@MeiTouJun",
+      "tag": "中文压缩",
+      "title": "最担心的来了！AI泡沫破裂？美股还有救吗？",
+      "videoId": "v_2Q_rdJPf0",
+      "url": "https://www.youtube.com/watch?v=v_2Q_rdJPf0",
+      "publishedAt": "2026-11-22T13:00:00+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Anthropic IPO: Don't FOMO in!",
-      "videoId": "GYd8BILHxMo",
-      "url": "https://www.youtube.com/watch?v=GYd8BILHxMo",
-      "publishedAt": "2026-11-20T17:55:09+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Bitcoin Could Lose $57K — What Happens Then? w/ Kris Bullock and Bijan Maleki",
-      "videoId": "epzJTWFkxpQ",
-      "url": "https://www.youtube.com/watch?v=epzJTWFkxpQ",
-      "publishedAt": "2026-11-19T07:33:40+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "Why Crypto's Biggest Weakness Could Be Its Strength",
-      "videoId": "f9pcdTKeBM8",
-      "url": "https://www.youtube.com/watch?v=f9pcdTKeBM8",
-      "publishedAt": "2026-11-12T13:44:41+00:00"
+      "title": "Solana’s President on the Next Era of Crypto | with Lily Liu at Breakpoint 2026 in London",
+      "videoId": "JZbuLchDbbw",
+      "url": "https://www.youtube.com/watch?v=JZbuLchDbbw",
+      "publishedAt": "2026-11-21T16:01:51+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 4
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-11-21T13:55:28.722Z",
+  "generatedAt": "2026-11-22T13:48:22.461Z",
   "lookbackHours": 336
 }
