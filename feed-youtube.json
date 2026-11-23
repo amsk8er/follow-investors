@@ -2,28 +2,58 @@
   "youtube": [
     {
       "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "Why the Soviet GitHub Failed",
+      "videoId": "CIFWlxQrl88",
+      "url": "https://www.youtube.com/watch?v=CIFWlxQrl88",
+      "publishedAt": "2026-11-22T23:00:22+00:00"
+    },
+    {
+      "source": "youtube",
       "channel": "美投讲美股",
       "handle": "@MeiTouJun",
       "tag": "中文压缩",
-      "title": "最担心的来了！AI泡沫破裂？美股还有救吗？",
-      "videoId": "v_2Q_rdJPf0",
-      "url": "https://www.youtube.com/watch?v=v_2Q_rdJPf0",
-      "publishedAt": "2026-11-22T13:00:00+00:00"
+      "title": "没有黄仁勋的英伟达，还能投资吗？",
+      "videoId": "wcx2A_31VcU",
+      "url": "https://www.youtube.com/watch?v=wcx2A_31VcU",
+      "publishedAt": "2026-11-15T04:16:49+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Solana’s President on the Next Era of Crypto | with Lily Liu at Breakpoint 2026 in London",
-      "videoId": "JZbuLchDbbw",
-      "url": "https://www.youtube.com/watch?v=JZbuLchDbbw",
-      "publishedAt": "2026-11-21T16:01:51+00:00"
+      "title": "Why This AI Selloff Looks Like 1998 | Macro Mondays with Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "9l2mf4qmvIk",
+      "url": "https://www.youtube.com/watch?v=9l2mf4qmvIk",
+      "publishedAt": "2026-11-23T15:50:14+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Drinks with the Danes | Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "iJxw3YIozxQ",
+      "url": "https://www.youtube.com/watch?v=iJxw3YIozxQ",
+      "publishedAt": "2026-11-23T13:58:28+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why Crypto Engineers Are Prime Targets for Hackers",
+      "videoId": "OLb3sYreMxU",
+      "url": "https://www.youtube.com/watch?v=OLb3sYreMxU",
+      "publishedAt": "2026-11-14T14:30:20+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 5
   },
-  "generatedAt": "2026-11-22T13:48:22.461Z",
+  "generatedAt": "2026-11-23T16:54:10.605Z",
   "lookbackHours": 336
 }
