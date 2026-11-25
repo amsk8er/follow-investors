@@ -2,38 +2,28 @@
   "youtube": [
     {
       "source": "youtube",
-      "channel": "Asianometry (Jon Y)",
-      "handle": "@asianometry",
-      "tag": "产业研究",
-      "title": "The Rise and Fall of the Soviet Union's Workhorse Computer",
-      "videoId": "ZQ_1cH6_2N4",
-      "url": "https://www.youtube.com/watch?v=ZQ_1cH6_2N4",
-      "publishedAt": "2026-11-15T23:00:35+00:00"
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Bitcoin Could Lose $57K — What Happens Then? w/ Kris Bullock and Bijan Maleki",
+      "videoId": "TOYlOgQBKfM",
+      "url": "https://www.youtube.com/watch?v=TOYlOgQBKfM",
+      "publishedAt": "2026-11-25T14:24:18+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Matt Hougan: Solana Could Be Dramatically Undervalued | CIO of Bitwise at Breakpoint 2026 in London",
-      "videoId": "k-2uPMm_tL0",
-      "url": "https://www.youtube.com/watch?v=k-2uPMm_tL0",
-      "publishedAt": "2026-11-24T13:00:01+00:00"
-    },
-    {
-      "source": "youtube",
-      "channel": "Real Vision",
-      "handle": "@RealVisionFinance",
-      "tag": "认知框架",
-      "title": "The AI Stock Bottom Is In?",
-      "videoId": "L4sywE_hTUs",
-      "url": "https://www.youtube.com/watch?v=L4sywE_hTUs",
-      "publishedAt": "2026-11-23T22:17:58+00:00"
+      "title": "Why Solana's Next Chapter Is Bigger Than Blockchain",
+      "videoId": "rrUDF6Qyaec",
+      "url": "https://www.youtube.com/watch?v=rrUDF6Qyaec",
+      "publishedAt": "2026-11-24T22:28:38+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 3
+    "youtubeVideos": 2
   },
-  "generatedAt": "2026-11-24T16:44:09.585Z",
+  "generatedAt": "2026-11-25T16:30:10.028Z",
   "lookbackHours": 336
 }
