@@ -1,20 +1,8 @@
 {
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Invest Like the Best",
-      "host": "Patrick O'Shaughnessy",
-      "tag": "认知框架",
-      "title": "Brad Gerstner &amp; Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]",
-      "guid": "45532d30-e257-11f1-8502-838134ccd67e",
-      "url": "https://colossus.com/episode/restoring-the-american-dream/",
-      "publishedAt": "Tue, 17 Nov 2026 13:00:00 -0000",
-      "description": "My guests today are Brad Gerstner, founder of Altimeter Capital, and Geoffrey Canada, founder of Harlem Children's Zone. Geoffrey spent decades helping disadvantaged kids get a great education, but it takes more than that to achieve the American dream. Without savings, you’re one emergency away from bankruptcy. Brad set out to change that. When he first called me about Invest America in 2020, I thought it was a fool’s errand. Six years later, nearly 70 million children have accounts in their nam"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   },
-  "generatedAt": "2026-11-25T16:30:10.028Z",
+  "generatedAt": "2026-11-26T16:03:06.070Z",
   "lookbackHours": 336
 }

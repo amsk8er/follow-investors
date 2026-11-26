@@ -5,25 +5,35 @@
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Bitcoin Could Lose $57K — What Happens Then? w/ Kris Bullock and Bijan Maleki",
-      "videoId": "TOYlOgQBKfM",
-      "url": "https://www.youtube.com/watch?v=TOYlOgQBKfM",
-      "publishedAt": "2026-11-25T14:24:18+00:00"
+      "title": "Ledger’s Ian Rogers: AI Is Creating a Security Nightmare | at Breakpoint 2026 in London",
+      "videoId": "eS5TB2gRsR8",
+      "url": "https://www.youtube.com/watch?v=eS5TB2gRsR8",
+      "publishedAt": "2026-11-26T13:00:23+00:00"
     },
     {
       "source": "youtube",
       "channel": "Real Vision",
       "handle": "@RealVisionFinance",
       "tag": "认知框架",
-      "title": "Why Solana's Next Chapter Is Bigger Than Blockchain",
-      "videoId": "rrUDF6Qyaec",
-      "url": "https://www.youtube.com/watch?v=rrUDF6Qyaec",
-      "publishedAt": "2026-11-24T22:28:38+00:00"
+      "title": "Why This AI Selloff Looks Like 1998 | Macro Mondays with Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "JLqXdi3yxxA",
+      "url": "https://www.youtube.com/watch?v=JLqXdi3yxxA",
+      "publishedAt": "2026-11-25T20:04:21+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "🔴 Drinks with the Danes LIVE @ 3pm ET | Andreas Steno &amp; Mikkel Rosenvold",
+      "videoId": "tI3rtr2JSfY",
+      "url": "https://www.youtube.com/watch?v=tI3rtr2JSfY",
+      "publishedAt": "2026-11-25T20:01:04+00:00"
     }
   ],
   "stats": {
-    "youtubeVideos": 2
+    "youtubeVideos": 3
   },
-  "generatedAt": "2026-11-25T16:30:10.028Z",
+  "generatedAt": "2026-11-26T16:03:06.070Z",
   "lookbackHours": 336
 }
