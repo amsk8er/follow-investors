@@ -1,8 +1,49 @@
 {
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "channel": "Asianometry (Jon Y)",
+      "handle": "@asianometry",
+      "tag": "产业研究",
+      "title": "TSMC Making 3D DRAM?",
+      "videoId": "nIzRMNjTm50",
+      "url": "https://www.youtube.com/watch?v=nIzRMNjTm50",
+      "publishedAt": "2026-11-19T23:00:31+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "A 118-Year-Old Fund Goes Onchain | Kathrin Hamilton of Baillie Gifford at Breakpoint 2026 in London",
+      "videoId": "fELJMouAz18",
+      "url": "https://www.youtube.com/watch?v=fELJMouAz18",
+      "publishedAt": "2026-11-28T14:00:14+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "The Next Global Power Shift Has Begun with Dr. Pippa Malmgren",
+      "videoId": "4eI8XHIjZCA",
+      "url": "https://www.youtube.com/watch?v=4eI8XHIjZCA",
+      "publishedAt": "2026-11-19T21:00:00+00:00"
+    },
+    {
+      "source": "youtube",
+      "channel": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "tag": "认知框架",
+      "title": "Why a Veteran Bitcoin Trader Is Sitting in Cash",
+      "videoId": "E-QcHKNR1rE",
+      "url": "https://www.youtube.com/watch?v=E-QcHKNR1rE",
+      "publishedAt": "2026-11-19T17:29:43+00:00"
+    }
+  ],
   "stats": {
-    "youtubeVideos": 0
+    "youtubeVideos": 4
   },
-  "generatedAt": "2026-11-27T15:51:54.723Z",
+  "generatedAt": "2026-11-28T14:46:34.579Z",
   "lookbackHours": 336
 }
